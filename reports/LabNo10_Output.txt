@@ -1,0 +1,73 @@
+
+  Lab Assignment # 10                                         By  Piter Garcia
+  -------------------                                         ----------------
+
+
+                   While Statement Program using Nested Loops
+               =================================================
+
+
+
+
+
+                        Student Grades and Average Table
+                     --------------------------------------
+         __________________________________________________________
+
+                 Exams            Grades        Number of Students
+         __________________________________________________________
+
+                                                         1 Student
+            Exam No. 1                95
+            Exam No. 2                85
+            Exam No. 3                85
+            Exam No. 4                95
+         __________________________________________________________
+
+         Student ID No       Total Grade                    Average
+             R00514049               360                     90.00
+         __________________________________________________________
+
+
+                                                         2 Student
+            Exam No. 1                85
+            Exam No. 2                95
+            Exam No. 3                95
+            Exam No. 4                85
+         __________________________________________________________
+
+         Student ID No       Total Grade                    Average
+             R00514940               360                     90.00
+         __________________________________________________________
+
+
+                                                         3 Student
+            Exam No. 1                90
+            Exam No. 2                80
+            Exam No. 3                80
+            Exam No. 4                90
+         __________________________________________________________
+
+         Student ID No       Total Grade                    Average
+             R00504940               340                     85.00
+         __________________________________________________________
+
+
+                                                         4 Student
+            Exam No. 1                80
+            Exam No. 2                90
+            Exam No. 3                90
+            Exam No. 4                80
+         __________________________________________________________
+
+         Student ID No       Total Grade                    Average
+             R00504049               340                     85.00
+         __________________________________________________________
+
+
+         Total Students                                Total Average
+
+                      4                                       87.50
+
+
+Press any key to continue . . .

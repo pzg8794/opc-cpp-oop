@@ -1,0 +1,18 @@
+
+
+  Lab Assignment # 09                                     By  Piter Garcia
+  -------------------                                     ----------------
+
+
+
+                   Deleting an Index Value from an Array  
+                   =======================================
+
+  ORIGIAL ELEMENTS OF THE LIST: ............... THE SIZE OF THE LIST IS 12
+  4  23  65  34  82  37  12  17  24  36  82  51
+
+  ELEMENTS OF THE LIST
+  AFTER DELETING THE LIST INDEX7............... THE SIZE OF THE LIST IS 11
+  4  23  65  34  82  37  12  24  36  82  51
+
+  ...............................  THE ELEMENT REMOVED FROM THE LIST IS 17

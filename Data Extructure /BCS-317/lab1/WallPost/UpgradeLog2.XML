@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WallPost">
+</Property><Property Name="Solution File" Value="F:\Data Extructure\WallPost\WallPost.sln">
+</Property><Property Name="User Options File" Value="F:\Data Extructure\WallPost\WallPost.suo">
+</Property><Property Name="Date" Value="Wednesday, October 12, 2011">
+</Property><Property Name="Time" Value="23:31 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="WallPost.sln" Description="Error creating backup file: F:\Data Extructure\WallPost\WallPost.sln.old">
+</Event><Event ErrorLevel="2" Project="" Source="WallPost.suo" Description="Error creating backup file: F:\Data Extructure\WallPost\WallPost.suo.old">
+</Event><Event ErrorLevel="0" Project="WallPost" Source="WallPost\WallPost.vcproj" Description="Converting project file 'F:\Data Extructure\WallPost\WallPost\WallPost.vcproj'.">
+</Event><Event ErrorLevel="1" Project="WallPost" Source="WallPost\WallPost.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="WallPost" Source="WallPost\WallPost.vcproj" Description="Done converting to new project file 'F:\Data Extructure\WallPost\WallPost\WallPost.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="WallPost" Source="WallPost\WallPost.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WallPost.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WallPost.sln" Description="Converted">
+</Event></UpgradeLog>

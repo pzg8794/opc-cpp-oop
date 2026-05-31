@@ -1,0 +1,53 @@
+;Lab 1 - answers FIBONACCI submitted to Balaji by
+;Piter Garcia
+;GENERATE FIBONACI SERIES
+;0,1,1,2,3,5,8,13,21,43.......
+;16 BIT ANSWERS IN AX AND BX (in HEX)
+.     Type a question mark (?) to get a Debug HELP screen.
+(!DOSCALC) pulls up a Decimal/Hexadecimal/Binary calculator.Esc to leave
+Microsoft (R) Symbolic Debug Utility  Version 4.00
+Copyright (C) Microsoft Corp 1984, 1985.  REVISED 05/07/89   .
+
+Type '?' for  80286]
+-bp 9
+-g
+AX=0000  BX=0001  CX=0000  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL ZR NA PE NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=0001  BX=0000  CX=0001  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL NZ NA PO NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=0001  BX=0001  CX=0001  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL NZ NA PO NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=0002  BX=0001  CX=0002  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL NZ NA PO NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=0003  BX=0002  CX=0003  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL NZ NA PE NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=0005  BX=0003  CX=0005  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL NZ NA PE NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=0008  BX=0005  CX=0008  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL NZ NA PO NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=000D  BX=0008  CX=000D  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL NZ NA PO NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=0015  BX=000D  CX=0015  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL NZ AC PO NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=0022  BX=0015  CX=0022  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL NZ AC PE NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-

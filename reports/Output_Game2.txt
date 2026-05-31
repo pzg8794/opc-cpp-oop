@@ -1,0 +1,138 @@
+
+
+ Extra Credit #1                                              By  Piter Garcia
+ ________________                                             _________________
+
+
+                   Creating a Craps Game with C++ Functions
+               ================================================
+
+
+
+
+
+                       << Welcome to the Craps Game >>
+                      -----------------------------------
+
+ You have a fund of $1000 dollars
+ Do you want to play ?
+ If so enter any number, otherwise enter 0
+ 1
+ Please enter below the Money you wish to bet
+ 1000
+
+
+
+ Round 1
+ Please enter the number to which you are betting
+ 21
+ Press any number to throw the dies
+ 11
+
+ Dies Rolling...
+
+ Die#1   Die#2
+     2       1
+
+ You have got a 3
+
+ You have Lost Round 1 !
+ Therefore you have lost $1000 dollars
+
+
+
+ The Round 1 is Over!
+ You have lost a fund of $1000 dollars
+ Do you want to refill your funds to keep playing ?
+ If so enter any number, otherwise enter 0
+ 1
+
+
+ Please enter the amount you want to refill your funds with
+ 2000
+
+
+  Welcome to the Craps Game Once Again
+  You have $2000 dollars in funds to play
+  Please enter below the Money you wish to bet
+  1000
+
+ Round 2
+ Please enter the number to which you are betting
+ 21
+ Press any number to throw the dies
+ 3
+
+ Dies Rolling...
+
+ Die#1   Die#2
+     3       4
+
+ You have got a 7
+
+ You have won Round 2 !
+ Now you have  won $1000 dollars
+
+
+
+ The Round 2 is Over!
+ You have $3000 dollars left to Play
+ Do you want to keep playing ?
+ If so enter any number, otherwise enter 0
+ 1
+
+
+  Welcome to the Craps Game Once Again
+  You have $3000 dollars in funds to play
+  Please enter below the Money you wish to bet
+  1000
+
+ Round 3
+ Please enter the number to which you are betting
+ 21
+ Press any number to throw the dies
+ 3
+
+ Dies Rolling...
+
+ Die#1   Die#2
+     2       2
+
+ You have got a 4
+
+ Round 3
+ You Have 4 Points
+ You still can win!
+
+ Press any number to throw the dies
+ 7
+
+ Dies Rolling...
+
+ Die#1   Die#2
+     4       3
+
+ You have got a 7
+
+ You have Lost Round 3 !
+ Therefore you have lost $1000 dollars
+
+
+
+ The Round 3 is Over!
+ You have $2000 dollars left to Play
+ Do you want to keep playing ?
+ If so enter any number, otherwise enter 0
+ 0
+
+
+ Congratulations !
+
+ You have played a total of 3 rounds
+ You have kept your funds of $2000 dollars
+ You also have won a total of $0 dollars
+ Therefore, you are leaving with a total amount of $2000 dollars
+
+ Thanks for Playing
+
+Press any key to continue . . .

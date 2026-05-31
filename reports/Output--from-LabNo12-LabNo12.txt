@@ -1,0 +1,26 @@
+
+
+  Lab Assignment # 12                                         By  Piter Garcia
+  -------------------                                         ----------------
+
+
+                   While Statement Program using Nested Loops
+               =================================================
+
+
+
+
+
+                       Testing for Vowels and Consonants
+                     --------------------------------------
+
+ Please enter any name or word to find out its vowels or consonants:
+
+ Peter Garcia
+
+ The name or word you have entered is:
+ Peter Garcia
+
+ This name or word has 11 characters, 5 vowels and 6 consonants
+
+ Press any key to continue . . .

@@ -1,0 +1,243 @@
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# reports
+
+This index keeps the directory navigable and points each item to its current role.
+
+## Contents
+
+- `3DPONG/` - Directory containing related files for this portfolio item.
+- `Cpp_Prog_I_II/` - Directory containing related files for this portfolio item.
+- `CppProjects/` - Directory containing related files for this portfolio item.
+- `CryptoHw7/` - Directory containing related files for this portfolio item.
+- `Data Extructure /` - Directory containing related files for this portfolio item.
+- `EET-110/` - Directory containing related files for this portfolio item.
+- `EET-327LAB13C++CODE/` - Directory containing related files for this portfolio item.
+- `FCTextC/` - Directory containing related files for this portfolio item.
+- `Lab4/` - Directory containing related files for this portfolio item.
+- `Programming I/` - Directory containing related files for this portfolio item.
+- `Stuff/` - Directory containing related files for this portfolio item.
+- `1rst.txt` - File, 730 B.
+- `9783540430728-c1.pdf` - File, 1.0 MB.
+- `AdvSec05_quiz1.pdf` - File, 38.4 KB.
+- `AES CIPHER.Part2.doc` - File, 148.0 KB.
+- `Arthur_Hoskey_BCS_370_Fall_2011_Syllabus.doc` - File, 53.0 KB.
+- `Assigment#5_1.txt` - File, 2.6 KB.
+- `Assigment#5_2correction.txt` - File, 1.1 KB.
+- `Assigment#5_2pgRight..txt` - File, 1.1 KB.
+- `Assigment#5_3pgRight.txt` - File, 3.2 KB.
+- `Assigment5_input.txt` - File, 238 B.
+- `Assignment Lab No.10.docx` - File, 17.6 KB.
+- `Assignment2--from-AssignmentNo1-AssignmentNo1.txt` - File, 0 B.
+- `Assignment2--from-AssignmentNo2-AssignmentNo2.txt` - File, 2.4 KB.
+- `Assignment2--from-hw2-hw2.txt` - File, 2.4 KB.
+- `Assignment2--from-test-test.txt` - File, 327 B.
+- `Assignment2.txt` - File, 268 B.
+- `Assignment3.txt` - File, 3.8 KB.
+- `Assignment4.txt` - File, 6.9 KB.
+- `Assignment5.txt` - File, 3.3 KB.
+- `Assignment_1_-_BCS_370_Data_Structures.doc` - File, 31.5 KB.
+- `Assignment_2_-_BCS_370_Data_Structures.doc` - File, 33.5 KB.
+- `Assignment_3_-_BCS_370_Data_Structures.doc` - File, 35.5 KB.
+- `Assignment_4_-_BCS_370_Data_Structures.doc` - File, 36.5 KB.
+- `Assignment_5_-_BCS_370_Data_Structures.doc` - File, 38.0 KB.
+- `AssignmentNo.7A.docx` - File, 29.7 KB.
+- `AssignmentNo2_Output.txt` - File, 400 B.
+- `AssignmentNo3Output.txt` - File, 1.1 KB.
+- `AssignmentNo4.1_output--from-Paint_Job_Estimator-Paint_Job_Estimator.txt` - File, 3.2 KB.
+- `AssignmentNo4.1_output.txt` - File, 3.4 KB.
+- `AssignmentNo4_output--from-Paint_Job_Estimator-Paint_Job_Estimator.txt` - File, 989 B.
+- `AssignmentNo4_output.txt` - File, 2.9 KB.
+- `AssignmentNo5_output--from-AssigntmentNo.5-AssigntmentNo.5.txt` - File, 6.0 KB.
+- `AssignmentNo5_output.txt` - File, 6.0 KB.
+- `AssignmentNo6_input.txt` - File, 126 B.
+- `AssignmentNo6_output--from-AssignmentNo6-AssignmentNo6.txt` - File, 1.3 KB.
+- `AssignmentNo6_output--from-lab5-lab5.txt` - File, 0 B.
+- `AssignmentNo6_output--from-Lab_AssigntmentNo.6-Lab_AssigntmentNo.6.txt` - File, 2.1 KB.
+- `AssignmentNo6_output.txt` - File, 208 B.
+- `AssignmentNo8_input.txt` - File, 70 B.
+- `AssignmentNo8_inputfile.txt` - File, 150 B.
+- `AssignmentNo8_Low_inputfile.txt` - File, 0 B.
+- `AssignmentNo8_Month_inputfile.txt` - File, 48 B.
+- `AssignmentNo8_output--from-LabAssigmentNo8-LabAssigmentNo8.txt` - File, 1.2 KB.
+- `AssignmentNo8_output--from-LabAssignmentNo9-LabAssignmentNo9.txt` - File, 551 B.
+- `AssignmentNo8_output.txt` - File, 3.4 KB.
+- `AssignmentNo9_output.txt` - File, 634 B.
+- `BaseballPlayers4.txt` - File, 1.2 KB.
+- `BaseballPlayers5.txt` - File, 1.2 KB.
+- `BCS-230 LabNo8.docx` - File, 37.5 KB.
+- `bcs-230-labNo9.docx` - File, 22.4 KB.
+- `BCS230 - Imput files.docx` - File, 21.2 KB.
+- `BCS_370_L2_-_Employee_Class_Lab_Exercise (1).docx` - File, 10.0 KB.
+- `BCS_370_L2_-_Employee_Class_Lab_Exercise.docx` - File, 10.0 KB.
+- `BinarySearchTree.txt` - File, 2.1 KB.
+- `Block_cipher_method.pdf` - File, 551.6 KB.
+- `C++ Program_Output.txt` - File, 454 B.
+- `Ch3_Ex6input.txt` - File, 88 B.
+- `Ch3_Ex6output.txt` - File, 788 B.
+- `checking_grades.txt` - File, 1.7 KB.
+- `chivo.docx` - File, 23.5 KB.
+- `chpater_4_homework.pdf` - File, 73.2 KB.
+- `Clonefile.txt` - File, 1.3 KB.
+- `Code.docx` - File, 37.9 KB.
+- `Commenting_Guidlines.doc` - File, 30.0 KB.
+- `Credits.rtf` - File, 436 B.
+- `Crypto Homework 7.docx` - File, 176.1 KB.
+- `Crypto Homework 7.pdf` - File, 1.8 MB.
+- `Cryptograph_Primitives_and_Protocols.pdf` - File, 1.6 MB.
+- `Debugging Problems.docx` - File, 63.9 KB.
+- `EET 110#2 (2).docx` - File, 27.5 KB.
+- `EET 110#2.docx` - File, 22.6 KB.
+- `EET 110.docx` - File, 17.9 KB.
+- `EET%20110#2.docx` - File, 22.4 KB.
+- `EET-110.docx` - File, 65.7 KB.
+- `EET-113-No3.docx` - File, 62.8 KB.
+- `EET-177NO.5.docx` - File, 65.0 KB.
+- `EET327LabNo13_output.txt` - File, 943 B.
+- `Experiment_N5.cpp_code.txt` - File, 1.6 KB.
+- `Experiment_No5_3cpp.txt` - File, 354 B.
+- `ExtraCreditNo.2-Output.txt` - File, 915 B.
+- `feistelProof.pdf` - File, 321.1 KB.
+- `FirstLab-output.txt` - File, 34 B.
+- `Homework7.docx` - File, 32.3 KB.
+- `hw3sol.pdf` - File, 53.6 KB.
+- `introcrypto.pdf` - File, 1.2 MB.
+- `Lab Assignment 6 - Output&Input.docx` - File, 21.3 KB.
+- `lab1.txt` - File, 2.5 KB.
+- `Lab11BCS.docx` - File, 29.8 KB.
+- `Lab12BCS.docx` - File, 29.9 KB.
+- `Lab13BCS.docx` - File, 29.5 KB.
+- `lab17-answers.txt` - File, 1.4 KB.
+- `lab19- answers.txt` - File, 1.2 KB.
+- `lab19b- answers.txt` - File, 1.2 KB.
+- `lab1answers.txt` - File, 2.1 KB.
+- `LAB20.txt` - File, 2.1 KB.
+- `lab25-answers.txt` - File, 400 B.
+- `Lab4.txt` - File, 1.1 KB.
+- `Lab4_Input.txt` - File, 24 B.
+- `Lab4_Output--from-Lab5-Lab5.txt` - File, 195 B.
+- `Lab4_Output--from-LabNo.5-LabNo.5.txt` - File, 309 B.
+- `Lab4_Output.txt` - File, 454 B.
+- `Lab_AssigntmentNo.6_Input.txt` - File, 70 B.
+- `Lab_No2_Output--from-Lab_No2-Lab_No2.txt` - File, 508 B.
+- `Lab_No2_Output.txt` - File, 393 B.
+- `LabAssignmentNo6-Code.docx` - File, 32.2 KB.
+- `LabNo10-BCS230-InputAndOutput.docx` - File, 29.0 KB.
+- `LabNo10_input.txt` - File, 109 B.
+- `LabNo10_Output.txt` - File, 2.8 KB.
+- `LabNo11--from-lab11b-lab11b.txt` - File, 560 B.
+- `LabNo11--from-lab11C-lab11C.txt` - File, 560 B.
+- `LabNo11--from-LabAssignment11-LabAssignment11.txt` - File, 560 B.
+- `LabNo11.txt` - File, 0 B.
+- `LabNo11_output--from-lab11b-lab11b.txt` - File, 4.7 KB.
+- `LabNo11_output--from-lab11C-lab11C.txt` - File, 4.7 KB.
+- `LabNo11_output--from-LabAssignment11-LabAssignment11.txt` - File, 4.7 KB.
+- `LabNo11_output.txt` - File, 0 B.
+- `LabNo13_output.txt` - File, 0 B.
+- `LabNo14_output.txt` - File, 1.4 KB.
+- `LabNo3_Output.txt` - File, 259 B.
+- `LabNo7B.docx` - File, 30.3 KB.
+- `LabNo7C.docx` - File, 32.3 KB.
+- `LabNo9_Input.txt` - File, 39 B.
+- `LabNo9_Output.txt` - File, 1.4 KB.
+- `LABS11-13 Output.txt` - File, 4.7 KB.
+- `License.txt` - File, 1.5 KB.
+- `Losing Example--from-ExtraCreditNo1-ExtraCreditNo1.txt` - File, 1.9 KB.
+- `Losing Example.txt` - File, 1.9 KB.
+- `Monthly Payment_4.txt` - File, 1.4 KB.
+- `MortgageCalculator2..txt` - File, 1.6 KB.
+- `MyQueue4.txt` - File, 2.9 KB.
+- `MyStack4.txt` - File, 3.0 KB.
+- `NeHe's Readme.txt` - File, 760 B.
+- `Neutral Example--from-ExtraCreditNo1-ExtraCreditNo1.txt` - File, 2.2 KB.
+- `Neutral Example.txt` - File, 2.2 KB.
+- `New Text Document--from-EET-110-Assigment-5.txt` - File, 1.6 KB.
+- `New Text Document.txt` - File, 1.4 KB.
+- `Output--from-AssignmentNo7-AssignmentNo7.txt` - File, 1.1 KB.
+- `output--from-HM1-HM1.txt` - File, 1.1 KB.
+- `output--from-HM2-HM2.txt` - File, 1.1 KB.
+- `Output--from-HM3-HM3.txt` - File, 1.1 KB.
+- `Output--from-LabNo12-LabNo12.txt` - File, 675 B.
+- `Output--from-LabNo12a-LabNo12a.txt` - File, 1.3 KB.
+- `output--from-LabNo13-LabNo13.txt` - File, 863 B.
+- `output--from-LabNo14-LabNo14.txt` - File, 955 B.
+- `Output--from-LabNo6-LabNo6.txt` - File, 436 B.
+- `Output--from-LabNo7-LabNo7.txt` - File, 907 B.
+- `Output-Build--from-BCS-317-Assignment4.txt` - File, 345 B.
+- `Output-Build--from-BCS-317-AssignmentNo2.txt` - File, 665 B.
+- `Output-Build--from-BCS-317-BinaryTree.txt` - File, 1.6 KB.
+- `Output-Build--from-BCS-317-Lab11.txt` - File, 311 B.
+- `Output-Build--from-BCS-317-TrueFalse.txt` - File, 159 B.
+- `Output-Build--from-Data-Extructure--BCS-317.txt` - File, 291 B.
+- `Output-Build--from-PersonalProjects-Mark-s-Bill-Management.txt` - File, 492 B.
+- `Output-Build--from-Stuff-Assignment3.txt` - File, 296 B.
+- `Output-Build--from-Stuff-Assignment4.txt` - File, 345 B.
+- `Output-Build--from-Stuff-Lab11.txt` - File, 311 B.
+- `Output-Build.txt` - File, 0 B.
+- `Output-Debug.txt` - File, 3.6 KB.
+- `Output-Premium-a&bExceeded.txt` - File, 1.2 KB.
+- `Output-Premium-aExceeded.txt` - File, 1.2 KB.
+- `Output-Premium-bExceeded.txt` - File, 1.2 KB.
+- `Output-Premium-NoneExceeded.txt` - File, 1.2 KB.
+- `Output-Regular1.txt` - File, 1.2 KB.
+- `Output-Regular2.txt` - File, 1.2 KB.
+- `output.txt` - File, 1.2 KB.
+- `Output2--from-LabNo6-LabNo6.txt` - File, 394 B.
+- `Output2.txt` - File, 1.3 KB.
+- `Output5.txt` - File, 347 B.
+- `Output7A.txt` - File, 1.4 KB.
+- `Output7B.txt` - File, 1.4 KB.
+- `Output_File.txt` - File, 1.9 KB.
+- `Output_Game--from-ExtraCreditNo1-ExtraCreditNo1.txt` - File, 2.4 KB.
+- `Output_Game.txt` - File, 2.4 KB.
+- `Output_Game2--from-ExtraCreditNo1-ExtraCreditNo1.txt` - File, 2.5 KB.
+- `Output_Game2.txt` - File, 2.5 KB.
+- `outputlab10.txt` - File, 3.0 KB.
+- `p_garcia.doc` - File, 92.0 KB.
+- `p_garcia.pdf` - File, 153.2 KB.
+- `PA2_Output.txt` - File, 361 B.
+- `Parallel_Circuit.5.txt` - File, 1.2 KB.
+- `Programing Question#1.txt` - File, 865 B.
+- `Programing Question#2.txt` - File, 1.0 KB.
+- `Ray B.docx` - File, 17.5 KB.
+- `ReadMe--from-4-4.txt` - File, 1.0 KB.
+- `ReadMe--from-AnotherCurrection-AnotherCurrection.txt` - File, 1.1 KB.
+- `ReadMe--from-AnotherCurrection2-AnotherCurrection2.txt` - File, 1.1 KB.
+- `ReadMe--from-Assigment-5-A4-A.txt` - File, 1.1 KB.
+- `ReadMe--from-ASSIGMENT2-3A--ASSIGMENT2-3A.txt` - File, 1.1 KB.
+- `ReadMe--from-Assigment4-Assigment4.txt` - File, 1.1 KB.
+- `ReadMe--from-Assignment-7A1-Assignment-7A1.txt` - File, 1.1 KB.
+- `ReadMe--from-Assignment-7A2-Assignment-7A2.txt` - File, 1.1 KB.
+- `ReadMe--from-Assignment2-2A--Assignment2-2A.txt` - File, 1.1 KB.
+- `ReadMe--from-Assignment2-3A--Assignment2-3A.txt` - File, 1.1 KB.
+- `ReadMe--from-Assignment2-3A-2-Assignment2-3A-2.txt` - File, 1.1 KB.
+- `ReadMe--from-Assignment3-3--Assignment3-3.txt` - File, 1.1 KB.
+- `ReadMe--from-Assignment3-Assignment3.txt` - File, 1.1 KB.
+- `ReadMe--from-Assignment4-Assignment4.txt` - File, 1.1 KB.
+- `ReadMe--from-Assignment4_1-Assignment4_1.txt` - File, 1.1 KB.
+- `ReadMe--from-Assignment4_1_-Assignment4_1_.txt` - File, 1.1 KB.
+- `ReadMe--from-Assignment4_2-Assignment4_2.txt` - File, 1.1 KB.
+- `ReadMe--from-Assignment4_2_-Assignment4_2_.txt` - File, 1.2 KB.
+- `ReadMe--from-EET-110-Assignment2-3A-2.txt` - File, 4.0 KB.
+- `ReadMe--from-EET-110-Assignment3.txt` - File, 4.0 KB.
+- `ReadMe--from-EET-110-Assignment4.txt` - File, 4.0 KB.
+- `ReadMe--from-EET-110-ExamNo2.txt` - File, 4.0 KB.
+- `ReadMe--from-EET-110-ExamNo4.txt` - File, 4.0 KB.
+- `Readme--from-lesson30-Lesson30.txt` - File, 210 B.
+- `Readme--from-shadowmap-Shadow-Mapping.txt` - File, 1.8 KB.
+- `ReadMe--from-ShirtDiscount_PG-ShirtDiscount_PG.txt` - File, 1.3 KB.
+- `ReadMe--from-testing-testing.txt` - File, 1.1 KB.
+- `ReadMe--from-TrueFalse-TrueFalse.txt` - File, 1.7 KB.
+- `ReadMe.txt` - File, 1.7 KB.
+- `Refilling_funds Output--from-ExtraCreditNo1-ExtraCreditNo1.txt` - File, 2.5 KB.
+- `Refilling_funds Output.txt` - File, 2.5 KB.
+- `Resistors in Parallel.txt` - File, 1.1 KB.
+- `Results.txt` - File, 2.6 KB.
+- `Student Center-FallSchedule.pdf` - File, 130.3 KB.
+- `testing_output.txt` - File, 1.2 KB.
+- `TestingAssignment2.txt` - File, 2.4 KB.
+- `Using_Visual_C___Express.doc` - File, 840.5 KB.
+- `uw-cse599r-des-cryptanalysis.googlecode.com_svn_trunk_talk_draft1.pdf` - File, 251.1 KB.
+- `websites I closed.txt` - File, 781 B.
+- `Winning Example--from-ExtraCreditNo1-ExtraCreditNo1.txt` - File, 1.4 KB.
+- `Winning Example.txt` - File, 1.4 KB.
+- `Writing a Program with Two Functions.txt` - File, 1.4 KB.

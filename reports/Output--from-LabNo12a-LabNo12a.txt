@@ -1,0 +1,41 @@
+
+
+  Lab Assignment # 12                                         By  Piter Garcia
+  -------------------                                         ----------------
+
+
+                   NAME(S) AND WORD(S) CHARACTERS FINDER PROGRAM
+                 ================================================
+
+
+
+
+
+  Please enter any Word(s) or Name(s) for a Complete Description:
+  Peter Zachary Garcia Bautista
+
+
+
+
+
+                   DESCRIPTION OF THE NAME(S) OR WORD(S) ENTERED
+
+  ----------------------------------------------------------------------------
+
+                                             Complete Input Name(s) or Word(s)
+
+  ----------------------------------------------------------------------------
+                                                 Peter Zachary Garcia Bautista
+  ----------------------------------------------------------------------------
+
+        Characteristics Classification
+
+  ----------------------------------------------------------------------------
+  Consonant(s)  Vowel(s)  Character(s)
+  ----------------------------------------------------------------------------
+            15        11            26
+  ----------------------------------------------------------------------------
+
+
+  Press any key to continue . . .
+

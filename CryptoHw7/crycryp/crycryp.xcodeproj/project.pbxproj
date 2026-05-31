@@ -1,0 +1,219 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D64E767D17ADC9CD00FAF100 /* gf_inverse.c in Sources */ = {isa = PBXBuildFile; fileRef = D64E767A17ADC9CD00FAF100 /* gf_inverse.c */; };
+		D64E767E17ADC9CD00FAF100 /* Galois.c in Sources */ = {isa = PBXBuildFile; fileRef = D64E767B17ADC9CD00FAF100 /* Galois.c */; };
+		D64E767F17ADC9CD00FAF100 /* Galois.h in Headers */ = {isa = PBXBuildFile; fileRef = D64E767C17ADC9CD00FAF100 /* Galois.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		D64E767317ADC9B000FAF100 /* libcrycryp.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libcrycryp.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		D64E767A17ADC9CD00FAF100 /* gf_inverse.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = gf_inverse.c; sourceTree = "<group>"; };
+		D64E767B17ADC9CD00FAF100 /* Galois.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = Galois.c; sourceTree = "<group>"; };
+		D64E767C17ADC9CD00FAF100 /* Galois.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Galois.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D64E767017ADC9B000FAF100 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D64E766A17ADC9B000FAF100 = {
+			isa = PBXGroup;
+			children = (
+				D64E767A17ADC9CD00FAF100 /* gf_inverse.c */,
+				D64E767B17ADC9CD00FAF100 /* Galois.c */,
+				D64E767C17ADC9CD00FAF100 /* Galois.h */,
+				D64E767417ADC9B000FAF100 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D64E767417ADC9B000FAF100 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D64E767317ADC9B000FAF100 /* libcrycryp.dylib */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D64E767117ADC9B000FAF100 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D64E767F17ADC9CD00FAF100 /* Galois.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		D64E767217ADC9B000FAF100 /* crycryp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D64E767717ADC9B000FAF100 /* Build configuration list for PBXNativeTarget "crycryp" */;
+			buildPhases = (
+				D64E766F17ADC9B000FAF100 /* Sources */,
+				D64E767017ADC9B000FAF100 /* Frameworks */,
+				D64E767117ADC9B000FAF100 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = crycryp;
+			productName = crycryp;
+			productReference = D64E767317ADC9B000FAF100 /* libcrycryp.dylib */;
+			productType = "com.apple.product-type.library.dynamic";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D64E766B17ADC9B000FAF100 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Piter Garcia";
+			};
+			buildConfigurationList = D64E766E17ADC9B000FAF100 /* Build configuration list for PBXProject "crycryp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D64E766A17ADC9B000FAF100;
+			productRefGroup = D64E767417ADC9B000FAF100 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D64E767217ADC9B000FAF100 /* crycryp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D64E766F17ADC9B000FAF100 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D64E767D17ADC9CD00FAF100 /* gf_inverse.c in Sources */,
+				D64E767E17ADC9CD00FAF100 /* Galois.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		D64E767517ADC9B000FAF100 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		D64E767617ADC9B000FAF100 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		D64E767817ADC9B000FAF100 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				EXECUTABLE_PREFIX = lib;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D64E767917ADC9B000FAF100 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				EXECUTABLE_PREFIX = lib;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D64E766E17ADC9B000FAF100 /* Build configuration list for PBXProject "crycryp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D64E767517ADC9B000FAF100 /* Debug */,
+				D64E767617ADC9B000FAF100 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D64E767717ADC9B000FAF100 /* Build configuration list for PBXNativeTarget "crycryp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D64E767817ADC9B000FAF100 /* Debug */,
+				D64E767917ADC9B000FAF100 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D64E766B17ADC9B000FAF100 /* Project object */;
+}

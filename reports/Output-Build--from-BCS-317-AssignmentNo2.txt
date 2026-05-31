@@ -1,0 +1,8 @@
+﻿1>------ Build started: Project: AssignmentNo2, Configuration: Debug Win32 ------
+1>  MyArray.cpp
+1>  MyArrayIMP.cpp
+1>  Generating Code...
+1>c:\users\garcpgv\desktop\new folder (2)\assignmentno2\assignmentno2\myarrayimp.cpp(132): warning C4715: 'MyArray::FindFirst' : not all control paths return a value
+1>c:\users\garcpgv\desktop\new folder (2)\assignmentno2\assignmentno2\myarrayimp.cpp(146): warning C4715: 'MyArray::FindLast' : not all control paths return a value
+1>  AssignmentNo2.vcxproj -> C:\Users\GarcpGV\Desktop\New Folder (2)\AssignmentNo2\Debug\AssignmentNo2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

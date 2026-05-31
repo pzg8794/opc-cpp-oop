@@ -1,0 +1,51 @@
+
+
+                          HomeWork  Assignment # 7A
+                             By  Piter Garcia
+
+
+
+               Promgra to Calculate Lowest and Average Grade
+             ================================================
+
+
+  Please enter the amount of tests you will be working with
+  7
+
+  Please type your 7 test grades now:
+  70 80 90 60 90 -12 110
+
+  You have entered an invalid grade, -12 is not a right value
+
+  Please enter a right grade
+
+  You have entered an invalid grade, 110 is not a right value
+
+  Please enter a right grade
+  80 70
+
+
+
+  ------------------------------------------------------------------------
+                         TABLE OF GRADES AND AVERAGE
+  ------------------------------------------------------------------------
+
+  Grade #1  Grade #2  Grade #3  Grade #4  Grade #5  Grade #6  Grade #7
+        70        80        90        60        90        80        70
+  ------------------------------------------------------------------------
+
+
+
+  The Lowest Grade is 60
+  Therefore, this grade will be dropped
+
+   ------------------------------------------------------------------------
+
+
+  Dropped Grade                                          Average of Grades
+             60                                                      96.00
+
+  ------------------------------------------------------------------------
+
+
+  Press any key to continue . . .

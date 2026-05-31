@@ -1,0 +1,35 @@
+﻿'BinaryTree.exe': Loaded 'C:\Users\GarcpGV\Desktop\BinaryTree\Debug\BinaryTree.exe', Symbols loaded.
+'BinaryTree.exe': Loaded 'C:\Windows\System32\ntdll.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\System32\mscoree.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\System32\kernel32.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\System32\msvcp100d.dll', Symbols loaded.
+'BinaryTree.exe': Loaded 'C:\Windows\System32\msvcr100d.dll', Symbols loaded.
+'BinaryTree.exe': Loaded 'C:\Windows\System32\advapi32.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\System32\rpcrt4.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\System32\shlwapi.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\System32\gdi32.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\System32\user32.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\System32\msvcrt.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\System32\imm32.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\System32\msctf.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\System32\lpk.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\System32\usp10.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\winsxs\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.6002.18305_none_5cb72f2a088b0ed3\comctl32.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\System32\msvcr100_clr0400.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Culture.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\mscorlib\a774bd593b8420bae4a8cf1d46af3ba2\mscorlib.ni.dll', Cannot find or open the PDB file
+'BinaryTree.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'
+'BinaryTree.exe': Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\nlssorting.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\System32\ole32.dll', Cannot find or open the PDB file
+'BinaryTree.exe' (Managed (v4.0.30319)): Loaded 'C:\Users\GarcpGV\Desktop\BinaryTree\Debug\BinaryTree.exe', Symbols loaded.
+'BinaryTree.exe': Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll', Cannot find or open the PDB file
+'BinaryTree.exe': Loaded 'C:\Windows\assembly\NativeImages_v4.0.30319_32\System\5286fe2d0167eb835a9f11025f1cb756\System.ni.dll', Cannot find or open the PDB file
+'BinaryTree.exe' (Managed (v4.0.30319)): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'
+'BinaryTree.exe': Loaded 'C:\Windows\System32\apphelp.dll', Cannot find or open the PDB file
+The thread 'Win32 Thread' (0x2a78) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0x2ca4) has exited with code 0 (0x0).
+The program '[6932] BinaryTree.exe: Managed (v4.0.30319)' has exited with code 0 (0x0).
+The program '[6932] BinaryTree.exe: Native' has exited with code 0 (0x0).

@@ -1,0 +1,24 @@
+midterm solutions
+http://code.google.com/p/projecttwo/source/browse/trunk/src/pack/precomputation.java?r=15
+
+http://sternlab.org/artfortheinternet/2010/12/how-to-make-a-holography-case/
+
+http://mistercrunch.blogspot.com/2010/11/pongcyl3d-3d-pong-game-in-cylinder.html
+
+https://www.youtube.com/watch?v=0ks5tpFbwGI
+
+https://www.youtube.com/watch?v=Rvbe_bstN7g
+
+https://github.com/mistercrunch/PongCyl-3D
+
+http://www.youtube.com/watch?v=yxM-ue0uL98
+
+https://code.google.com/p/algorithm800/source/browse/trunk/src/
+
+cs.rit.edu/~ark/654/
+
+http://www.hydro.washington.edu/Lettenmaier/Data/gridded/index_maurer.html
+
+http://www.hydro.washington.edu/Lettenmaier/Data/gridded/index_maurer.html
+
+https://docs.google.com/spreadsheet/ccc?key=0AmmUNG1Te04hdGFuMFFqTTEyVF9BTW9XNXdyenRENGc#gid=0

@@ -1,0 +1,34 @@
+
+
+Lab Assignment # 14                                                                               By  Piter Garcia
+-------------------                                                                               ----------------
+
+Please Type in The Day Number You Wish to Set Up
+5
+Do You Want to Add or Subtracts Days to the Input Day?
+If so Enter yes, otherwise enter no.
+yes
+Please Enter Below the Day(s) You Wish to Add or Substract:
+4
+Press any key to continue . . .
+
+
+
+                                PROGRAM ASSIGNMENT USING ARRAYS WITH CONSTRUCTORS
+                                =================================================
+
+
+
+
+
+                               ____________________________________________________
+
+                                               DAYS OF A WEEK TABLE 
+                               ____________________________________________________
+                               INPUT DAY         |  PREVIOUS DAY |       NEXT DAY |  
+                               ____________________________________________________
+                               Thursday          |  Wednesday    |       Friday   |  
+                               ____________________________________________________
+                               ADDED DAYS: 
+                               After The Input Days the Day is Monday
+                               ____________________________________________________

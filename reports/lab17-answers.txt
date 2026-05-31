@@ -1,0 +1,40 @@
+;Lab No 17 - answers Submitted to Professor Balaji
+;By Piter Garcia
+;SUPER FAST BINARY TO BCD.
+
+.     Type a question mark (?) to get a Debug HELP screen.
+(!DOSCALC) pulls up a Decimal/Hexadecimal/Binary calculator.Esc to leave.
+Microsoft (R) Symbolic Debug Utility  Version 4.00
+Copyright (C) Microsoft Corp 1984, 1985.  REVISED 05/07/89   .
+
+Type '?' for  80286]
+-u
+1A24:0000 33C0           XOR    AX,AX
+1A24:0002 33C9           XOR    CX,CX
+1A24:0004 33D2           XOR    DX,DX
+1A24:0006 B10C           MOV    CL,0C
+1A24:0008 D1C3           ROL    BX,1
+1A24:000A 12C0           ADC    AL,AL
+1A24:000C 27             DAA
+1A24:000D 86C4           XCHG   AL,AH
+-u
+1A24:000F 12C0           ADC    AL,AL
+1A24:0011 27             DAA
+1A24:0012 86C4           XCHG   AL,AH
+1A24:0014 E2F2           LOOP   0008
+1A24:0016 C3             RET
+1A24:0017 0100           ADD    [BX+SI],AX
+1A24:0019 C706263C0000   MOV    Word Ptr [3C26],0000
+1A24:001F C706D2330000   MOV    Word Ptr [33D2],0000
+-bp 16
+-rbx eee0
+-g
+AX=3822  BX=0EEE  CX=0000  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A14  ES=1A14  SS=1A24  CS=1A24  IP=0016   NV UP EI PL NZ AC PO NC
+1A24:0016 C3             RET                                  ;BR0
+-rbx fff0
+-g=0
+AX=4095  BX=0FFF  CX=0000  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A14  ES=1A14  SS=1A24  CS=1A24  IP=0016   NV UP EI PL NZ NA PO NC
+1A24:0016 C3             RET                                  ;BR0
+-

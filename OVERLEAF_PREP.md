@@ -1,14 +1,1397 @@
-# Overleaf Preparation
+<!-- AUTO-GENERATED-PORTFOLIO-README -->
+# Overleaf Prep
 
-Repository: `opc-cpp-oop`
+Paper, report, and presentation files imported into GitHub are grouped here for later Overleaf conversion.
 
-Drive source: https://drive.google.com/drive/folders/13xdwMiaOA7TGKIJqCEROqGLJz2dsjAmN
+## Reports
 
-## Available Source Buckets
+- `reports/1rst.txt`
+- `reports/3DPONG/3DPONG.xcodeproj/project.pbxproj`
+- `reports/3DPONG/3DPONG.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.pbxproj`
+- `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/3DPONG/3DPONG/3DPONG.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/3DPONG/3DPONG/lesson30/Lesson30/NeHe's Readme.txt`
+- `reports/3DPONG/3DPONG/lesson30/Lesson30/Readme.txt`
+- `reports/3DPONG/3DPONG/websites I closed.txt`
+- `reports/3DPONG/HapticsGame/HapticsGame/Results.txt`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Backup/Project.sln`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/License.txt`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Project.sln`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Project.vcproj`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Project.vcxproj`
+- `reports/3DPONG/HapticsGame/shadowmap/Shadow Mapping/Readme.txt`
+- `reports/3DPONG/websites I closed.txt`
+- `reports/9783540430728-c1.pdf`
+- `reports/AdvSec05_quiz1.pdf`
+- `reports/AES CIPHER.Part2.doc`
+- `reports/Arthur_Hoskey_BCS_370_Fall_2011_Syllabus.doc`
+- `reports/Assigment#5_1.txt`
+- `reports/Assigment#5_2correction.txt`
+- `reports/Assigment#5_2pgRight..txt`
+- `reports/Assigment#5_3pgRight.txt`
+- `reports/Assigment5_input.txt`
+- `reports/Assignment Lab No.10.docx`
+- `reports/Assignment2--from-AssignmentNo1-AssignmentNo1.txt`
+- `reports/Assignment2--from-AssignmentNo2-AssignmentNo2.txt`
+- `reports/Assignment2--from-hw2-hw2.txt`
+- `reports/Assignment2--from-test-test.txt`
+- `reports/Assignment2.txt`
+- `reports/Assignment3.txt`
+- `reports/Assignment4.txt`
+- `reports/Assignment5.txt`
+- `reports/Assignment_1_-_BCS_370_Data_Structures.doc`
+- `reports/Assignment_2_-_BCS_370_Data_Structures.doc`
+- `reports/Assignment_3_-_BCS_370_Data_Structures.doc`
+- `reports/Assignment_4_-_BCS_370_Data_Structures.doc`
+- `reports/Assignment_5_-_BCS_370_Data_Structures.doc`
+- `reports/AssignmentNo.7A.docx`
+- `reports/AssignmentNo2_Output.txt`
+- `reports/AssignmentNo3Output.txt`
+- `reports/AssignmentNo4.1_output--from-Paint_Job_Estimator-Paint_Job_Estimator.txt`
+- `reports/AssignmentNo4.1_output.txt`
+- `reports/AssignmentNo4_output--from-Paint_Job_Estimator-Paint_Job_Estimator.txt`
+- `reports/AssignmentNo4_output.txt`
+- `reports/AssignmentNo5_output--from-AssigntmentNo.5-AssigntmentNo.5.txt`
+- `reports/AssignmentNo5_output.txt`
+- `reports/AssignmentNo6_input.txt`
+- `reports/AssignmentNo6_output--from-AssignmentNo6-AssignmentNo6.txt`
+- `reports/AssignmentNo6_output--from-lab5-lab5.txt`
+- `reports/AssignmentNo6_output--from-Lab_AssigntmentNo.6-Lab_AssigntmentNo.6.txt`
+- `reports/AssignmentNo6_output.txt`
+- `reports/AssignmentNo8_input.txt`
+- `reports/AssignmentNo8_inputfile.txt`
+- `reports/AssignmentNo8_Low_inputfile.txt`
+- `reports/AssignmentNo8_Month_inputfile.txt`
+- `reports/AssignmentNo8_output--from-LabAssigmentNo8-LabAssigmentNo8.txt`
+- `reports/AssignmentNo8_output--from-LabAssignmentNo9-LabAssignmentNo9.txt`
+- `reports/AssignmentNo8_output.txt`
+- `reports/AssignmentNo9_output.txt`
+- `reports/BaseballPlayers4.txt`
+- `reports/BaseballPlayers5.txt`
+- `reports/BCS-230 LabNo8.docx`
+- `reports/bcs-230-labNo9.docx`
+- `reports/BCS230 - Imput files.docx`
+- `reports/BCS_370_L2_-_Employee_Class_Lab_Exercise (1).docx`
+- `reports/BCS_370_L2_-_Employee_Class_Lab_Exercise.docx`
+- `reports/BinarySearchTree.txt`
+- `reports/Block_cipher_method.pdf`
+- `reports/C++ Program_Output.txt`
+- `reports/Ch3_Ex6input.txt`
+- `reports/Ch3_Ex6output.txt`
+- `reports/checking_grades.txt`
+- `reports/chivo.docx`
+- `reports/chpater_4_homework.pdf`
+- `reports/Clonefile.txt`
+- `reports/Code.docx`
+- `reports/Commenting_Guidlines.doc`
+- `reports/Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2.sln`
+- `reports/Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2/Assignment_2.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2/AssignmentNo2.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/Assignment_2/Assignment_2/AssignmentNo2_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3.sln`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4.sln`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/AssignmentNo4.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/AssignmentNo4.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/Ch3_Ex6input.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo4/AssignmentNo4/Ch3_Ex6output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5.sln`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/AssignmentNo5.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/AssignmentNo5.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-a&bExceeded.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-aExceeded.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-bExceeded.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-NoneExceeded.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Regular1.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo5/AssignmentNo5/Output-Regular2.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6.sln`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6_input.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6_output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7.sln`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/AssignmentNo7.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/AssignmentNo7.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/checking_grades.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo7/AssignmentNo7/Output2.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8.sln`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo6_output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8_input.txt`
+- `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8_output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/C++_Program/C++_Program/C++ Program_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Losing Example.txt`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Neutral Example.txt`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Output_Game.txt`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Output_Game2.txt`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Refilling_funds Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo1/ExtraCreditNo1/Winning Example.txt`
+- `reports/Cpp_Prog_I_II/Programming I/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo.2-Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/FixingAssignment5/FixingAssignment5.sln`
+- `reports/Cpp_Prog_I_II/Programming I/FixingAssignment5/FixingAssignment5/FixingAssignment5.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4.sln`
+- `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4/Lab4.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4/Lab4.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/Lab4/Lab4_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5.sln`
+- `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5/Lab4_Input.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5/Lab4_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5/Lab5.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/Lab5/Lab5/Lab5.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2.sln`
+- `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2/Lab_No2.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2/Lab_No2.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2/Lab_No2_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Lab_No2/Lab_No2_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4/LabNo.4.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4/Practice.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/Lab4.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/Lab4_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/LabNo.5.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/LabNo4.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.5/LabNo.5/LabNo5.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8/LabNo.8.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8/LabNo8.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo.8/LabNo.8/Output_File.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/LabNo10.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/LabNo10.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/LabNo10_input.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo10/LabNo10/LabNo10_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12/LabNo12.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12/LabNo12/LabNo12.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12/LabNo12/LabNo12.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12/LabNo12/Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a/LabNo12.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a/LabNo12a.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo12a/LabNo12a/Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo13/LabNo13.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo13/LabNo13/LabNo13.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo13/LabNo13/LabNo13.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo13/LabNo13/output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/LabNo14.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/LabNo4.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo14/LabNo14/testing_output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15/LabNo15.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15/LabNo15/LabNo15.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15/LabNo15/LabNo5.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15/LabNo15/output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15A/LabNo15A.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15A/LabNo15A/LabNo15A.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo15A/LabNo15A/LabNo15A.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo3/LabNo3.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo3/LabNo3/LabNo3.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo3/LabNo3/LabNo3.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo3/LabNo3/LabNo3_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6/LabNo6.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6/LabNo6.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6/Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo6/LabNo6/Output2.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo7/LabNo7.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo7/LabNo7/LabNo7.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo7/LabNo7/LabNo7.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo7/LabNo7/Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9.sln`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9/LabNo9.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9/LabNo9.vcproj`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9/LabNo9_Input.txt`
+- `reports/Cpp_Prog_I_II/Programming I/LabNo9/LabNo9/LabNo9_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2/PA2_Output.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2/Programming_Assignment2.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/Programming_Assingment2/Programming_Assingment2/Programming_Assignment_2.cpp`
+- `reports/Cpp_Prog_I_II/Programming I/ShirtDiscount/ShirtDiscount_PG/ReadMe.txt`
+- `reports/Cpp_Prog_I_II/Programming I/Using_Visual_C___Express.doc`
+- `reports/Cpp_Prog_I_II/Programming II/Assignment7C/Assignment7C.sln`
+- `reports/Cpp_Prog_I_II/Programming II/Assignment7C/Assignment7C/Assignment7C.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/Assignment7C/Assignment7C/Assignment7C.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/AssigntmentNo.5/AssigntmentNo.5/Assigment5_input.txt`
+- `reports/Cpp_Prog_I_II/Programming II/AssigntmentNo.5/AssigntmentNo.5/AssignmentNo5_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/Assignment Lab No.10.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/BCS-230 LabNo8.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/bcs-230-labNo9.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/BCS230 - Imput files.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/chivo.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/Code.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/Lab11BCS.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/Lab12BCS.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/Lab13BCS.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/LabNo10-BCS230-InputAndOutput.docx`
+- `reports/Cpp_Prog_I_II/Programming II/BCS-230/LABS11-13 Output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab-output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab.sln`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab/Assignment2.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab/FirstLab.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/FirstLab/Prog01.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/FirstLab/Output-Build.txt`
+- `reports/Cpp_Prog_I_II/Programming II/HM1/HM1/output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/HM2/HM2/output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/HM3/HM3/Output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/homeworkone/homeworkone.sln`
+- `reports/Cpp_Prog_I_II/Programming II/homeworkone/homeworkone/HomeWorkone.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/homeworkone/homeworkone/homeworkone.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/hw5/hw5/Assigment5_input.txt`
+- `reports/Cpp_Prog_I_II/Programming II/hw5/hw5/AssignmentNo5_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/hw5/hw5/Output5.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b.sln`
+- `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b/lab11b.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b/lab11b.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b/LabNo11.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab11b/lab11b/LabNo11_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C.sln`
+- `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C/Lab11c.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C/lab11C.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C/LabNo11.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab11C/lab11C/LabNo11_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13.sln`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/lab13.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/LabNo11.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/LabNo11_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/LabNo13_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/StudentType.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/StudentType.h`
+- `reports/Cpp_Prog_I_II/Programming II/lab13/lab13/StudentTypeIMP.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14.sln`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/DayType.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/DayType.h`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/DayTypeIMP.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/Lab14.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/LabNo11_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/Lab14/Lab14/LabNo14_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab5/lab5.sln`
+- `reports/Cpp_Prog_I_II/Programming II/lab5/lab5/AssignmentNo6_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/lab5/lab5/lab5.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/lab5/lab5/lab5.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/lab5/lab5/Lab_AssigntmentNo.6_Input.txt`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab Assignment 6 - Output&Input.docx`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6.sln`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/AssignmentNo6_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6_Input.txt`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/Lab_AssigntmentNo.6/Lab_AssigntmentNo6.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6/LabAssignmentNo6-Code.docx`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/AssignmentNo8_inputfile.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/AssignmentNo8_Low_inputfile.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/AssignmentNo8_Month_inputfile.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/AssignmentNo8_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/LabAssigmentNo8.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssigmentNo8/LabAssigmentNo8/LabAssigmentNo8.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/LabAssignment11.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/LabAssignment11.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/LabNo11.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment11/LabAssignment11/LabNo11_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/AssignmentNo.7A.docx`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/Lab_Assignment7A.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/Lab_Assignment7A.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/New Text Document.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7A/Lab_Assignment7A/Output7A.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b/Lab_Assignment7b.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b/Lab_Assignment7b.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/Lab_Assignment7b/Lab_Assignment7b/Output7B.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C/LabAssignment7C.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C/LabAssignmentNo7C.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabAssignmentNo7C/LabAssignmentNo7C/LabAssignmentNo7C.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/labn7.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/labn7/Labn7.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/labn7/labn7/labn7.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7B.docx`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C.docx`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C/LabNo7C.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignment7/LabNo7C/LabNo7C/LabNo7C.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/LabAssignmentNo10.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/LabAssignmentNo10.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/labno10.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10/outputlab10.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9.sln`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/AssignmentNo8_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/AssignmentNo9_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/LabAssignmentNo9.cpp`
+- `reports/Cpp_Prog_I_II/Programming II/LabAssignmentNo9/LabAssignmentNo9/LabAssignmentNo9.vcproj`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/AssignmentNo4.1_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/AssignmentNo4_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/Paint_Job_Estimator/AssignmentNo4.1_output.txt`
+- `reports/Cpp_Prog_I_II/Programming II/Paint_Job_Estimator(hw4)/Paint_Job_Estimator/Paint_Job_Estimator/Paint_Job_Estimator/AssignmentNo4_output.txt`
+- `reports/CppProjects/Assignment_2/Assignment_2.sln`
+- `reports/CppProjects/Assignment_2/Assignment_2/Assignment_2.vcproj`
+- `reports/CppProjects/Assignment_2/Assignment_2/AssignmentNo2.cpp`
+- `reports/CppProjects/Assignment_2/Assignment_2/AssignmentNo2_Output.txt`
+- `reports/CppProjects/AssignmentNo3/AssignmentNo3.sln`
+- `reports/CppProjects/AssignmentNo3/AssignmentNo3/AssignmentNo3.cpp`
+- `reports/CppProjects/AssignmentNo3/AssignmentNo3/AssignmentNo3.vcproj`
+- `reports/CppProjects/AssignmentNo3/AssignmentNo3/AssignmentNo3Output.txt`
+- `reports/CppProjects/AssignmentNo4/AssignmentNo4.sln`
+- `reports/CppProjects/AssignmentNo4/AssignmentNo4/AssignmentNo4.cpp`
+- `reports/CppProjects/AssignmentNo4/AssignmentNo4/AssignmentNo4.vcproj`
+- `reports/CppProjects/AssignmentNo4/AssignmentNo4/Ch3_Ex6input.txt`
+- `reports/CppProjects/AssignmentNo4/AssignmentNo4/Ch3_Ex6output.txt`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5.sln`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/AssignmentNo5.cpp`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/AssignmentNo5.vcproj`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Premium-a&bExceeded.txt`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Premium-aExceeded.txt`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Premium-bExceeded.txt`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Premium-NoneExceeded.txt`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Regular1.txt`
+- `reports/CppProjects/AssignmentNo5/AssignmentNo5/Output-Regular2.txt`
+- `reports/CppProjects/AssignmentNo6/AssignmentNo6.sln`
+- `reports/CppProjects/AssignmentNo6/AssignmentNo6/AssignmentNo6.cpp`
+- `reports/CppProjects/AssignmentNo6/AssignmentNo6/AssignmentNo6.vcproj`
+- `reports/CppProjects/AssignmentNo6/AssignmentNo6/AssignmentNo6_input.txt`
+- `reports/CppProjects/AssignmentNo6/AssignmentNo6/AssignmentNo6_output.txt`
+- `reports/CppProjects/C++_Program/C++_Program.sln`
+- `reports/CppProjects/C++_Program/C++_Program/C++ Program_Output.txt`
+- `reports/CppProjects/C++_Program/C++_Program/C++_Program.cpp`
+- `reports/CppProjects/C++_Program/C++_Program/C++_Program.vcproj`
+- `reports/CppProjects/Celcius_Program/Celcius_Program.sln`
+- `reports/CppProjects/Celcius_Program/Celcius_Program/Celcius_Program.cpp`
+- `reports/CppProjects/Celcius_Program/Celcius_Program/Celcius_Program.vcproj`
+- `reports/CppProjects/EET-317L2/EET-317L2.sln`
+- `reports/CppProjects/EET-317L2/EET-317L2/EET-317L2.vcproj`
+- `reports/CppProjects/ExtraCreditNo2/ExtraCreditNo2.sln`
+- `reports/CppProjects/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo.2-Output.txt`
+- `reports/CppProjects/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo2.cpp`
+- `reports/CppProjects/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo2.vcproj`
+- `reports/CppProjects/fixing/fixing.sln`
+- `reports/CppProjects/fixing/fixing/Fixing.cpp`
+- `reports/CppProjects/fixing/fixing/fixing.vcproj`
+- `reports/CppProjects/FixingAssignment5/FixingAssignment5.sln`
+- `reports/CppProjects/FixingAssignment5/FixingAssignment5/FixingAssignment5.vcproj`
+- `reports/CppProjects/Lab4/Lab4.sln`
+- `reports/CppProjects/Lab4/Lab4.txt`
+- `reports/CppProjects/Lab4/Lab4/Lab4.cpp`
+- `reports/CppProjects/Lab4/Lab4/Lab4.vcproj`
+- `reports/CppProjects/Lab4/Lab4_Output.txt`
+- `reports/CppProjects/Lab5/Lab5.sln`
+- `reports/CppProjects/Lab5/Lab5/Lab4_Input.txt`
+- `reports/CppProjects/Lab5/Lab5/Lab4_Output.txt`
+- `reports/CppProjects/Lab5/Lab5/Lab5.cpp`
+- `reports/CppProjects/Lab5/Lab5/Lab5.vcproj`
+- `reports/CppProjects/Lab_No2/Lab_No2.sln`
+- `reports/CppProjects/Lab_No2/Lab_No2/Lab_No2.cpp`
+- `reports/CppProjects/Lab_No2/Lab_No2/Lab_No2.vcproj`
+- `reports/CppProjects/Lab_No2/Lab_No2/Lab_No2_Output.txt`
+- `reports/CppProjects/Lab_No2/Lab_No2_Output.txt`
+- `reports/CppProjects/LabNo.4/LabNo.4.sln`
+- `reports/CppProjects/LabNo.4/LabNo.4/LabNo.4.vcproj`
+- `reports/CppProjects/LabNo.4/LabNo.4/Practice.cpp`
+- `reports/CppProjects/LabNo.5/LabNo.5.sln`
+- `reports/CppProjects/LabNo.5/LabNo.5/Lab4.cpp`
+- `reports/CppProjects/LabNo.5/LabNo.5/Lab4_Output.txt`
+- `reports/CppProjects/LabNo.5/LabNo.5/LabNo.5.vcproj`
+- `reports/CppProjects/LabNo.5/LabNo.5/LabNo4.cpp`
+- `reports/CppProjects/LabNo.5/LabNo.5/LabNo5.cpp`
+- `reports/CppProjects/LabNo.8/LabNo.8.sln`
+- `reports/CppProjects/LabNo.8/LabNo.8/LabNo.8.vcproj`
+- `reports/CppProjects/LabNo.8/LabNo.8/LabNo8.cpp`
+- `reports/CppProjects/LabNo.8/LabNo.8/Output_File.txt`
+- `reports/CppProjects/LabNo10/LabNo10.sln`
+- `reports/CppProjects/LabNo10/LabNo10/LabNo10.cpp`
+- `reports/CppProjects/LabNo10/LabNo10/LabNo10.vcproj`
+- `reports/CppProjects/LabNo10/LabNo10/LabNo10_input.txt`
+- `reports/CppProjects/LabNo10/LabNo10/LabNo10_Output.txt`
+- `reports/CppProjects/LabNo3/LabNo3.sln`
+- `reports/CppProjects/LabNo3/LabNo3/LabNo3.cpp`
+- `reports/CppProjects/LabNo3/LabNo3/LabNo3.vcproj`
+- `reports/CppProjects/LabNo3/LabNo3/LabNo3_Output.txt`
+- `reports/CppProjects/LabNo6/LabNo6.sln`
+- `reports/CppProjects/LabNo6/LabNo6/LabNo6.cpp`
+- `reports/CppProjects/LabNo6/LabNo6/LabNo6.vcproj`
+- `reports/CppProjects/LabNo6/LabNo6/Output.txt`
+- `reports/CppProjects/LabNo6/LabNo6/Output2.txt`
+- `reports/CppProjects/LabNo7/LabNo7.sln`
+- `reports/CppProjects/LabNo7/LabNo7/LabNo7.cpp`
+- `reports/CppProjects/LabNo7/LabNo7/LabNo7.vcproj`
+- `reports/CppProjects/LabNo7/LabNo7/Output.txt`
+- `reports/CppProjects/LabNo9/LabNo9.sln`
+- `reports/CppProjects/LabNo9/LabNo9/LabNo9.cpp`
+- `reports/CppProjects/LabNo9/LabNo9/LabNo9.vcproj`
+- `reports/CppProjects/LabNo9/LabNo9/LabNo9_Input.txt`
+- `reports/CppProjects/LabNo9/LabNo9/LabNo9_Output.txt`
+- `reports/CppProjects/PersonalProjects/DataBase/DataBase.sln`
+- `reports/CppProjects/PersonalProjects/DataBase/DataBase/DataBase.vcproj`
+- `reports/CppProjects/PersonalProjects/DataBase/DataBase/SMT.h`
+- `reports/CppProjects/PersonalProjects/Hours-Program/Hours-Program.sln`
+- `reports/CppProjects/PersonalProjects/Hours-Program/Hours-Program/Hours-Program.vcproj`
+- `reports/CppProjects/PersonalProjects/Hours-Program/Hours-Program/Hours_Program.cpp`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management.sln`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/Mark's Bill Management.vcproj`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/MarksBill.cpp`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/MarksBillIMP.cpp`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management/MarksClass.h`
+- `reports/CppProjects/PersonalProjects/Mark's Bill Management/Output-Build.txt`
+- `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing.sln`
+- `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/BillsComparision.h`
+- `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/BillsComparisonIMP.cpp`
+- `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/ComaparingBills.cpp`
+- `reports/CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing/MarksBillComparing.vcproj`
+- `reports/CppProjects/PersonalProjects/MIke/MIke.sln`
+- `reports/CppProjects/PersonalProjects/MIke/MIke/MIke.vcproj`
+- `reports/CppProjects/PersonalProjects/MIke/MIke/Mike7.cpp`
+- `reports/CppProjects/PersonalProjects/Worked_Hours-Program/Worked_Hours-Program.sln`
+- `reports/CppProjects/PersonalProjects/Worked_Hours-Program/Worked_Hours-Program/Worked_Hours-Program.cpp`
+- `reports/CppProjects/PersonalProjects/Worked_Hours-Program/Worked_Hours-Program/Worked_Hours-Program.vcproj`
+- `reports/CppProjects/PiterG/PiterG.sln`
+- `reports/CppProjects/PiterG/PiterG/PiterG.vcproj`
+- `reports/CppProjects/Pogram No. 2/Pogram No. 2.sln`
+- `reports/CppProjects/Pogram No. 2/Pogram No. 2/Pogram No. 2.vcproj`
+- `reports/CppProjects/Pogram No. 2/Pogram No. 2/Program2.cpp`
+- `reports/CppProjects/Programming_Assingment2/Programming_Assingment2.sln`
+- `reports/CppProjects/Programming_Assingment2/Programming_Assingment2/PA2_Output.txt`
+- `reports/CppProjects/Programming_Assingment2/Programming_Assingment2/Programming_Assignment2.cpp`
+- `reports/CppProjects/Programming_Assingment2/Programming_Assingment2/Programming_Assignment_2.cpp`
+- `reports/CppProjects/Programming_Assingment2/Programming_Assingment2/Programming_Assingment2.vcproj`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG.sln`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/AssemblyInfo.cpp`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/Form1.h`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/ReadMe.txt`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/resource.h`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/ShirtDiscount_PG.cpp`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/ShirtDiscount_PG.vcproj`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/stdafx.cpp`
+- `reports/CppProjects/ShirtDiscount_PG/ShirtDiscount_PG/stdafx.h`
+- `reports/Credits.rtf`
+- `reports/Crypto Homework 7.docx`
+- `reports/Crypto Homework 7.pdf`
+- `reports/Cryptograph_Primitives_and_Protocols.pdf`
+- `reports/CryptoHw7/9783540430728-c1.pdf`
+- `reports/CryptoHw7/AdvSec05_quiz1.pdf`
+- `reports/CryptoHw7/AES CIPHER.Part2.doc`
+- `reports/CryptoHw7/Block_cipher_method.pdf`
+- `reports/CryptoHw7/chpater_4_homework.pdf`
+- `reports/CryptoHw7/cry/cry.xcodeproj/project.pbxproj`
+- `reports/CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/CryptoHw7/cry/cry.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/CryptoHw7/cry/cry/en.lproj/Credits.rtf`
+- `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.pbxproj`
+- `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/CryptoHw7/crycryp/crycryp.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/CryptoHw7/crym/crym.xcodeproj/project.pbxproj`
+- `reports/CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/CryptoHw7/crym/crym.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/CryptoHw7/cryp/cryp.xcodeproj/project.pbxproj`
+- `reports/CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/CryptoHw7/cryp/cryp.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/CryptoHw7/cryp/cryp/cryp.xcodeproj/project.pbxproj`
+- `reports/CryptoHw7/Crypto Homework 7.docx`
+- `reports/CryptoHw7/Crypto Homework 7.pdf`
+- `reports/CryptoHw7/crypto/crypto.xcodeproj/project.pbxproj`
+- `reports/CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/CryptoHw7/crypto/crypto.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/CryptoHw7/crypto/crypto/cryp/cryp.xcodeproj/project.pbxproj`
+- `reports/CryptoHw7/Cryptograph_Primitives_and_Protocols.pdf`
+- `reports/CryptoHw7/feistelProof.pdf`
+- `reports/CryptoHw7/Homework7.docx`
+- `reports/CryptoHw7/hw3sol.pdf`
+- `reports/CryptoHw7/introcrypto.pdf`
+- `reports/CryptoHw7/p_garcia.doc`
+- `reports/CryptoHw7/p_garcia.pdf`
+- `reports/CryptoHw7/Student Center-FallSchedule.pdf`
+- `reports/CryptoHw7/uw-cse599r-des-cryptanalysis.googlecode.com_svn_trunk_talk_draft1.pdf`
+- `reports/Data Extructure /BCS-317/Arthur_Hoskey_BCS_370_Fall_2011_Syllabus.doc`
+- `reports/Data Extructure /BCS-317/Assignment2.txt`
+- `reports/Data Extructure /BCS-317/Assignment3/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/Assignment3/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/Assignment3/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/Assignment3/Assignment3.sln`
+- `reports/Data Extructure /BCS-317/Assignment3/Assignment3/Assignment3.vcproj`
+- `reports/Data Extructure /BCS-317/Assignment3/Assignment3/Assignment3.vcxproj`
+- `reports/Data Extructure /BCS-317/Assignment3/Assignment3/team.cpp`
+- `reports/Data Extructure /BCS-317/Assignment3/UpgradeLog.XML`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4.sln`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/Assignment4.txt`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/Assignment4.vcxproj`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/AuthorSignature.cpp`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/BaseballPlayers.cpp`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/BaseballPlayers.h`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/BaseballPlayers4.txt`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/header4.h`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MainFile.cpp`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyQueue.cpp`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyQueue.h`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyQueue4.txt`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyStack.cpp`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyStack.h`
+- `reports/Data Extructure /BCS-317/Assignment4/Assignment4/MyStack4.txt`
+- `reports/Data Extructure /BCS-317/Assignment4/Output-Build.txt`
+- `reports/Data Extructure /BCS-317/Assignment_1_-_BCS_370_Data_Structures.doc`
+- `reports/Data Extructure /BCS-317/Assignment_2_-_BCS_370_Data_Structures.doc`
+- `reports/Data Extructure /BCS-317/Assignment_3_-_BCS_370_Data_Structures.doc`
+- `reports/Data Extructure /BCS-317/Assignment_4_-_BCS_370_Data_Structures.doc`
+- `reports/Data Extructure /BCS-317/Assignment_5_-_BCS_370_Data_Structures.doc`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1.sln`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/Assignment2.txt`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/AssignmentNo1.vcproj`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/AssignmentNo1.vcxproj`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/MyArray.cpp`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/MyArray.h`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/MyArrayIMP.cpp`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1/MyArrayIMP.h`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/Output-Build.txt`
+- `reports/Data Extructure /BCS-317/AssignmentNo1/UpgradeLog.XML`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2.sln`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/Assignment2.txt`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/AssignmentNo2.sln`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/AssignmentNo2.vcproj`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/AssignmentNo2.vcxproj`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/Clonefile.txt`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/MyArray.cpp`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/MyArray.h`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/MyArrayIMP.cpp`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/TestingAssignment2.txt`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/AssignmentNo2/UpgradeLog.XML`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/Output-Build.txt`
+- `reports/Data Extructure /BCS-317/AssignmentNo2/UpgradeLog.XML`
+- `reports/Data Extructure /BCS-317/BCS_370_L2_-_Employee_Class_Lab_Exercise (1).docx`
+- `reports/Data Extructure /BCS-317/BCS_370_L2_-_Employee_Class_Lab_Exercise.docx`
+- `reports/Data Extructure /BCS-317/BinaryTree/BinaryTree/Assignment5.txt`
+- `reports/Data Extructure /BCS-317/BinaryTree/BinaryTree/BaseballPlayers5.txt`
+- `reports/Data Extructure /BCS-317/BinaryTree/BinaryTree/BinarySearchTree.txt`
+- `reports/Data Extructure /BCS-317/BinaryTree/Output-Build.txt`
+- `reports/Data Extructure /BCS-317/BinaryTree/Output-Debug.txt`
+- `reports/Data Extructure /BCS-317/Commenting_Guidlines.doc`
+- `reports/Data Extructure /BCS-317/Facebook/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/Facebook/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/Facebook/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/hw2/hw2/Assignment2.txt`
+- `reports/Data Extructure /BCS-317/hw2/hw2/Clonefile.txt`
+- `reports/Data Extructure /BCS-317/Lab 1.cpp`
+- `reports/Data Extructure /BCS-317/lab1/facebook.cpp`
+- `reports/Data Extructure /BCS-317/lab1/facebookpost.cpp`
+- `reports/Data Extructure /BCS-317/lab1/FacebookPost.h`
+- `reports/Data Extructure /BCS-317/lab1/Lab 1.cpp`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/UpgradeLog.XML`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/UpgradeLog2.XML`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/WallPost.sln`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/WallPost/WallPost.vcproj`
+- `reports/Data Extructure /BCS-317/lab1/WallPost/WallPost/WallPost.vcxproj`
+- `reports/Data Extructure /BCS-317/Lab11/Lab11.sln`
+- `reports/Data Extructure /BCS-317/Lab11/Lab11/Lab11.cpp`
+- `reports/Data Extructure /BCS-317/Lab11/Lab11/Lab11.h`
+- `reports/Data Extructure /BCS-317/Lab11/Lab11/Lab11.vcxproj`
+- `reports/Data Extructure /BCS-317/Lab11/Lab11/Lab11IMP.cpp`
+- `reports/Data Extructure /BCS-317/Lab11/Output-Build.txt`
+- `reports/Data Extructure /BCS-317/Lab22/Lab22.sln`
+- `reports/Data Extructure /BCS-317/Lab22/Lab22/BinarySearch.h`
+- `reports/Data Extructure /BCS-317/Lab22/Lab22/BinarySearchInside.cpp`
+- `reports/Data Extructure /BCS-317/Lab22/Lab22/BinaryTreeIMP.cpp`
+- `reports/Data Extructure /BCS-317/Lab22/Lab22/Lab22.vcxproj`
+- `reports/Data Extructure /BCS-317/Lab22/Lab22/MyMain.cpp`
+- `reports/Data Extructure /BCS-317/Lab7/Lab7.sln`
+- `reports/Data Extructure /BCS-317/Lab7/Lab7/Lab7.vcxproj`
+- `reports/Data Extructure /BCS-317/Lab7/Lab7/Recursion.cpp`
+- `reports/Data Extructure /BCS-317/Lab7/Lab7/Recursion.h`
+- `reports/Data Extructure /BCS-317/Lab7/Lab7/Recursion1.cpp`
+- `reports/Data Extructure /BCS-317/Output-Build.txt`
+- `reports/Data Extructure /BCS-317/test/test/Assignment2.txt`
+- `reports/Data Extructure /BCS-317/testing/testing/ReadMe.txt`
+- `reports/Data Extructure /BCS-317/TrueFalse/Output-Build.txt`
+- `reports/Data Extructure /BCS-317/TrueFalse/TrueFalse/ReadMe.txt`
+- `reports/Data Extructure /BCS-317/WallPost/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/WallPost/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/WallPost/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /BCS-317/WallPost/WallPost/_UpgradeReport_Files/UpgradeReport.css`
+- `reports/Data Extructure /BCS-317/WallPost/WallPost/_UpgradeReport_Files/UpgradeReport_Minus.gif`
+- `reports/Data Extructure /BCS-317/WallPost/WallPost/_UpgradeReport_Files/UpgradeReport_Plus.gif`
+- `reports/Data Extructure /Data Structure I/AssignmentNo1/AssignmentNo1.vcproj`
+- `reports/Data Extructure /Data Structure I/AssignmentNo1/MyArray.cpp`
+- `reports/Data Extructure /Data Structure I/AssignmentNo1/MyArray.h`
+- `reports/Data Extructure /Data Structure I/AssignmentNo1/MyArrayIMP.cpp`
+- `reports/Data Extructure /Data Structure I/AssignmentNo1/MyArrayIMP.h`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/AssignmentNo2.vcproj`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/MyArray.cpp`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/MyArray.h`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2/MyArrayIMP.cpp`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/Assignment2.txt`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/AssignmentNo2.vcproj`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/MyArray.cpp`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/MyArray.h`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (2)/AssignmentNo2/MyArrayIMP.cpp`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2 (3)/Assignment2.txt`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2/AssignmentNo2.vcproj`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2/MyArray.cpp`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2/MyArray.h`
+- `reports/Data Extructure /Data Structure I/AssignmentNo2/MyArrayIMP.cpp`
+- `reports/Debugging Problems.docx`
+- `reports/EET 110#2 (2).docx`
+- `reports/EET 110#2.docx`
+- `reports/EET 110.docx`
+- `reports/EET%20110#2.docx`
+- `reports/EET-110.docx`
+- `reports/EET-110/1rst.txt`
+- `reports/EET-110/Assigment#5/A4 A/ReadMe.txt`
+- `reports/EET-110/Assigment#5/A4 A/Solution12.sln`
+- `reports/EET-110/Assigment#5/Assigment#5_1.txt`
+- `reports/EET-110/Assigment#5/Assigment#5_2correction.txt`
+- `reports/EET-110/Assigment#5/Assigment#5_2pgRight..txt`
+- `reports/EET-110/Assigment#5/Assigment#5_3pgRight.txt`
+- `reports/EET-110/Assigment#5/Assignment5_1.cpp`
+- `reports/EET-110/Assigment#5/Assignment5_3.cpp`
+- `reports/EET-110/Assigment#5/Experiment_N5.cpp_code.txt`
+- `reports/EET-110/Assigment#5/Monthly Payment_4.txt`
+- `reports/EET-110/Assigment#5/New Text Document.txt`
+- `reports/EET-110/Assigment#5/Resistors in Parallel.txt`
+- `reports/EET-110/Assigment#5/To print out/EET-113-No3.docx`
+- `reports/EET-110/Assigment#5/To print out/EET-177NO.5.docx`
+- `reports/EET-110/Assigment#5/To print out/MortgageCalculator2..txt`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Piter Garcia.cpp`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question#1.txt`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question#2.jpg`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question#2.txt`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question#2jpg2.jpg`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Question.jpg`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing Questionjpg2.jpg`
+- `reports/EET-110/Assigment#5/To print out/Programing Questions      (Exams)/Programing_Question.cpp`
+- `reports/EET-110/Assigment#5/Writing a Program with Two Functions.txt`
+- `reports/EET-110/Assignment (a).jpg`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1.sln`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/app.ico`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/AssemblyInfo.cpp`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/Assignment 7A1.cpp`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/Assignment 7A1.vcproj`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/ReadMe.txt`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/resource.h`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/stdafx.cpp`
+- `reports/EET-110/Assignment 7A1/Assignment 7A1/stdafx.h`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2.sln`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/app.ico`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/AssemblyInfo.cpp`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/Assignment 7A2.cpp`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/Assignment 7A2.vcproj`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/ReadMe.txt`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/resource.h`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/stdafx.cpp`
+- `reports/EET-110/Assignment 7A2/Assignment 7A2/stdafx.h`
+- `reports/EET-110/Assignment2 (3A)2/app.ico`
+- `reports/EET-110/Assignment2 (3A)2/AssemblyInfo.cpp`
+- `reports/EET-110/Assignment2 (3A)2/Assignment2 (3A)2.cpp`
+- `reports/EET-110/Assignment2 (3A)2/Assignment2 (3A)2.vcproj`
+- `reports/EET-110/Assignment2 (3A)2/ReadMe.txt`
+- `reports/EET-110/Assignment2 (3A)2/resource.h`
+- `reports/EET-110/Assignment2 (3A)2/stdafx.cpp`
+- `reports/EET-110/Assignment2 (3A)2/stdafx.h`
+- `reports/EET-110/Assignment3/app.ico`
+- `reports/EET-110/Assignment3/AssemblyInfo.cpp`
+- `reports/EET-110/Assignment3/Assignment3.cpp`
+- `reports/EET-110/Assignment3/Assignment3.vcproj`
+- `reports/EET-110/Assignment3/ReadMe.txt`
+- `reports/EET-110/Assignment3/resource.h`
+- `reports/EET-110/Assignment3/stdafx.cpp`
+- `reports/EET-110/Assignment3/stdafx.h`
+- `reports/EET-110/assignment4.jpg`
+- `reports/EET-110/Assignment4/app.ico`
+- `reports/EET-110/Assignment4/AssemblyInfo.cpp`
+- `reports/EET-110/Assignment4/Assignment4.cpp`
+- `reports/EET-110/Assignment4/Assignment4.vcproj`
+- `reports/EET-110/Assignment4/ReadMe.txt`
+- `reports/EET-110/Assignment4/resource.h`
+- `reports/EET-110/Assignment4/stdafx.cpp`
+- `reports/EET-110/Assignment4/stdafx.h`
+- `reports/EET-110/Debugging Problems.docx`
+- `reports/EET-110/EET 110#2 (2).docx`
+- `reports/EET-110/EET 110#2.docx`
+- `reports/EET-110/EET 110.docx`
+- `reports/EET-110/EET%20110#2.docx`
+- `reports/EET-110/EET-110.docx`
+- `reports/EET-110/exam.jpg`
+- `reports/EET-110/exam1st.cpp`
+- `reports/EET-110/exam2nd.cpp`
+- `reports/EET-110/ExamNo.1.cpp`
+- `reports/EET-110/ExamNo2.cpp`
+- `reports/EET-110/ExamNo2/app.ico`
+- `reports/EET-110/ExamNo2/AssemblyInfo.cpp`
+- `reports/EET-110/ExamNo2/ExamNo2.cpp`
+- `reports/EET-110/ExamNo2/ExamNo2.vcproj`
+- `reports/EET-110/ExamNo2/ReadMe.txt`
+- `reports/EET-110/ExamNo2/resource.h`
+- `reports/EET-110/ExamNo2/stdafx.cpp`
+- `reports/EET-110/ExamNo2/stdafx.h`
+- `reports/EET-110/ExamNo4.cpp`
+- `reports/EET-110/ExamNo4/app.ico`
+- `reports/EET-110/ExamNo4/AssemblyInfo.cpp`
+- `reports/EET-110/ExamNo4/ExamNo4.cpp`
+- `reports/EET-110/ExamNo4/ExamNo4.vcproj`
+- `reports/EET-110/ExamNo4/ReadMe.txt`
+- `reports/EET-110/ExamNo4/resource.h`
+- `reports/EET-110/ExamNo4/stdafx.cpp`
+- `reports/EET-110/ExamNo4/stdafx.h`
+- `reports/EET-110/examrd.cpp`
+- `reports/EET-110/Experiment_No5_3cpp.txt`
+- `reports/EET-110/Parallel_Circuit.5.txt`
+- `reports/EET-110/Ray B.docx`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/4.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/4.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/4/4/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/AnotherCurrection.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/AnotherCurrection.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection/AnotherCurrection/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/AnotherCurrection2.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/AnotherCurrection2.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/AnotherCurrection2/AnotherCurrection2/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A).sln`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/ASSIGMENT2 (3A).cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/ASSIGMENT2 (3A).vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/ASSIGMENT2 (3A)/ASSIGMENT2 (3A)/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/Assigment4.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/Assigment4.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assigment4/Assigment4/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A).sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/Assignment2 (2A).cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/Assignment2 (2A).vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (2A)/Assignment2 (2A)/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A).sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/Assignment2 (3A).cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/Assignment2 (3A).vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)/Assignment2 (3A)/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/Assignment2 (3A)2.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/Assignment2 (3A)2.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2/Assignment2 (3A)2/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3).sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/app.ico`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/Assignment3(3).cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/Assignment3(3).vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3(3)/Assignment3(3)/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/Assignment3.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/Assignment3.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment3/Assignment3/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/Assignment4.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/Assignment4.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4/Assignment4/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/Assignment4_1.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/Assignment4_1.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1/Assignment4_1/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/Assignment4_1_.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/Assignment4_1_.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_1_/Assignment4_1_/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/Assignment4_2.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/Assignment4_2.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2/Assignment4_2/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Assignment4_2_.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Assignment4_2_.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Assignment4_2_.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_/Stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/Assignment4_2__.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/Assignment4_2__.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2__/Assignment4_2__/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/Assignment4_3.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/Assignment4_3.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_3/Assignment4_3/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/Assignment4_4.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/Assignment4_4.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment4_4/Assignment4_4/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/Assignment5_1.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/Assignment5_1.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_1/Assignment5_1/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/Assignment5_3.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/Assignment5_3.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_3/Assignment5_3/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/Assignment5_4_.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/Assignment5_4_.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment5_4_/Assignment5_4_/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/Assignment__1.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/Assignment__1.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assignment__1/Assignment__1/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/Assingment4.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/Assingment4.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Assingment4/Assingment4/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/BEBA.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/BEBA.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/BEBA/BEBA/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/correction/correction.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/correction/correction/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/correction/correction/correction.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/correction/correction/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/Currection2.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/Currection2.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection2/Currection2/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/Currection3.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/Currection3.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/Currection3/Currection3/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/dfdf.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/dfdf.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/stdafx.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/dfdf/dfdf/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/AssemblyInfo.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4.cpp`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4.vcproj`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/ReadMe.txt`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/resource.h`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-222 - Lab Experiment No. 4/EET-222 - Lab Experiment No. 4/stdafx.h`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-223-LabExp4/EET-223-LabExp4.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-223LabExp/EET-223LabExp.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-Lab Report/EET-Lab Report.sln`
+- `reports/EET-110/Visual Studio 2008/Projects/EET-LAB/EET-LAB.sln`
+- `reports/EET-113-No3.docx`
+- `reports/EET-177NO.5.docx`
+- `reports/EET-327LAB13C++CODE/EET-327LAB13.sln`
+- `reports/EET-327LAB13C++CODE/EET-327LAB13/EET-327LAB13.vcproj`
+- `reports/EET-327LAB13C++CODE/EET-327LAB13/EET327LabNo13_output.txt`
+- `reports/EET-327LAB13C++CODE/EET-327LAB13/LAB13.cpp`
+- `reports/EET327LabNo13_output.txt`
+- `reports/Experiment_N5.cpp_code.txt`
+- `reports/Experiment_No5_3cpp.txt`
+- `reports/ExtraCreditNo.2-Output.txt`
+- `reports/FCTextC/extracreditFCT.xcodeproj/project.pbxproj`
+- `reports/FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/contents.xcworkspacedata`
+- `reports/FCTextC/extracreditFCT.xcodeproj/project.xcworkspace/xcuserdata/pitergarcia.xcuserdatad/UserInterfaceState.xcuserstate`
+- `reports/feistelProof.pdf`
+- `reports/FirstLab-output.txt`
+- `reports/Homework7.docx`
+- `reports/hw3sol.pdf`
+- `reports/introcrypto.pdf`
+- `reports/Lab Assignment 6 - Output&Input.docx`
+- `reports/lab1.txt`
+- `reports/Lab11BCS.docx`
+- `reports/Lab12BCS.docx`
+- `reports/Lab13BCS.docx`
+- `reports/lab17-answers.txt`
+- `reports/lab19- answers.txt`
+- `reports/lab19b- answers.txt`
+- `reports/lab1answers.txt`
+- `reports/LAB20.txt`
+- `reports/lab25-answers.txt`
+- `reports/Lab4.txt`
+- `reports/Lab4/Lab4.sln`
+- `reports/Lab4/Lab4/Lab4.cpp`
+- `reports/Lab4/Lab4/Lab4.txt`
+- `reports/Lab4/Lab4/Lab4.vcproj`
+- `reports/Lab4/Lab4/Lab4_Output.txt`
+- `reports/Lab4_Input.txt`
+- `reports/Lab4_Output--from-Lab5-Lab5.txt`
+- `reports/Lab4_Output--from-LabNo.5-LabNo.5.txt`
+- `reports/Lab4_Output.txt`
+- `reports/Lab_AssigntmentNo.6_Input.txt`
+- `reports/Lab_No2_Output--from-Lab_No2-Lab_No2.txt`
+- `reports/Lab_No2_Output.txt`
+- `reports/LabAssignmentNo6-Code.docx`
+- `reports/LabNo10-BCS230-InputAndOutput.docx`
+- `reports/LabNo10_input.txt`
+- `reports/LabNo10_Output.txt`
+- `reports/LabNo11--from-lab11b-lab11b.txt`
+- `reports/LabNo11--from-lab11C-lab11C.txt`
+- `reports/LabNo11--from-LabAssignment11-LabAssignment11.txt`
+- `reports/LabNo11.txt`
+- `reports/LabNo11_output--from-lab11b-lab11b.txt`
+- `reports/LabNo11_output--from-lab11C-lab11C.txt`
+- `reports/LabNo11_output--from-LabAssignment11-LabAssignment11.txt`
+- `reports/LabNo11_output.txt`
+- `reports/LabNo13_output.txt`
+- `reports/LabNo14_output.txt`
+- `reports/LabNo3_Output.txt`
+- `reports/LabNo7B.docx`
+- `reports/LabNo7C.docx`
+- `reports/LabNo9_Input.txt`
+- `reports/LabNo9_Output.txt`
+- `reports/LABS11-13 Output.txt`
+- `reports/License.txt`
+- `reports/Losing Example--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- `reports/Losing Example.txt`
+- `reports/Monthly Payment_4.txt`
+- `reports/MortgageCalculator2..txt`
+- `reports/MyQueue4.txt`
+- `reports/MyStack4.txt`
+- `reports/NeHe's Readme.txt`
+- `reports/Neutral Example--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- `reports/Neutral Example.txt`
+- `reports/New Text Document--from-EET-110-Assigment-5.txt`
+- `reports/New Text Document.txt`
+- `reports/Output--from-AssignmentNo7-AssignmentNo7.txt`
+- `reports/output--from-HM1-HM1.txt`
+- `reports/output--from-HM2-HM2.txt`
+- `reports/Output--from-HM3-HM3.txt`
+- `reports/Output--from-LabNo12-LabNo12.txt`
+- `reports/Output--from-LabNo12a-LabNo12a.txt`
+- `reports/output--from-LabNo13-LabNo13.txt`
+- `reports/output--from-LabNo14-LabNo14.txt`
+- `reports/Output--from-LabNo6-LabNo6.txt`
+- `reports/Output--from-LabNo7-LabNo7.txt`
+- `reports/Output-Build--from-BCS-317-Assignment4.txt`
+- `reports/Output-Build--from-BCS-317-AssignmentNo2.txt`
+- `reports/Output-Build--from-BCS-317-BinaryTree.txt`
+- `reports/Output-Build--from-BCS-317-Lab11.txt`
+- `reports/Output-Build--from-BCS-317-TrueFalse.txt`
+- `reports/Output-Build--from-Data-Extructure--BCS-317.txt`
+- `reports/Output-Build--from-PersonalProjects-Mark-s-Bill-Management.txt`
+- `reports/Output-Build--from-Stuff-Assignment3.txt`
+- `reports/Output-Build--from-Stuff-Assignment4.txt`
+- `reports/Output-Build--from-Stuff-Lab11.txt`
+- `reports/Output-Build.txt`
+- `reports/Output-Debug.txt`
+- `reports/Output-Premium-a&bExceeded.txt`
+- `reports/Output-Premium-aExceeded.txt`
+- `reports/Output-Premium-bExceeded.txt`
+- `reports/Output-Premium-NoneExceeded.txt`
+- `reports/Output-Regular1.txt`
+- `reports/Output-Regular2.txt`
+- `reports/output.txt`
+- `reports/Output2--from-LabNo6-LabNo6.txt`
+- `reports/Output2.txt`
+- `reports/Output5.txt`
+- `reports/Output7A.txt`
+- `reports/Output7B.txt`
+- `reports/Output_File.txt`
+- `reports/Output_Game--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- `reports/Output_Game.txt`
+- `reports/Output_Game2--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- `reports/Output_Game2.txt`
+- `reports/outputlab10.txt`
+- `reports/p_garcia.doc`
+- `reports/p_garcia.pdf`
+- `reports/PA2_Output.txt`
+- `reports/Parallel_Circuit.5.txt`
+- `reports/Programing Question#1.txt`
+- `reports/Programing Question#2.txt`
+- `reports/Programming I/Assignment_2/Assignment_2.sln`
+- `reports/Programming I/Assignment_2/Assignment_2/Assignment_2.vcproj`
+- `reports/Programming I/Assignment_2/Assignment_2/AssignmentNo2.cpp`
+- `reports/Programming I/Assignment_2/Assignment_2/AssignmentNo2_Output.txt`
+- `reports/Programming I/AssignmentNo3/AssignmentNo3.sln`
+- `reports/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3.cpp`
+- `reports/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3.vcproj`
+- `reports/Programming I/AssignmentNo3/AssignmentNo3/AssignmentNo3Output.txt`
+- `reports/Programming I/AssignmentNo4/AssignmentNo4.sln`
+- `reports/Programming I/AssignmentNo4/AssignmentNo4/AssignmentNo4.cpp`
+- `reports/Programming I/AssignmentNo4/AssignmentNo4/AssignmentNo4.vcproj`
+- `reports/Programming I/AssignmentNo4/AssignmentNo4/Ch3_Ex6input.txt`
+- `reports/Programming I/AssignmentNo4/AssignmentNo4/Ch3_Ex6output.txt`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5.sln`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/AssignmentNo5.cpp`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/AssignmentNo5.vcproj`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-a&bExceeded.txt`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-aExceeded.txt`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-bExceeded.txt`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Premium-NoneExceeded.txt`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Regular1.txt`
+- `reports/Programming I/AssignmentNo5/AssignmentNo5/Output-Regular2.txt`
+- `reports/Programming I/AssignmentNo6/AssignmentNo6.sln`
+- `reports/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6.cpp`
+- `reports/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6.vcproj`
+- `reports/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6_input.txt`
+- `reports/Programming I/AssignmentNo6/AssignmentNo6/AssignmentNo6_output.txt`
+- `reports/Programming I/AssignmentNo7/AssignmentNo7.sln`
+- `reports/Programming I/AssignmentNo7/AssignmentNo7/AssignmentNo7.cpp`
+- `reports/Programming I/AssignmentNo7/AssignmentNo7/AssignmentNo7.vcproj`
+- `reports/Programming I/AssignmentNo7/AssignmentNo7/checking_grades.txt`
+- `reports/Programming I/AssignmentNo7/AssignmentNo7/Output.txt`
+- `reports/Programming I/AssignmentNo7/AssignmentNo7/Output2.txt`
+- `reports/Programming I/AssignmentNo8/AssignmentNo8.sln`
+- `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo6_output.txt`
+- `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8.cpp`
+- `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8.vcproj`
+- `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8_input.txt`
+- `reports/Programming I/AssignmentNo8/AssignmentNo8/AssignmentNo8_output.txt`
+- `reports/Programming I/C++_Program/C++_Program/C++ Program_Output.txt`
+- `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Losing Example.txt`
+- `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Neutral Example.txt`
+- `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Output_Game.txt`
+- `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Output_Game2.txt`
+- `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Refilling_funds Output.txt`
+- `reports/Programming I/ExtraCreditNo1/ExtraCreditNo1/Winning Example.txt`
+- `reports/Programming I/ExtraCreditNo2/ExtraCreditNo2/ExtraCreditNo.2-Output.txt`
+- `reports/Programming I/FixingAssignment5/FixingAssignment5.sln`
+- `reports/Programming I/FixingAssignment5/FixingAssignment5/FixingAssignment5.vcproj`
+- `reports/Programming I/Lab4/Lab4.sln`
+- `reports/Programming I/Lab4/Lab4.txt`
+- `reports/Programming I/Lab4/Lab4/Lab4.cpp`
+- `reports/Programming I/Lab4/Lab4/Lab4.vcproj`
+- `reports/Programming I/Lab4/Lab4_Output.txt`
+- `reports/Programming I/Lab5/Lab5.sln`
+- `reports/Programming I/Lab5/Lab5/Lab4_Input.txt`
+- `reports/Programming I/Lab5/Lab5/Lab4_Output.txt`
+- `reports/Programming I/Lab5/Lab5/Lab5.cpp`
+- `reports/Programming I/Lab5/Lab5/Lab5.vcproj`
+- `reports/Programming I/Lab_No2/Lab_No2.sln`
+- `reports/Programming I/Lab_No2/Lab_No2/Lab_No2.cpp`
+- `reports/Programming I/Lab_No2/Lab_No2/Lab_No2.vcproj`
+- `reports/Programming I/Lab_No2/Lab_No2/Lab_No2_Output.txt`
+- `reports/Programming I/Lab_No2/Lab_No2_Output.txt`
+- `reports/Programming I/LabNo.4/LabNo.4.sln`
+- `reports/Programming I/LabNo.4/LabNo.4/LabNo.4.vcproj`
+- `reports/Programming I/LabNo.4/LabNo.4/Practice.cpp`
+- `reports/Programming I/LabNo.5/LabNo.5.sln`
+- `reports/Programming I/LabNo.5/LabNo.5/Lab4.cpp`
+- `reports/Programming I/LabNo.5/LabNo.5/Lab4_Output.txt`
+- `reports/Programming I/LabNo.5/LabNo.5/LabNo.5.vcproj`
+- `reports/Programming I/LabNo.5/LabNo.5/LabNo4.cpp`
+- `reports/Programming I/LabNo.5/LabNo.5/LabNo5.cpp`
+- `reports/Programming I/LabNo.8/LabNo.8.sln`
+- `reports/Programming I/LabNo.8/LabNo.8/LabNo.8.vcproj`
+- `reports/Programming I/LabNo.8/LabNo.8/LabNo8.cpp`
+- `reports/Programming I/LabNo.8/LabNo.8/Output_File.txt`
+- `reports/Programming I/LabNo10/LabNo10.sln`
+- `reports/Programming I/LabNo10/LabNo10/LabNo10.cpp`
+- `reports/Programming I/LabNo10/LabNo10/LabNo10.vcproj`
+- `reports/Programming I/LabNo10/LabNo10/LabNo10_input.txt`
+- `reports/Programming I/LabNo10/LabNo10/LabNo10_Output.txt`
+- `reports/Programming I/LabNo12/LabNo12.sln`
+- `reports/Programming I/LabNo12/LabNo12/LabNo12.cpp`
+- `reports/Programming I/LabNo12/LabNo12/LabNo12.vcproj`
+- `reports/Programming I/LabNo12/LabNo12/Output.txt`
+- `reports/Programming I/LabNo12a/LabNo12a.sln`
+- `reports/Programming I/LabNo12a/LabNo12a/LabNo12.cpp`
+- `reports/Programming I/LabNo12a/LabNo12a/LabNo12a.vcproj`
+- `reports/Programming I/LabNo12a/LabNo12a/Output.txt`
+- `reports/Programming I/LabNo13/LabNo13.sln`
+- `reports/Programming I/LabNo13/LabNo13/LabNo13.cpp`
+- `reports/Programming I/LabNo13/LabNo13/LabNo13.vcproj`
+- `reports/Programming I/LabNo13/LabNo13/output.txt`
+- `reports/Programming I/LabNo14/LabNo14.sln`
+- `reports/Programming I/LabNo14/LabNo14/LabNo14.vcproj`
+- `reports/Programming I/LabNo14/LabNo14/LabNo4.cpp`
+- `reports/Programming I/LabNo14/LabNo14/output.txt`
+- `reports/Programming I/LabNo14/LabNo14/testing_output.txt`
+- `reports/Programming I/LabNo15/LabNo15.sln`
+- `reports/Programming I/LabNo15/LabNo15/LabNo15.vcproj`
+- `reports/Programming I/LabNo15/LabNo15/LabNo5.cpp`
+- `reports/Programming I/LabNo15/LabNo15/output.txt`
+- `reports/Programming I/LabNo15A/LabNo15A.sln`
+- `reports/Programming I/LabNo15A/LabNo15A/LabNo15A.cpp`
+- `reports/Programming I/LabNo15A/LabNo15A/LabNo15A.vcproj`
+- `reports/Programming I/LabNo3/LabNo3.sln`
+- `reports/Programming I/LabNo3/LabNo3/LabNo3.cpp`
+- `reports/Programming I/LabNo3/LabNo3/LabNo3.vcproj`
+- `reports/Programming I/LabNo3/LabNo3/LabNo3_Output.txt`
+- `reports/Programming I/LabNo6/LabNo6.sln`
+- `reports/Programming I/LabNo6/LabNo6/LabNo6.cpp`
+- `reports/Programming I/LabNo6/LabNo6/LabNo6.vcproj`
+- `reports/Programming I/LabNo6/LabNo6/Output.txt`
+- `reports/Programming I/LabNo6/LabNo6/Output2.txt`
+- `reports/Programming I/LabNo7/LabNo7.sln`
+- `reports/Programming I/LabNo7/LabNo7/LabNo7.cpp`
+- `reports/Programming I/LabNo7/LabNo7/LabNo7.vcproj`
+- `reports/Programming I/LabNo7/LabNo7/Output.txt`
+- `reports/Programming I/LabNo9/LabNo9.sln`
+- `reports/Programming I/LabNo9/LabNo9/LabNo9.cpp`
+- `reports/Programming I/LabNo9/LabNo9/LabNo9.vcproj`
+- `reports/Programming I/LabNo9/LabNo9/LabNo9_Input.txt`
+- `reports/Programming I/LabNo9/LabNo9/LabNo9_Output.txt`
+- `reports/Programming I/Programming_Assingment2/Programming_Assingment2/PA2_Output.txt`
+- `reports/Programming I/Programming_Assingment2/Programming_Assingment2/Programming_Assignment2.cpp`
+- `reports/Programming I/Programming_Assingment2/Programming_Assingment2/Programming_Assignment_2.cpp`
+- `reports/Programming I/ShirtDiscount/ShirtDiscount_PG/ReadMe.txt`
+- `reports/Programming I/Using_Visual_C___Express.doc`
+- `reports/Ray B.docx`
+- `reports/ReadMe--from-4-4.txt`
+- `reports/ReadMe--from-AnotherCurrection-AnotherCurrection.txt`
+- `reports/ReadMe--from-AnotherCurrection2-AnotherCurrection2.txt`
+- `reports/ReadMe--from-Assigment-5-A4-A.txt`
+- `reports/ReadMe--from-ASSIGMENT2-3A--ASSIGMENT2-3A.txt`
+- `reports/ReadMe--from-Assigment4-Assigment4.txt`
+- `reports/ReadMe--from-Assignment-7A1-Assignment-7A1.txt`
+- `reports/ReadMe--from-Assignment-7A2-Assignment-7A2.txt`
+- `reports/ReadMe--from-Assignment2-2A--Assignment2-2A.txt`
+- `reports/ReadMe--from-Assignment2-3A--Assignment2-3A.txt`
+- `reports/ReadMe--from-Assignment2-3A-2-Assignment2-3A-2.txt`
+- `reports/ReadMe--from-Assignment3-3--Assignment3-3.txt`
+- `reports/ReadMe--from-Assignment3-Assignment3.txt`
+- `reports/ReadMe--from-Assignment4-Assignment4.txt`
+- `reports/ReadMe--from-Assignment4_1-Assignment4_1.txt`
+- `reports/ReadMe--from-Assignment4_1_-Assignment4_1_.txt`
+- `reports/ReadMe--from-Assignment4_2-Assignment4_2.txt`
+- `reports/ReadMe--from-Assignment4_2_-Assignment4_2_.txt`
+- `reports/ReadMe--from-EET-110-Assignment2-3A-2.txt`
+- `reports/ReadMe--from-EET-110-Assignment3.txt`
+- `reports/ReadMe--from-EET-110-Assignment4.txt`
+- `reports/ReadMe--from-EET-110-ExamNo2.txt`
+- `reports/ReadMe--from-EET-110-ExamNo4.txt`
+- `reports/Readme--from-lesson30-Lesson30.txt`
+- `reports/Readme--from-shadowmap-Shadow-Mapping.txt`
+- `reports/ReadMe--from-ShirtDiscount_PG-ShirtDiscount_PG.txt`
+- `reports/ReadMe--from-testing-testing.txt`
+- `reports/ReadMe--from-TrueFalse-TrueFalse.txt`
+- `reports/ReadMe.txt`
+- `reports/Refilling_funds Output--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- `reports/Refilling_funds Output.txt`
+- `reports/Resistors in Parallel.txt`
+- `reports/Results.txt`
+- `reports/Student Center-FallSchedule.pdf`
+- `reports/Stuff/Assignment3/Assignment3.sln`
+- `reports/Stuff/Assignment3/Assignment3/Assignment3.txt`
+- `reports/Stuff/Assignment3/Assignment3/Assignment3.vcxproj`
+- `reports/Stuff/Assignment3/Assignment3/AuthorSignature.cpp`
+- `reports/Stuff/Assignment3/Assignment3/BaseballPlayer.cpp`
+- `reports/Stuff/Assignment3/Assignment3/BaseballPlayer.h`
+- `reports/Stuff/Assignment3/Assignment3/MyList.cpp`
+- `reports/Stuff/Assignment3/Assignment3/MyList.h`
+- `reports/Stuff/Assignment3/Assignment3/TeamData.cpp`
+- `reports/Stuff/Assignment3/Output-Build.txt`
+- `reports/Stuff/Assignment4/Assignment4.sln`
+- `reports/Stuff/Assignment4/Assignment4/Assignment4.txt`
+- `reports/Stuff/Assignment4/Assignment4/Assignment4.vcxproj`
+- `reports/Stuff/Assignment4/Assignment4/AuthorSignature.cpp`
+- `reports/Stuff/Assignment4/Assignment4/BaseballPlayers.cpp`
+- `reports/Stuff/Assignment4/Assignment4/BaseballPlayers.h`
+- `reports/Stuff/Assignment4/Assignment4/BaseballPlayers4.txt`
+- `reports/Stuff/Assignment4/Assignment4/header4.h`
+- `reports/Stuff/Assignment4/Assignment4/MainFile.cpp`
+- `reports/Stuff/Assignment4/Assignment4/MyQueue.cpp`
+- `reports/Stuff/Assignment4/Assignment4/MyQueue.h`
+- `reports/Stuff/Assignment4/Assignment4/MyQueue4.txt`
+- `reports/Stuff/Assignment4/Assignment4/MyStack.cpp`
+- `reports/Stuff/Assignment4/Assignment4/MyStack.h`
+- `reports/Stuff/Assignment4/Assignment4/MyStack4.txt`
+- `reports/Stuff/Assignment4/Output-Build.txt`
+- `reports/Stuff/hw2/hw2/Assignment2.txt`
+- `reports/Stuff/hw2/hw2/Clonefile.txt`
+- `reports/Stuff/Lab1/LAB1.asm`
+- `reports/Stuff/Lab1/lab1.txt`
+- `reports/Stuff/Lab1/lab1answers.txt`
+- `reports/Stuff/Lab11/Lab11.sln`
+- `reports/Stuff/Lab11/Lab11/Lab11.cpp`
+- `reports/Stuff/Lab11/Lab11/Lab11.h`
+- `reports/Stuff/Lab11/Lab11/Lab11.vcxproj`
+- `reports/Stuff/Lab11/Lab11/Lab11IMP.cpp`
+- `reports/Stuff/Lab11/Output-Build.txt`
+- `reports/Stuff/Lab17/lab17-answers.txt`
+- `reports/Stuff/Lab17/lab17.asm`
+- `reports/Stuff/Lab19/lab19- answers.txt`
+- `reports/Stuff/Lab19/LAB19.asm`
+- `reports/Stuff/Lab19/lab19b- answers.txt`
+- `reports/Stuff/Lab19/LAB19b.asm`
+- `reports/Stuff/Lab20/LAB20.txt`
+- `reports/Stuff/Lab20/lab25-answers.txt`
+- `reports/Stuff/Lab22/Lab22.sln`
+- `reports/Stuff/Lab22/Lab22/BinarySearch.h`
+- `reports/Stuff/Lab22/Lab22/BinarySearchInside.cpp`
+- `reports/Stuff/Lab22/Lab22/BinaryTreeIMP.cpp`
+- `reports/Stuff/Lab22/Lab22/Lab22.vcxproj`
+- `reports/Stuff/Lab22/Lab22/MyMain.cpp`
+- `reports/Stuff/Lab3/Assignment3.h`
+- `reports/Stuff/Lab3/Assignmentt3.cpp`
+- `reports/Stuff/Lab3/Assignmentt3.vcxproj`
+- `reports/Stuff/Lab6/Lab6.vcxproj`
+- `reports/Stuff/Lab7/lab7.asm`
+- `reports/Stuff/Lab7/lab7.m`
+- `reports/Stuff/Lab7/Lab7.sln`
+- `reports/Stuff/Lab7/Lab7/Lab7.vcxproj`
+- `reports/Stuff/Lab7/Lab7/Recursion.cpp`
+- `reports/Stuff/Lab7/Lab7/Recursion.h`
+- `reports/Stuff/Lab7/Lab7/Recursion1.cpp`
+- `reports/Stuff/ReadMe.txt`
+- `reports/Stuff/test/test/Assignment2.txt`
+- `reports/testing_output.txt`
+- `reports/TestingAssignment2.txt`
+- `reports/Using_Visual_C___Express.doc`
+- `reports/uw-cse599r-des-cryptanalysis.googlecode.com_svn_trunk_talk_draft1.pdf`
+- `reports/websites I closed.txt`
+- `reports/Winning Example--from-ExtraCreditNo1-ExtraCreditNo1.txt`
+- `reports/Winning Example.txt`
+- `reports/Writing a Program with Two Functions.txt`
 
-- `reports/`: 1192 file(s)
-- `presentations/`: 23 file(s)
+## Presentations
 
-## Notes
-
-Only folders with actual GitHub-stored files are listed here. Heavy/video/data-only material stays in Drive and is listed in `DRIVE_ONLY.md` when detected.
+- `presentations/BCS_370_L10_-_Ch_4.ppt`
+- `presentations/BCS_370_L11_Lab_-_Sorted_List.ppt`
+- `presentations/BCS_370_L12_-_Exam_2_Review.ppt`
+- `presentations/BCS_370_L13_-_Ch_5_p1.ppt`
+- `presentations/BCS_370_L15_-_Ch_5_p2.ppt`
+- `presentations/BCS_370_L17_-_Ch_7.ppt`
+- `presentations/BCS_370_L18_Lab_-_Recursion.ppt`
+- `presentations/BCS_370_L19_-_Ch_8_p1.ppt`
+- `presentations/BCS_370_L1_-_C___Review (1).ppt`
+- `presentations/BCS_370_L1_-_C___Review.ppt`
+- `presentations/BCS_370_L20_-_Ch_8_p2.ppt`
+- `presentations/BCS_370_L21_-_Ch_8_p3.ppt`
+- `presentations/BCS_370_L22_Lab_-_Binary_Search_Tree.ppt`
+- `presentations/BCS_370_L2_-_Classes_p1.ppt`
+- `presentations/BCS_370_L2_-_Classes_p2.ppt`
+- `presentations/BCS_370_L3_-_Pointers_p1.ppt`
+- `presentations/BCS_370_L4_Lab_-_Wall_Post.ppt`
+- `presentations/BCS_370_L5_-_Pointers_p2.ppt`
+- `presentations/BCS_370_L7_-_Ch_2.ppt`
+- `presentations/BCS_370_L8_-_Ch_3.ppt`
+- `presentations/BCS_370_L9_Lab_-_Pointers_TrueFalseQuest.ppt`
+- `presentations/CryptoHw7/S4-AES.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L10_-_Ch_4.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L11_Lab_-_Sorted_List.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L12_-_Exam_2_Review.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L13_-_Ch_5_p1.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L15_-_Ch_5_p2.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L17_-_Ch_7.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L18_Lab_-_Recursion.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L19_-_Ch_8_p1.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L1_-_C___Review (1).ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L1_-_C___Review.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L20_-_Ch_8_p2.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L21_-_Ch_8_p3.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L22_Lab_-_Binary_Search_Tree.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L2_-_Classes_p1.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L2_-_Classes_p2.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L3_-_Pointers_p1.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L4_Lab_-_Wall_Post.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L5_-_Pointers_p2.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L7_-_Ch_2.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L8_-_Ch_3.ppt`
+- `presentations/Data Extructure /BCS-317/BCS_370_L9_Lab_-_Pointers_TrueFalseQuest.ppt`
+- `presentations/Data Extructure /BCS-317/LinkedUnsortedLists.ppt`
+- `presentations/LinkedUnsortedLists.ppt`
+- `presentations/S4-AES.ppt`

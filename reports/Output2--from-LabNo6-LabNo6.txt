@@ -1,0 +1,16 @@
+                          Laboratory # 6
+                         By  Piter Garcia
+
+
+
+                       If Statement Program
+                   ============================
+
+ Please Enter the Month, Day, and Year in Two Digits Numerical Value:
+ 06
+ 10
+ 50
+                      The Date is not Magic
+                            6 / 10 / 50
+
+Press any key to continue . . .

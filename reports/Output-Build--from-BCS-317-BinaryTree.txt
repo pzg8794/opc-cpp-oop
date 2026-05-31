@@ -1,0 +1,10 @@
+﻿1>------ Build started: Project: BinaryTree, Configuration: Debug Win32 ------
+1>  BinarySearchTree.cpp
+1>Main.obj : error LNK2028: unresolved token (0A000450) "public: __thiscall MyBinarySearchTree::MyBinarySearchTree(void)" (??0MyBinarySearchTree@@$$FQAE@XZ) referenced in function "int __cdecl main(void)" (?main@@$$HYAHXZ)
+1>Main.obj : error LNK2028: unresolved token (0A000451) "public: __thiscall MyBinarySearchTree::~MyBinarySearchTree(void)" (??1MyBinarySearchTree@@$$FQAE@XZ) referenced in function "int __cdecl main(void)" (?main@@$$HYAHXZ)
+1>Main.obj : error LNK2028: unresolved token (0A000452) "public: void __thiscall MyBinarySearchTree::Add(class BaseballPlayer)" (?Add@MyBinarySearchTree@@$$FQAEXVBaseballPlayer@@@Z) referenced in function "int __cdecl main(void)" (?main@@$$HYAHXZ)
+1>Main.obj : error LNK2019: unresolved external symbol "public: __thiscall MyBinarySearchTree::~MyBinarySearchTree(void)" (??1MyBinarySearchTree@@$$FQAE@XZ) referenced in function "int __cdecl main(void)" (?main@@$$HYAHXZ)
+1>Main.obj : error LNK2019: unresolved external symbol "public: void __thiscall MyBinarySearchTree::Add(class BaseballPlayer)" (?Add@MyBinarySearchTree@@$$FQAEXVBaseballPlayer@@@Z) referenced in function "int __cdecl main(void)" (?main@@$$HYAHXZ)
+1>Main.obj : error LNK2019: unresolved external symbol "public: __thiscall MyBinarySearchTree::MyBinarySearchTree(void)" (??0MyBinarySearchTree@@$$FQAE@XZ) referenced in function "int __cdecl main(void)" (?main@@$$HYAHXZ)
+1>C:\Users\GarcpGV\Desktop\BinaryTree\Debug\BinaryTree.exe : fatal error LNK1120: 6 unresolved externals
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FixingAssignment5", "FixingAssignment5\FixingAssignment5.vcproj", "{A817B3E5-8966-4E3E-ADC4-C380F6517C20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A817B3E5-8966-4E3E-ADC4-C380F6517C20}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A817B3E5-8966-4E3E-ADC4-C380F6517C20}.Debug|Win32.Build.0 = Debug|Win32
+		{A817B3E5-8966-4E3E-ADC4-C380F6517C20}.Release|Win32.ActiveCfg = Release|Win32
+		{A817B3E5-8966-4E3E-ADC4-C380F6517C20}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
