@@ -4,13 +4,15 @@ Path: `reports/Stuff/Lab19`
 
 ## Purpose
 
-Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
 
 ## Items
 
 - `lab19- answers.txt` (file)
+- `LAB19.asm` (file)
 - `lab19b- answers.txt` (file)
+- `LAB19b.asm` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

@@ -1,0 +1,16 @@
+# LabNo15A
+
+Path: `reports/Programming I/LabNo15A`
+
+## Purpose
+
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
+
+## Items
+
+- `LabNo15A/` (folder)
+- `LabNo15A.sln` (file)
+
+## Notes
+
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

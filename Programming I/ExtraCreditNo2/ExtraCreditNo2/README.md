@@ -4,14 +4,14 @@ Path: `Programming I/ExtraCreditNo2/ExtraCreditNo2`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `ExtraCreditNo.2-Output.txt` (file)
+- `Debug/` (folder)
 - `ExtraCreditNo2.cpp` (file)
 - `ExtraCreditNo2.vcproj` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

@@ -4,11 +4,10 @@ Path: `3DPONG/HapticsGame/shadowmap/Shadow Mapping`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `Backup/` (folder)
 - `extensions/` (folder)
 - `Maths/` (folder)
 - `FPS_COUNTER.cpp` (file)
@@ -17,15 +16,10 @@ Indexed project directory from the old Portafolio cleanup.
 - `IMAGE.h` (file)
 - `INTERACTOR.cpp` (file)
 - `INTERACTOR.h` (file)
-- `License.txt` (file)
 - `LOG.cpp` (file)
 - `LOG.h` (file)
 - `Main.cpp` (file)
 - `Main.h` (file)
-- `Project.sln` (file)
-- `Project.vcproj` (file)
-- `Project.vcxproj` (file)
-- `Readme.txt` (file)
 - `SHADOW_MAP_LIGHT.cpp` (file)
 - `SHADOW_MAP_LIGHT.h` (file)
 - `TIMER.cpp` (file)
@@ -36,4 +30,4 @@ Indexed project directory from the old Portafolio cleanup.
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

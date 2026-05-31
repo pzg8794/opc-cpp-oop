@@ -4,14 +4,14 @@ Path: `Cpp_Prog_I_II/Programming I/C++_Program/C++_Program`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `C++ Program_Output.txt` (file)
+- `Debug/` (folder)
 - `C++_Program.cpp` (file)
 - `C++_Program.vcproj` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

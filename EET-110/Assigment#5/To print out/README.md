@@ -4,11 +4,10 @@ Path: `EET-110/Assigment#5/To print out`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `Programing Questions      (Exams)/` (folder)
 - `Anothercorrection.jpg` (file)
 - `Anothercorrection2.jpg` (file)
 - `AnotherCurrection.cpp` (file)
@@ -18,15 +17,12 @@ Indexed project directory from the old Portafolio cleanup.
 - `Currection2.cpp` (file)
 - `Currection3.cpp` (file)
 - `Currection4.cpp` (file)
-- `EET-113-No3.docx` (file)
-- `EET-177NO.5.docx` (file)
 - `gaga.cpp` (file)
 - `MortgageCalculator.jpg` (file)
-- `MortgageCalculator2..txt` (file)
 - `MortgageCalculator2.jpg` (file)
 - `Writing Functions.jpg` (file)
 - `Writing_Functions.cpp` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

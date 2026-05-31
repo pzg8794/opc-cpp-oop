@@ -4,13 +4,16 @@ Path: `reports/Data Extructure /Data Structure I`
 
 ## Purpose
 
-Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
 
 ## Items
 
+- `AssignmentNo1/` (folder)
+- `AssignmentNo2/` (folder)
+- `AssignmentNo2 (1)/` (folder)
 - `AssignmentNo2 (2)/` (folder)
 - `AssignmentNo2 (3)/` (folder)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

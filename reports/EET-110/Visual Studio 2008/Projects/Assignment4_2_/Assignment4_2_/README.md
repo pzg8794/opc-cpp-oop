@@ -4,12 +4,19 @@ Path: `reports/EET-110/Visual Studio 2008/Projects/Assignment4_2_/Assignment4_2_
 
 ## Purpose
 
-Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
 
 ## Items
 
+- `AssemblyInfo.cpp` (file)
+- `Assignment4_2_.cpp` (file)
+- `Assignment4_2_.h` (file)
+- `Assignment4_2_.vcproj` (file)
 - `ReadMe.txt` (file)
+- `resource.h` (file)
+- `Stdafx.cpp` (file)
+- `Stdafx.h` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

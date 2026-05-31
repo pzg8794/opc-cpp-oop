@@ -4,17 +4,16 @@ Path: `Cpp_Prog_I_II/Programming II/hw5/hw5`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `Assigment5_input.txt` (file)
+- `Debug/` (folder)
 - `hw5 (2).cpp` (file)
 - `hw5 (2).vcproj` (file)
 - `hw5.cpp` (file)
 - `hw5.vcproj` (file)
-- `Output5.txt` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

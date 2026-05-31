@@ -4,10 +4,15 @@ Path: `reports/EET-110/Visual Studio 2008/Projects`
 
 ## Purpose
 
-Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
 
 ## Items
 
+- `4/` (folder)
+- `AnotherCurrection/` (folder)
+- `AnotherCurrection2/` (folder)
+- `ASSIGMENT2 (3A)/` (folder)
+- `Assigment4/` (folder)
 - `Assignment2 (2A)/` (folder)
 - `Assignment2 (3A)/` (folder)
 - `Assignment2 (3A)2/` (folder)
@@ -25,8 +30,18 @@ Report, lab, assignment, and final-project documents staged for future Overleaf 
 - `Assignment5_3/` (folder)
 - `Assignment5_4_/` (folder)
 - `Assignment__1/` (folder)
+- `Assingment4/` (folder)
+- `BEBA/` (folder)
+- `correction/` (folder)
+- `Currection2/` (folder)
+- `Currection3/` (folder)
+- `dfdf/` (folder)
 - `EET-222 - Lab Experiment No. 4/` (folder)
+- `EET-223-LabExp4/` (folder)
+- `EET-223LabExp/` (folder)
+- `EET-LAB/` (folder)
+- `EET-Lab Report/` (folder)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

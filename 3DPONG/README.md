@@ -4,7 +4,7 @@ Path: `3DPONG`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
@@ -28,8 +28,7 @@ Indexed project directory from the old Portafolio cleanup.
 - `text3d.h` (file)
 - `vec3f.cpp` (file)
 - `vec3f.h` (file)
-- `websites I closed.txt` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

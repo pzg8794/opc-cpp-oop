@@ -4,13 +4,12 @@ Path: `Programming I/ShirtDiscount/ShirtDiscount_PG`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
 - `AssemblyInfo.cpp` (file)
 - `Form1.h` (file)
-- `ReadMe.txt` (file)
 - `resource.h` (file)
 - `ShirtDiscount.cpp` (file)
 - `ShirtDiscount.sln` (file)
@@ -20,4 +19,4 @@ Indexed project directory from the old Portafolio cleanup.
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

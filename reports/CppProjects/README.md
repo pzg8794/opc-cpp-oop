@@ -4,7 +4,7 @@ Path: `reports/CppProjects`
 
 ## Purpose
 
-Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
 
 ## Items
 
@@ -13,9 +13,16 @@ Report, lab, assignment, and final-project documents staged for future Overleaf 
 - `AssignmentNo4/` (folder)
 - `AssignmentNo5/` (folder)
 - `AssignmentNo6/` (folder)
+- `C++_Program/` (folder)
+- `Celcius_Program/` (folder)
+- `EET-317L2/` (folder)
+- `ExtraCreditNo2/` (folder)
+- `fixing/` (folder)
+- `FixingAssignment5/` (folder)
 - `Lab4/` (folder)
 - `Lab5/` (folder)
 - `Lab_No2/` (folder)
+- `LabNo.4/` (folder)
 - `LabNo.5/` (folder)
 - `LabNo.8/` (folder)
 - `LabNo10/` (folder)
@@ -23,7 +30,12 @@ Report, lab, assignment, and final-project documents staged for future Overleaf 
 - `LabNo6/` (folder)
 - `LabNo7/` (folder)
 - `LabNo9/` (folder)
+- `PersonalProjects/` (folder)
+- `PiterG/` (folder)
+- `Pogram No. 2/` (folder)
+- `Programming_Assingment2/` (folder)
+- `ShirtDiscount_PG/` (folder)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

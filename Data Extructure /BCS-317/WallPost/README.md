@@ -4,17 +4,18 @@ Path: `Data Extructure /BCS-317/WallPost`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `_UpgradeReport_Files/` (folder)
 - `WallPost/` (folder)
 - `facebook.cpp` (file)
 - `facebookpost.cpp` (file)
 - `FacebookPost.h` (file)
+- `UpgradeLog.XML` (file)
+- `UpgradeLog2.XML` (file)
 - `WallPost.sln` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

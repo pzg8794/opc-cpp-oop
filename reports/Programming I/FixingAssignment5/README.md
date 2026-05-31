@@ -1,0 +1,16 @@
+# FixingAssignment5
+
+Path: `reports/Programming I/FixingAssignment5`
+
+## Purpose
+
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
+
+## Items
+
+- `FixingAssignment5/` (folder)
+- `FixingAssignment5.sln` (file)
+
+## Notes
+
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

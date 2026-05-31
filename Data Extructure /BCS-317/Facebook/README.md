@@ -4,14 +4,14 @@ Path: `Data Extructure /BCS-317/Facebook`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `_UpgradeReport_Files/` (folder)
 - `Facebook/` (folder)
 - `Facebook.sln` (file)
+- `UpgradeLog.XML` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

@@ -4,14 +4,14 @@ Path: `Cpp_Prog_I_II/Programming II/AssigntmentNo.5/AssigntmentNo.5`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
-- `Assigment5_input.txt` (file)
+- `Debug/` (folder)
 - `AssigntmentNo.5.vcproj` (file)
 - `AssigntmentNo5.cpp` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

@@ -4,10 +4,11 @@ Path: `3DPONG/3DPONG/lesson30/Lesson30`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
+- `Debug/` (folder)
 - `Image.cpp` (file)
 - `Image.h` (file)
 - `Lesson30.cpp` (file)
@@ -15,8 +16,6 @@ Indexed project directory from the old Portafolio cleanup.
 - `Lesson30.vcproj` (file)
 - `Lesson30.vcxproj` (file)
 - `Mathex.h` (file)
-- `NeHe's Readme.txt` (file)
-- `Readme.txt` (file)
 - `Tmatrix.cpp` (file)
 - `Tmatrix.h` (file)
 - `Tray.cpp` (file)
@@ -27,4 +26,4 @@ Indexed project directory from the old Portafolio cleanup.
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

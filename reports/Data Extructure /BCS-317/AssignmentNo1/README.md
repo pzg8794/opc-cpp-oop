@@ -4,13 +4,16 @@ Path: `reports/Data Extructure /BCS-317/AssignmentNo1`
 
 ## Purpose
 
-Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
 
 ## Items
 
+- `_UpgradeReport_Files/` (folder)
 - `AssignmentNo1/` (folder)
+- `AssignmentNo1.sln` (file)
 - `Output-Build.txt` (file)
+- `UpgradeLog.XML` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

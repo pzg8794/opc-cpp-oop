@@ -4,14 +4,17 @@ Path: `reports/Cpp_Prog_I_II/Programming I/AssignmentNo8/AssignmentNo8`
 
 ## Purpose
 
-Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
 
 ## Items
 
+- `Debug/` (folder)
 - `AssignmentNo6_output.txt` (file)
+- `AssignmentNo8.cpp` (file)
+- `AssignmentNo8.vcproj` (file)
 - `AssignmentNo8_input.txt` (file)
 - `AssignmentNo8_output.txt` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

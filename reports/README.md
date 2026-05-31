@@ -4,20 +4,22 @@ Path: `reports`
 
 ## Purpose
 
-Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
 
 ## Items
 
+- `3DPONG/` (folder)
 - `Cpp_Prog_I_II/` (folder)
 - `CppProjects/` (folder)
 - `CryptoHw7/` (folder)
 - `Data Extructure /` (folder)
 - `EET-110/` (folder)
 - `EET-327LAB13C++CODE/` (folder)
+- `FCTextC/` (folder)
 - `Lab4/` (folder)
 - `Programming I/` (folder)
 - `Stuff/` (folder)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

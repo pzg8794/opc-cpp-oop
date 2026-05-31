@@ -4,13 +4,16 @@ Path: `reports/Lab4/Lab4`
 
 ## Purpose
 
-Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
 
 ## Items
 
+- `Debug/` (folder)
+- `Lab4.cpp` (file)
 - `Lab4.txt` (file)
+- `Lab4.vcproj` (file)
 - `Lab4_Output.txt` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

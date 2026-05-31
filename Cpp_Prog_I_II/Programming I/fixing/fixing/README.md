@@ -4,13 +4,14 @@ Path: `Cpp_Prog_I_II/Programming I/fixing/fixing`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
+- `Debug/` (folder)
 - `Fixing.cpp` (file)
 - `fixing.vcproj` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

@@ -4,10 +4,11 @@ Path: `3DPONG/HapticsGame/HapticsGame`
 
 ## Purpose
 
-Indexed project directory from the old Portafolio cleanup.
+Project/source directory imported from Google Drive.
 
 ## Items
 
+- `Debug/` (folder)
 - `basic_opengl.sln` (file)
 - `basic_opengl.vcproj` (file)
 - `basic_opengl.vcxproj` (file)
@@ -15,10 +16,9 @@ Indexed project directory from the old Portafolio cleanup.
 - `haptics.cpp` (file)
 - `haptics.h` (file)
 - `main_opengl.cpp` (file)
-- `Results.txt` (file)
 - `UpgradeLog.htm` (file)
 - `UpgradeLog2.htm` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

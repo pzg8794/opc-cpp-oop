@@ -4,14 +4,15 @@ Path: `reports/Cpp_Prog_I_II/Programming II/Lab_AssigntmentNo.6`
 
 ## Purpose
 
-Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
+Report, lab, assignment, final-project, notes, and documentation material staged for reuse or future Overleaf conversion.
 
 ## Items
 
 - `Lab_AssigntmentNo.6/` (folder)
 - `Lab Assignment 6 - Output&Input.docx` (file)
+- `Lab_AssigntmentNo.6.sln` (file)
 - `LabAssignmentNo6-Code.docx` (file)
 
 ## Notes
 
-README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
+This README was regenerated after importing all GitHub-appropriate simple files from Drive.

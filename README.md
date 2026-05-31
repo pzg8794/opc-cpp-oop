@@ -2,26 +2,21 @@
 
 Drive source: https://drive.google.com/drive/folders/13xdwMiaOA7TGKIJqCEROqGLJz2dsjAmN
 
-Purpose: cleaned old Portafolio repository with documents separated for future reuse and Overleaf conversion.
+Purpose: cleaned old Portafolio repository. Simple source, paper, report, presentation, and documentation files are stored in GitHub; heavy videos, installers, archives, and raw data stay in Drive.
 
-## Main Directories
+## Document Areas
 
-- [`papers/`](./papers/README.md) - Research papers, papers, proposals, theses, and publication-like materials.
-- [`reports/`](./reports/README.md) - Reports, lab reports, assignments, final-project writeups, and documentation.
+- [`reports/`](./reports/README.md) - Reports, labs, assignments, notes, manuals, and documentation.
 - [`presentations/`](./presentations/README.md) - Presentations, slides, and posters.
 
 ## Top-Level Items
 
 - `3DPONG/` (folder)
 - `Cpp_Prog_I_II/` (folder)
-- `CppProjects/` (folder)
 - `CryptoHw7/` (folder)
 - `Data Extructure /` (folder)
 - `EET-110/` (folder)
-- `EET-327LAB13C++CODE/` (folder)
 - `FCTextC/` (folder)
-- `Lab4/` (folder)
-- `papers/` (folder)
 - `presentations/` (folder)
 - `Programming I/` (folder)
 - `reports/` (folder)
@@ -29,9 +24,8 @@ Purpose: cleaned old Portafolio repository with documents separated for future r
 - `.gitignore` (file)
 - `DRIVE_OVERVIEW.md` (file)
 - `IMPORT_NOTES.md` (file)
+- `OVERLEAF_PREP.md` (file)
 
-## Organization Notes
+## Drive-Only Policy
 
-- Large binaries, installers, media, and archives may remain in Google Drive and be referenced from `IMPORT_NOTES.md` or `DRIVE_OVERVIEW.md`.
-- Each included directory has a `README.md` index.
-- `papers/`, `reports/`, and `presentations/` are intentionally separated so later Overleaf work can start from a clean source bucket.
+Videos, installers, compressed archives, raw data/binaries, and files too large for GitHub are referenced in `DRIVE_ONLY.md` or `IMPORT_NOTES.md` instead of being committed.
