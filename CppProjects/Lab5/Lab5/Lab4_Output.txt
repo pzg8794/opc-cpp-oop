@@ -1,0 +1,14 @@
+
+			 Laboratory in Class # 5 
+			     By Piter Garcia
+
+
+			 Sales Figures Program
+			========================
+
+
+ Day1  :  321.57
+ Day2  :  769.60
+ Day3  :  307.00
+ Total : 1398.17
+

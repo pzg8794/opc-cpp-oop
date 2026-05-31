@@ -1,0 +1,38 @@
+/*Programing Quiestion#2: Power for a range of Current.
+EET 110, 8:30am-10:45
+Prof. Issapour
+Garcia, Piter*/
+ 
+#include "stdafx.h"
+#include <iostream>
+using namespace std;
+
+void main()
+{    //Title:
+	cout<<"\n\t\t\t     Programing Question#2";
+	cout<<"\n\t\t\t Power for a Range of Current\n\n";
+
+float V, P, Ii, If, Ix; 
+
+	//Ii= Incial Current 
+	cout<<"\n    Please enter the value for value for Inicial Current(Ii) in Amps\n";
+	cin>>Ii;
+
+	//If= Final Corrent.
+	cout<<"\n     Please enter the value for value for Final Current(If) in Amps\n";
+	cin>>If;
+
+	//V= Voltage.
+	cout<<"\n\t       Please enter the value for Voltage(V) in Volts\n";
+	cin>>V;
+	cout << " \n\n\tVoltage \t\tCurrent \t\t Power \n";
+
+for(Ix=Ii;Ix<=If;Ix=Ix+10)
+	{P= Ix*V;
+		cout << "\n\t" << V << " Volts" <<"\t\t" << Ix << " Amps" << "\t\t\t" << P << " Watts";
+		cout << "\n\n";
+if (P > 500)
+	{cout<<"\n\t\t\t Warning! Power reached its maximum leve!\n";}}
+//Author:
+	cout<<"\n\n\n\t\t\t\t    Program made by Piter Garcia\n";
+return ;}

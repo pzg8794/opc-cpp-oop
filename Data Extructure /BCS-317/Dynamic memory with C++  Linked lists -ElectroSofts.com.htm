@@ -1,0 +1,541 @@
+
+<!-- saved from url=(0045)http://electrosofts.com/linkedlist/index.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<meta name="AUTHOR" content="Murali Krishna">
+<meta name="COPYRIGHT" content="Copyright (c) 2006-07 by www.electrosofts.com">
+<meta name="KEYWORDS" content="Linked list, C, C++, programming, dynamic memory, array, memory allocation">
+<meta name="DESCRIPTION" content="Programming Linked list using C++ by ElectroSofts.com- your place to find electronics tutorials, programming resources, exmples and source code for free download..">
+
+<meta name="GENERATOR" content="Microsoft FrontPage 5.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+
+<title>Dynamic memory with C++: Linked lists -ElectroSofts.com</title>
+<style fprolloverstyle="">A:hover {color: red; font-weight: bold}
+</style>
+<meta name="Microsoft Border" content="tb, default">
+<script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/document_iterator.js"></script><script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/find_proxy.js"></script><script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/get_html_text.js"></script><script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/global_constants.js"></script><script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/name_injection_builder.js"></script><script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/number_injection_builder.js"></script><script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/string_finder.js"></script><script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/change_sink.js"></script><meta name="document_iterator.js"><meta name="find_proxy.js"><meta name="get_html_text.js"><meta name="global_constants.js"><meta name="name_injection_builder.js"><meta name="number_injection_builder.js"><meta name="string_finder.js"><meta name="change_sink.js"></head>
+
+<body stylesrc="../about.html" link="#000000" vlink="#000000"><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td>
+  <div align="center">
+	<center>
+	<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="770" id="AutoNumber1" height="5">
+		<tbody><tr>
+			<td height="11" width="78" style="border: 1px solid #FFE1E1">
+			<p align="center"><b><font face="Arial" size="2">
+			<a href="http://electrosofts.com/index.html">HOME</a></font></b></p></td>
+			<td height="21" width="236" bgcolor="#000000" colspan="2" rowspan="2">&nbsp;</td>
+			<td height="11" width="146" align="center" style="border: 1px solid #FFE1E1">
+			<b><font face="Arial" size="2">&nbsp;
+			<a href="http://electrosofts.com/webdir">Electronics Directory</a></font></b></td>
+			<td height="11" width="146" align="center" style="border: 1px solid #FFE1E1">
+			<b><font face="Arial" size="2">
+			<a href="http://electrosofts.com/articles.html">Articles/ Tutorials</a></font></b></td>
+			<td height="11" width="159" align="center" style="border: 1px solid #FFE1E1">
+			<b><font face="Arial" size="2">
+			<a href="http://electrosofts.com/ebooks">eBooks</a></font></b></td>
+		</tr>
+		<tr>
+			<td height="10" width="78" style="border: 1px solid #FFE1E1">
+			<p align="center"><b><font face="Arial" size="2">
+			<a href="http://electrosofts.com/about.html">About Us</a></font></b></p></td>
+			<td height="10" width="146" align="center" style="border: 1px solid #FFE1E1">
+			<b><font face="Arial" size="2">
+			<a href="http://electrosofts.com/forum">FORUM</a></font></b></td>
+			<td height="10" width="146" align="center" style="border: 1px solid #FFE1E1">
+			<b><font face="Arial" size="2">
+			<a href="http://electrosofts.com/links">Links</a></font></b></td>
+			<td height="10" width="159" align="center" style="border: 1px solid #FFE1E1">
+			<b><font face="Arial" size="2">
+			<a href="http://electrosofts.com/feedback.html">Contact Us </a>
+			</font></b></td>
+		</tr>
+		<tr>
+			<td bordercolor="#FF0000" bgcolor="#D90000" height="1" width="80">&nbsp;</td>
+			<td bordercolor="#FF0000" bgcolor="#000000" height="1" width="236" colspan="2">
+			<a href="http://electrosofts.com/">
+			<img border="0" src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/electrosofts.jpg" width="232" height="32"></a></td>
+			<td bordercolor="#FF0000" bgcolor="#D90000" height="1" width="454" colspan="3">&nbsp;</td>
+		</tr>
+		<tr>
+			<td bordercolor="#FF0000" height="1" width="80"></td>
+			<td bordercolor="#FF0000" height="1" width="174" bgcolor="#000000">
+			<p align="left">
+			<img border="0" src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/shadebwl.jpg" width="27" height="27"></p></td>
+			<td bordercolor="#FF0000" height="1" width="62" bgcolor="#000000">
+			<img border="0" src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/shadebwr.jpg" align="right" hspace="0" width="27" height="27"></td>
+			<td bordercolor="#FF0000" height="1" width="454" colspan="3"></td>
+		</tr>
+	</tbody></table>
+	</center></div>
+  
+</td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><!--msnavigation--><td valign="top">
+
+<p>&nbsp;</p>
+<div align="center">
+  <center>
+  <table border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse" bordercolor="#FFE1E1" id="AutoNumber2" width="773">
+    <tbody><tr>
+      <td width="771" bgcolor="#FFE1E1" bordercolor="#FF0000">
+      <p align="center"><font face="Arial" size="5">&nbsp;Dynamic memory with 
+      C++: Linked Lists </font></p>
+      <p align="right"><font face="Arial">By Murali Krishna </font></p></td>
+    </tr>
+    <tr>
+      <td width="771">&nbsp;<table border="0" cellpadding="6" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber3" align="left">
+        <tbody><tr>
+          <td width="100%">
+          <script type="text/javascript"><!--
+google_ad_client = "pub-1403170442550738";
+google_ad_width = 336;
+google_ad_height = 280;
+google_ad_format = "336x280_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+google_color_border = "FFE1E1";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "000000";
+google_color_text = "000000";
+//--></script>
+          <script type="text/javascript" src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/show_ads.js">
+          </script><ins style="display:inline-table;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:336px"><ins id="aswift_0_anchor" style="display:block;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:336px"><iframe allowtransparency="true" frameborder="0" height="280" hspace="0" marginwidth="0" marginheight="0" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){i+=&#39;.call&#39;;setTimeout(h,0)}else if(h.match){i+=&#39;.nav&#39;;w.location.replace(h)}s.log&amp;&amp;s.log.push(i)}" scrolling="no" vspace="0" width="336" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;"></iframe></ins></ins>
+          <p>&nbsp;</p></td>
+        </tr>
+      </tbody></table>
+    <p align="center"><font face="Arial">Arrays can be used to store a series of 
+    data when the members of the series is fixed or bounded. But if the length 
+    of array is to be decided in the run time, Linked list can be used. This 
+    article helps you to start programming with linked lists. </font></p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <p><font face="Arial"><b>Why Linked lists</b>?</font></p>
+    <p align="justify"><b><font face="Arial" size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Let us 
+    consider an example of implementation of a STACK or a QUEUE using a linear 
+    array then it is necessary to declare the SIZE of the STACK or QUEUE array 
+    (at Compile time) this may leads to either memory wastage or insufficient 
+    memory. This is the main disadvantage of a linear array. So if we use a 
+    linked list, we can allocate the&nbsp; memory "Dynamically"&nbsp;&nbsp; ( ie. during Run 
+    time). So there will not be any problem of memory wastage or insufficient 
+    memory.</font></b></p>
+    <p align="justify"><b><font face="Arial" size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Whenever we 
+    want to insert or delete an element from a linear array either we must 
+    overwrite the value or we should shift the elements to new location. Where 
+    as in a linked list we can directly insert or delete the elements without 
+    effecting the other elements.</font></b></p>
+    <p align="justify"><b><font face="Arial" size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In 
+    the conventional linear array storage the memory allocation is contiguous. 
+    for ex: When we declare an integer array in 'C /C++ language' </font></b>
+    </p>
+    <p align="center"><font face="Arial"><font color="#0000ff">int&nbsp;</font> <b>
+    a[100]</b>;&nbsp;&nbsp; //array declaration int is the data type size is 4</font></p>
+    <p align="justify"><b><font face="Arial" size="2">then '&amp;a[0]' or &amp;a is 
+    called as the base address .If we want to access the element&nbsp; through direct 
+    addressing then a[1] will be located at a location (&amp;a[0]+ size(int)). Here 
+    size of int data type&nbsp; is 2 bytes. The&nbsp; addresses of the element&nbsp; located&nbsp; 
+    in an array at a position ' k' can be calculated using the formula given 
+    below</font></b></p>
+    <p align="center"><font face="Arial"><b>LOC (Array [k])= Base Address 
+    (Array) + k * size( data type declared)</b></font></p>
+    <p align="justify"><b><font face="Arial" size="2">'k'&nbsp; is the index of 
+    element . If the base address(&amp;a[0])&nbsp; is 1000, and data type is integer then 
+    next element will be located at the location 1002 (i.e.&amp;a[1]= 1000+ 1*(2)), 
+    similarly the address of the element a[4] is 1008.&nbsp; So whenever we access 
+    the data, the computer calculates the address location as mentioned&nbsp; above . 
+    This process is much slower when compared to directly fetching data form 
+    memory using a pointer. </font></b></p>
+    <p align="justify"><b><font face="Arial" size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In A 
+    linked list ach NODES don't need to be located&nbsp; in adjacent location. The 
+    storage may not be contiguous in a linked list. In a linked list , the 
+    access of data is done using a pointer. Thus the data access is much faster 
+    in linked list.</font></b></p>
+    <p><font face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b><font size="2">A linked list have an extra 
+    field to store the link address .</font></b></font></p>
+    <p><font face="Arial"><b>What is a linked list</b>?</font></p>
+    <p align="justify"><b><font face="Arial" size="2">&nbsp;&nbsp;&nbsp;&nbsp; A linked list 
+    is a linear data structure used to organize the data in the memory. As its 
+    name indicates linked list is a list of items called the 'NODE' linked 
+    using&nbsp; pointers. A 'NODE' is a structure of List containing&nbsp; two or more 
+    fields called the 'data /Info' field and 'Link/address' field. A linked list 
+    can be of any of the following type.</font></b></p>
+    <p><font face="Arial"><img alt="bullet" hspace="13" src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/blobul1e.gif" width="15" height="15"></font><b><font face="Arial" size="2">Singly-Linked 
+    Lists<br>
+    </font></b><font face="Arial">
+    <img alt="bullet" hspace="13" src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/blobul1e.gif" width="15" height="15"></font><b><font face="Arial" size="2">Doubly-Linked 
+    Lists or Two way Linked List<br>
+    </font></b><font face="Arial">
+    <img alt="bullet" hspace="13" src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/blobul1e.gif" width="15" height="15"></font><b><font face="Arial" size="2">Circularly-Linked 
+    Lists<br>
+    </font></b><font face="Arial">
+    <img alt="bullet" hspace="13" src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/blobul1e.gif" width="15" height="15"></font><b><font face="Arial" size="2">Circularly-Doubly 
+    Linked Lists</font></b><font face="Arial"> </font> </p>
+    <p><font face="Arial"><b><u>NODE</u>:&nbsp; <font size="2">&nbsp;A node is user 
+    defined structure.&nbsp; A node has at least two fields&nbsp; data field and link 
+    field. Here the following figure shows a node.</font></b></font></p>
+    <p align="center"><font face="Arial"><u><b>NODE</b></u></font></p>
+    <p align="center"><font face="Arial"><img src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/Node1.jpg" border="0" width="132" height="42"></font></p>
+    <p align="center"><font face="Arial"><embed src="node.swf" width="600" height="155"></font></p>
+    <p align="left"><font face="Arial" size="2"><b>It is not necessary that a 
+    node should have two fields we may have more than one data field. </b>
+    </font></p>
+    <table id="AutoNumber12" style="border-collapse: collapse" height="15" cellspacing="0" cellpadding="0" width="97%" border="0">
+      <tbody><tr>
+        <td bordercolor="#00ff00" width="100%" height="15">
+        <p align="center"><font face="Arial"><img src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/Node2.jpg" border="0" width="132" height="42"><font size="7">........<img src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/Node3.jpg" border="0" width="132" height="42"></font></font></p></td>
+      </tr>
+    </tbody></table>
+    <p align="left"><font face="Arial"><b><font size="2">here&nbsp; 
+    data1,data2,...data n&nbsp; are the data fields. The data field may contain 
+    Integer data or string data or a character data.</font></b><font color="#0000ff">
+    </font></font></p>
+    <p align="center"><font face="Arial">
+    <embed src="data.swf" width="601" height="159"></font></p>
+    <p align="left"><font face="Arial"><b><u>LINK</u><font size="2"> field is a 
+    pointer contains the address of the node related to it. A link is denoted by 
+    a arrow symbol as shown below </font></b></font></p>
+    <table id="AutoNumber13" style="border-collapse: collapse" height="73" cellspacing="0" cellpadding="0" width="98%" border="0">
+      <tbody><tr>
+        <td width="100%" height="73">
+        <p align="center"><font face="Arial"><img src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/Linkdet.jpg" border="0" width="338" height="76"></font></p></td>
+      </tr>
+    </tbody></table>
+    <p align="center"><font face="Arial"><embed src="link.swf" width="521" height="211"></font></p>
+    <p align="justify"><b><font face="Arial" size="2">Every Node will have&nbsp; an&nbsp; 
+    address. Here 1000 is the address of the second&nbsp; node. So the link field of 
+    the previous node (first node) to it contains the value 1000</font></b></p>
+    <p align="left"><font face="Arial">The general structure of a NODE is 
+    given as </font></p>
+    <p align="left"><b><font face="Arial">struct tag_name {<br>
+    type member1;<br>
+    type member2;<br>
+    ......................<br>
+    ......................<br>
+    .....................<br>
+    struct tag_name *linknext;&nbsp; //pointer stores the address of next node<br>
+    }<br>
+    &nbsp;</font></b></p>
+    <p align="left"><b><font face="Arial" size="2">In the above given structure 
+    member1,member2,...etc are the data fields of node. These member variables 
+    need not be of the same data type </font></b></p>
+    <p align="left"><b><font face="Arial" size="2">example:</font></b></p>
+    <p align="left"><font face="Arial"><b>struct Node {&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> 
+    //Node is the tag name given here<b><br>
+    int&nbsp; rollno;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b>//this is of integer type<b><br>
+    char name[20];&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b>//this is of char type<b><br>
+    ......................<br>
+    ......................<br>
+    .....................<br>
+    struct Node *link;&nbsp; </b>//stores the address of next node<b><br>
+    }<br>
+    &nbsp;</b></font></p>
+    <p align="center"><font face="Arial"><embed src="types.swf" width="664" height="142"></font></p>
+    <p align="left">&nbsp;</p>
+    <p align="left"><font face="Arial"><u><b>Now let us see what is a Singly Linked List :</b></u></font></p>
+    <p align="left"><b><font face="Arial" size="2">The following figure shows a 
+    singly linked list. It has single link field extended as list </font></b>
+    </p>
+    <table id="AutoNumber14" style="border-collapse: collapse" height="109" cellspacing="0" cellpadding="0" width="100%" border="0">
+      <tbody><tr>
+        <td width="100%" height="109">
+        <p align="center"><font face="Arial"><img src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/Singly.jpg" border="0" width="677" height="121"></font></p></td>
+      </tr>
+    </tbody></table>
+    <p align="justify"><b><font face="Arial" size="2">&nbsp;The above picture shows a 
+    singly linked list the first node is called the header node . This is the 
+    entry point to the&nbsp; list and the list is terminated when the link field of 
+    any of the node is NULL. </font></b></p>
+    <p align="left"><font face="Arial"><embed src="singly.swf" width="680" height="167"></font></p>
+    <p align="left"><font face="Arial"><u><b>Now let us see what is a Doubly-Linked List :</b></u></font></p>
+    <p align="justify"><b><font face="Arial" size="2">The following figure shows 
+    a doubly linked list . The link is two way. Here the NODE contains two 
+    pointers LPTR left pointer and the RPTR right pointer. LPTR&nbsp; points to the 
+    previous node and RPTR points to the next node. Please note that whenever 
+    there is no node to point then the link is poited to NULL.</font></b></p>
+    <p align="left"><b><font face="Arial" size="2">The advantage of Two way 
+    linked list is that the traversal&nbsp; becomes easy.</font></b></p>
+    <table id="AutoNumber4" style="border-collapse: collapse" height="63" cellspacing="0" cellpadding="0" width="100%" border="0">
+      <tbody><tr>
+        <td width="100%" height="63">
+        <font face="Arial">
+        <img height="57" src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/doubly.jpg" width="694" border="0"></font></td>
+      </tr>
+    </tbody></table>
+    <p align="center">&nbsp;</p>
+    <p align="center"><font face="Arial">&nbsp;<embed src="doubly.swf" width="673" height="183"></font></p>
+    <font face="Arial">
+    <p align="left"><u><b>Now let us see what is a Circularly-Linked List :</b></u></p>
+    <p align="left"><b><font size="2">A Circularly linked list is similar to 
+    singly linked list except that the</font></b> <b>" 'Link' field of Last NODE 
+    points to the first node"</b></p>
+    </font>
+    <table id="AutoNumber5" style="border-collapse: collapse" height="90" cellspacing="0" cellpadding="0" width="100%" border="0">
+      <tbody><tr>
+        <td width="100%" height="90">
+        <p align="center"><font face="Arial"><img src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/circular.jpg" border="0" width="578" height="82"></font></p></td>
+      </tr>
+    </tbody></table>
+    <p align="left">&nbsp;</p>
+    <p align="left"><b><font face="Arial" size="4">Now we shall see the class 
+    implementation of a linked list:-</font></b></p>
+    <div align="center">
+      <center>
+      <table id="AutoNumber6" style="border-collapse: collapse" bordercolor="#FF0000" height="101" cellspacing="0" cellpadding="0" width="507" bgcolor="#FFE1E1" border="1">
+        <tbody><tr>
+          <td width="507" height="101"><b><font face="Arial">
+          //Implementation of a linked list<br>
+          #include&lt;iostream.h&gt;<br>
+          #include&lt;conio.h&gt;<br>
+          &nbsp;class linklist{<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; private:<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; struct node{<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; int data;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; node *link;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }*p;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; public:<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; linklist();<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; void addend(int num);<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; void addbeg(int num);<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; void addafter(int c,int num);<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; void del(int num);<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; void display();<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; int count();<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ~linklist();<br>
+          };</font></b></td>
+        </tr>
+      </tbody></table>
+      </center>
+    </div>
+    <p align="left">&nbsp;</p>
+    <div align="center">
+      <center>
+      <table id="AutoNumber7" style="border-collapse: collapse" bordercolor="#FF0000" height="56" cellspacing="0" cellpadding="0" width="507" bgcolor="#FFE1E1" border="1">
+        <tbody><tr>
+          <td align="middle" width="505">
+          <p align="left"><b><font face="Arial">//add a new node at the 
+          beginning of the linked list</font></b></p>
+          <p align="left"><b><font face="Arial"><br>
+          void linklist::addbeg(int num)<br>
+          {<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; node *q;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //add newnode<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; q=new node;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; q-&gt;data=num;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; q-&gt;link=p;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; p=q;<br>
+          }</font></b></p></td>
+        </tr>
+      </tbody></table>
+      </center>
+    </div>
+    <p align="left"><font face="Arial">&nbsp;</font><b><font face="Arial">the above function adds a new node 
+    at the beginning</font></b><font face="Arial"> </font> </p>
+    <font face="Arial, Helvetica">
+    <p align="left"><font face="Arial" color="#000000"><b>What are the 
+    operations that can be performed on Singly-Linked list ?</b></font></p>
+    </font>
+    <p align="left"><b><font size="2" face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The operations that can be 
+    performed on a linked list are</font></b></p>
+    <p align="justify"><font face="Arial">
+    <img alt="bullet" hspace="13" src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/blobul1e.gif" width="15" height="15"><b><font size="2">Insertion 
+    of a new node to the beginning of a list, end of a list, or inserting&nbsp; In- 
+    between two nodes new node at the end of the linked list</font></b> </font> </p>
+    <div align="center">
+      <center>
+      <table id="AutoNumber8" style="border-collapse: collapse" bordercolor="#FF0000" height="67" cellspacing="0" cellpadding="0" width="506" bgcolor="#FFE1E1" border="1">
+        <tbody><tr>
+          <td width="506" height="67"><b><font face="Arial">// add a node 
+          at a specified location in the list<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; void linklist::addafter(int c,int num)<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; node *q,*t;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; int i;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; q=p;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for (i=0;i &lt; c;i++)<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; q=q-&gt;link;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if(q==NULL)<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cout&lt;&lt;"there is no such node existing:"&lt;&lt;endl;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; return;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; t=new node;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; t-&gt;data=num;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; t-&gt;link=q-&gt;link;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; q-&gt;link=t;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</font></b></td>
+        </tr>
+      </tbody></table>
+      </center>
+    </div>
+    <p align="left"><font face="Arial">&nbsp;<b>the above function adds a node at a 
+    specified location</b> </font> </p>
+    <font face="Arial, Helvetica">
+    <div align="center">
+      <center>
+      <table id="AutoNumber9" style="border-collapse: collapse" bordercolor="#FF0000" height="33" cellspacing="0" cellpadding="0" width="504" bgcolor="#FFE1E1" border="1">
+        <tbody><tr>
+          <td width="504" height="33">
+          <p align="left"><font face="Arial">// </font><b>
+          <font face="Arial">insert at the end</font></b></p>
+          <p align="left"><b><font face="Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; void 
+          linklist::addend(int num)<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; node *q,*t;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //if the list is empty<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if(p==NULL)<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; p=new node;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; p-&gt;data=num;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; p-&gt;link=NULL;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; else<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; q=p;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; while(q-&gt;link!=NULL)<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; q=q-&gt;link;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; t=new node;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; t-&gt;data=num;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; t-&gt;link=NULL;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; q-&gt;link=t;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</font></b></p>
+          <p>&nbsp;</p></td>
+        </tr>
+      </tbody></table>
+      </center>
+    </div>
+      </font>
+    <font face="Arial">
+    </font><p align="center"><font face="Arial">&nbsp;&nbsp;</font><font face="Arial, Helvetica"><font face="Arial"><b>The above function adds a node 
+    at the&nbsp; </b></font><b><font face="Arial">end of list</font></b><font face="Arial"> </font></font></p><font face="Arial, Helvetica"><font face="Arial">
+    <p align="left"><img alt="bullet" hspace="13" src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/blobul1e.gif" width="15" height="15"><u><b><font size="2">Deletion 
+    of a&nbsp; node:</font></b></u> </p>
+    <div align="center">
+      <center>
+      <table id="AutoNumber10" style="border-collapse: collapse" bordercolor="#FF0000" height="240" cellspacing="0" cellpadding="0" width="495" bgcolor="#FFE1E1" border="1">
+        <tbody><tr>
+          <td align="middle" width="493">
+          <p align="left">/<font face="Arial, Helvetica"><b><font face="Arial">/deletes the specified 
+          node from the linked list</font></b></font></p><font face="Arial, Helvetica">
+          <p align="left"><b><font face="Arial"><br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; void linklist:: del(int num)<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; node *q,*r;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; q=p;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; //if node to be deleted is the first node<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if (q-&gt;data==num)<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; p=p-&gt;link;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; delete q;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; return;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; r=q;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; while(q!=NULL)<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if(q-&gt;data==num)<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; r-&gt;link=q-&gt;link;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; delete q;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; return;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; } <br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; r=q;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; q=q-&gt;link;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</font></b><font face="Arial"><br>
+          &nbsp;</font></p></font></td>
+        </tr>
+      </tbody></table>
+      </center>
+    </div>
+    </font></font><p align="left"><font face="Arial, Helvetica"><font face="Arial">&nbsp;</font></font><font face="Arial"><img alt="bullet" hspace="13" src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/blobul1e.gif" width="15" height="15"><b><font size="2">Traversing 
+    a node and displaying data:</font></b>&nbsp; </font> </p>
+    <div align="center">
+      <center>
+      <table style="border-collapse: collapse; border: 1px solid" bordercolor="#FF0000" height="121" cellspacing="0" cellpadding="0" width="494" bgcolor="#FFE1E1">
+        <tbody><tr>
+          <td align="middle" width="492" height="121">
+          <p align="left"><font face="Arial"><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; void 
+          linklist::display()<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; node *q;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; clrscr();<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cout&lt;&lt;endl;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for(q=p;q!=NULL;q=q-&gt;link)<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cout&lt;&lt;" 
+          "&lt;&lt;q-&gt;data;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; } </b>
+          </font></p></td>
+        </tr>
+      </tbody></table>
+      </center>
+    </div>
+    <p align="left"><font face="Arial">&nbsp; <font size="2"><b>Here is the main program ;</b></font>
+    </font>
+    </p>
+    <div align="center">
+      <center>
+      <table id="AutoNumber11" style="border-collapse: collapse" bordercolor="#FF0000" height="17" cellspacing="0" cellpadding="0" width="501" bgcolor="#FFE1E1" border="1">
+        <tbody><tr>
+          <td width="501" height="17"><font face="Arial">
+          <p align="left"><b>//This is the main program</b><br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>&nbsp;&nbsp;&nbsp;&nbsp; void main()<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; {<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; linklist list;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cout&lt;&lt;endl;<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; list.addbeg(11);<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; list.addbeg(834);<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; list.addbeg(187);<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; list.addbeg(7);<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; list.addbeg(1);<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; list.addend(1 );<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; list.addafter(0,330);<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; list.display();<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; getch();<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</b></p>
+          </font>
+          <p>&nbsp;</p></td>
+        </tr>
+      </tbody></table>
+      </center>
+    </div>
+    <p align="left"><font face="Arial">&nbsp;</font></p>
+      </td>
+    </tr>
+  </tbody></table>
+  <script type="text/javascript"><!--
+google_ad_client = "pub-1403170442550738";
+google_ad_width = 200;
+google_ad_height = 90;
+google_ad_format = "200x90_0ads_al";
+google_ad_channel ="4645973219";
+google_color_border = "FFE1E1";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "000000";
+google_color_text = "000000";
+//--></script>
+  <script type="text/javascript" src="./Dynamic memory with C++  Linked lists -ElectroSofts.com_files/show_ads.js">
+  </script><ins style="display:inline-table;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:200px"><ins id="aswift_1_anchor" style="display:block;border:none;height:90px;margin:0;padding:0;position:relative;visibility:visible;width:200px"><iframe allowtransparency="true" frameborder="0" height="90" hspace="0" marginwidth="0" marginheight="0" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){i+=&#39;.call&#39;;setTimeout(h,0)}else if(h.match){i+=&#39;.nav&#39;;w.location.replace(h)}s.log&amp;&amp;s.log.push(i)}" scrolling="no" vspace="0" width="200" id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;"></iframe></ins></ins>
+  <p>&nbsp;</p>
+  </center>
+</div>
+
+<!--msnavigation--></td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td>
+
+<font face="Lucida Sans Unicode">
+<p align="center"><font face="Verdana" color="#606060" size="1">
+<a href="http://electrosofts.com/">Home</a>&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
+<a href="http://electrosofts.com/about.html">About Us</a>&nbsp;&nbsp; |&nbsp;&nbsp;
+<a href="http://electrosofts.com/articles.html">Articles/ Tutorials</a>&nbsp;&nbsp; 
+|&nbsp;&nbsp; <a href="http://electrosofts.com/downloads/index.html">Downloads</a>&nbsp;&nbsp; 
+|&nbsp;&nbsp; <a href="http://electrosofts.com/feedback.html">Feedback</a>&nbsp;&nbsp; 
+|&nbsp;&nbsp; <a href="http://electrosofts.com/links/index.html">Links</a>&nbsp;&nbsp; 
+|&nbsp;&nbsp; <a href="http://electrosofts.com/ebooks/index.html">eBooks</a>&nbsp;&nbsp; 
+|&nbsp;&nbsp; <a href="http://electrosofts.com/privacy.html">Privacy Policy</a><br>
+Copyright © 2005-2007 electroSofts.com.<br>
+<a href="mailto:webmaster@electroSofts.com">webmaster@electroSofts.com</a></font></p>
+</font></td></tr><!--msnavigation--></tbody></table>
+
+</body><span id="skype_highlighting_settings" display="none" autoextractnumbers="1"></span><object id="skype_plugin_object" location.href="http://electrosofts.com/linkedlist/index.html" location.hostname="electrosofts.com" style="position: absolute; visibility: hidden; left: -100px; top: -100px; " width="0" height="0" type="application/x-vnd.skype.toolbars.npplugin.4.2.0"></object></html>

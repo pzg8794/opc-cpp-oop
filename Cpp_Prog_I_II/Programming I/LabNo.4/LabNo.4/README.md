@@ -1,0 +1,13 @@
+# LabNo.4
+
+Path: `Cpp_Prog_I_II/Programming I/LabNo.4/LabNo.4`
+
+## Items
+
+- `Debug/` (folder)
+- `LabNo.4.vcproj` (file)
+- `Practice.cpp` (file)
+
+## Notes
+
+This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.

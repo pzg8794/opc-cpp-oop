@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: Lab11, Configuration: Debug Win32 ------
+1>  Lab11.cpp
+1>  Lab11IMP.cpp
+1>  Generating Code...
+1>  Lab11.vcxproj -> C:\Users\GarcpGV\Documents\Visual Studio 2010\Projects\Lab11\Debug\Lab11.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

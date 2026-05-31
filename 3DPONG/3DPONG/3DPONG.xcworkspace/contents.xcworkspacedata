@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:main.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:gamedemo.cpp">
+   </FileRef>
+   <Group
+      location = "group:3DPONG"
+      name = "3DPONG">
+      <FileRef
+         location = "group:3DPONG.xcodeproj">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:stdafx.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:stdafx.h">
+   </FileRef>
+   <FileRef
+      location = "group:targetver.h">
+   </FileRef>
+   <FileRef
+      location = "group:paddle.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:gameball.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:gameball.h">
+   </FileRef>
+   <FileRef
+      location = "group:imageloader.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:imageloader.h">
+   </FileRef>
+   <FileRef
+      location = "group:paddle.h">
+   </FileRef>
+   <FileRef
+      location = "group:text3d.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:text3d.h">
+   </FileRef>
+   <Group
+      location = "group:3DPONG"
+      name = "3DPONG">
+      <FileRef
+         location = "group:3DPONG.xcodeproj">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:vec3f.cpp">
+   </FileRef>
+   <FileRef
+      location = "group:vec3f.h">
+   </FileRef>
+   <FileRef
+      location = "container:3DPONG/3DPONG.xcodeproj">
+   </FileRef>
+</Workspace>

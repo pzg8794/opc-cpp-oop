@@ -1,0 +1,29 @@
+
+
+  LAB ASSIGNMENT # 04                                         BY  PITER GARCIA
+  -------------------                                         ----------------
+
+
+                 PROGRAM ASSIGNMENT CREATING AN UNSORTED LINKED LIST 
+             ==========================================================
+
+
+
+  BASEBALPLAYER CLASS PROPERTIES                             (BASEBALL PLAYER) 
+  ----------------------------------------------------------------------------
+                          	 CONTRUSTOR PROPERTIES
+  BASEBALL PLAYER DATA 
+ _____________________________________________________________________________
+
+              Name  |  At Bat(s) |  Hit(S) |  Home Run(s) |  Average | 
+           Darwing  |         16 |       8 |           20 |      0.5 |
+ _____________________________________________________________________________
+
+                          	 TESTING SET/GET METHODS
+   BASEBALL PLAYER DATA 
+ _____________________________________________________________________________
+
+              Name  |  At Bat(s) |  Hit(S) |  Home Run(s) |  Average | 
+          Peterzon  |         20 |       7 |            4 |     0.35 |
+ _____________________________________________________________________________
+

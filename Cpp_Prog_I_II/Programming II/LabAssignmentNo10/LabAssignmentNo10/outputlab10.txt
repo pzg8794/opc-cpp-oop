@@ -1,0 +1,88 @@
+  
+  Lab Assignment # 10                                     By  Piter Garcia
+ -------------------                                     -----------------
+
+
+
+                   Vectors using the Push_Back Function
+                  ======================================
+
+  -------------------------------------------------------------------------
+                      TABLE OF HOURS AND RATE VECTORS
+  -------------------------------------------------------------------------
+
+  Please enter the Hours:
+  40 35 40 30 40
+  Please enter the Rate:
+  15 20 18 17 20
+                    The Hours Vector:    The Rate Vector:
+   Elements are: [ 40 35 40 30 40   ]    Elements are: [ 15 20 18 17 20 ]
+  The Sieze of The Hours Vector is: 5    The Sieze of The Rate Vector is: 5
+
+  -------------------------------------------------------------------------
+                  THE HOURS AND RATE VECTORS PRODUCT TABLE
+  -------------------------------------------------------------------------
+                          [ 600 700 720 510 800 ]
+
+
+  Do You Wish to Overwrite any elements in any Vectors?
+  If so enter 1, otherwise enter 0
+  1
+
+
+  Please Enter 1 for the Hours List or 2 for the Rate List
+  1
+  Please Enter Elements Amount You wish to Overwrite from the Hours List
+  2
+  Please enter the 1 element subscript
+  1
+  Now enter the New Element You Wish to Add
+  40
+  Please enter the 2 element subscript
+  3
+  Now enter the New Element You Wish to Add
+  20
+                    The Hours Vector:    The Rate Vector:
+   Elements are: [ 40 40 40 20 40   ]    Elements are: [ 15 20 18 17 20 ]
+  The Sieze of The Hours Vector is: 5    The Sieze of The Rate Vector is: 5
+
+  -------------------------------------------------------------------------
+                  THE HOURS AND RATE VECTORS PRODUCT TABLE
+  -------------------------------------------------------------------------
+                          [ 600 800 720 340 800 ]
+
+
+  Do You Wish to Overwrite any elements in any Vectors?
+  If so enter 1, otherwise enter 0
+  1
+
+
+  Please Enter 1 for the Hours List or 2 for the Rate List
+  2
+  Please Enter Elements Amount You wish to Overwrite from the Rate List
+  2
+  Please enter the 1 element subscript
+  1
+  Now enter the New Element You Wish to Add
+  20
+  Please enter the 2 element subscript
+  3
+  Now enter the New Element You Wish to Add
+  20
+                    The Hours Vector:    The Rate Vector:
+   Elements are: [ 40 40 40 20 40   ]    Elements are: [ 15 20 18 20 20 ]
+  The Sieze of The Hours Vector is: 5    The Sieze of The Rate Vector is: 5
+
+  -------------------------------------------------------------------------
+                  THE HOURS AND RATE VECTORS PRODUCT TABLE
+  -------------------------------------------------------------------------
+                          [ 600 800 720 400 800 ]
+
+
+  Do You Wish to Overwrite any elements in any Vectors?
+  If so enter 1, otherwise enter 0
+  0
+
+
+  Press any key to continue . . .
+

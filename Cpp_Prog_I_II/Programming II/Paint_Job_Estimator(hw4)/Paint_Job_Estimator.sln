@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Paint_Job_Estimator", "Paint_Job_Estimator\Paint_Job_Estimator.vcproj", "{D8519073-E1F1-40B8-9B8A-75101442B2CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8519073-E1F1-40B8-9B8A-75101442B2CA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8519073-E1F1-40B8-9B8A-75101442B2CA}.Debug|Win32.Build.0 = Debug|Win32
+		{D8519073-E1F1-40B8-9B8A-75101442B2CA}.Release|Win32.ActiveCfg = Release|Win32
+		{D8519073-E1F1-40B8-9B8A-75101442B2CA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

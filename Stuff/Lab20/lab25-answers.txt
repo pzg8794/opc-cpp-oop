@@ -1,0 +1,22 @@
+//Lab No 25-Answers Submitted to Professor Balaji
+//By Piter Garcia
+//KEYBOARD 1 IN ASSEMBLY LANGUAGE
+
+1:14 PM 12/7/2011
+
+
+The code for that key is fefe
+Press any key to continue . . .
+
+
+The code for that key is 7ffe
+Press any key to continue . . .
+
+
+The code for that key is fe7f
+Press any key to continue . . .
+
+
+The code for that key is 7f7f
+Press any key to continue . . .
+

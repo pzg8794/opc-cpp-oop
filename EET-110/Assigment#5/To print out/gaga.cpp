@@ -1,0 +1,72 @@
+/* Experiment_5_4.cpp : main project file.
+		(Mortgage Monthly Payment Calculator)
+EET 110, 8:30am-10:45
+Prof. Issapour	
+Garcia, Piter
+Discription: This program compute the monthy payment 
+of a debt through the Mortage formula.*/
+
+#include "stdafx.h"
+#include "iostream"
+#include "cmath"
+#include "string"
+#include "iomanip"
+using namespace std;
+
+double Ask_For_AmountBorrowed();
+double Ask_For_NumberOfYears();
+double Ask_For_Interest();
+
+double MortgagePayment(double I, double n, double P);
+
+void main()
+{
+double I,  P, n, M;
+/*Title*/cout<<"\n\t\t\t\t Assingment#5";
+cout<<"\n\t\t\t Mortgage Monthly Payment";
+/*Author*/cout<<"\n\n\t\t\t\t\t\t Made by Piter Garcia\n\n";
+
+P= Ask_For_AmountBorrowed();
+n= Ask_For_NumberOfYears();
+I= Ask_For_Interest();
+
+M= MortgagePayment(P,I,n);
+cout.precision(2);
+cout.setf(ios::fixed);
+cout<<"\n\t\t\t Mortage Monthly Payment Calulator\n";
+
+cout << " \n\t" <<"Principal Loan" << "\t\t" <<"Interest Rate" 
+<< "\t\t"<<"Monthly Payment";
+cout << " \n\t " << P << " US$" << "  \t   " << I << " " 
+<< " \t\t " << M << " US$";
+cout << " \n \n";
+}
+
+
+double Ask_For_AmountBorrowed()
+{
+	double P;
+	cout<<"\n Please enter the Value for Principal of the Loan:\n ";
+	cin>>P;
+	return P;
+}
+double Ask_For_Interest()
+{
+	double I;
+	cout<<" \n Please enter the Value for Interest Rate:\n ";
+	cin>>I;
+	return I;
+}
+double Ask_For_NumberOfYears()
+{
+	double n;
+	cout<<"\n Please enter the Number of Years for the Loan:\n ";
+	cin>>n;
+	return n;
+}
+double MortgagePayment(double I, double n, double P)
+{
+	double M;
+	M= (P*I)/(12*((1-pow((1+(I/12)), (-1*n*12)))));
+	return M;
+}

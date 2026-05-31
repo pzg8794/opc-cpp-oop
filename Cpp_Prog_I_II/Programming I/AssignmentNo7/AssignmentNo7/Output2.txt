@@ -1,0 +1,61 @@
+
+
+                        Programming Assignment # 7
+                             By  Piter Garcia
+
+
+
+               Promgra to Calculate Lowest and Average Grade
+             ================================================
+
+
+
+  Please enter five grades  to calculate its Lowest Grade and its Average
+
+
+  Please enter a Test Grade  below
+  105
+
+  You have entered an invalid value 105 is not a right value
+
+  Please enter a right grade
+  100
+
+  Please enter a Test Grade  below
+  -80
+
+  You have entered an invalid value -80 is not a right value
+
+  Please enter a right grade
+  80
+
+  Please enter a Test Grade  below
+  56
+
+  Please enter a Test Grade  below
+  98
+
+  Please enter a Test Grade  below
+  90
+
+
+  The Lowest Grade is 56
+  Therefore, this grade will be dropped
+
+
+
+
+  ------------------------------------------------------------------------
+                              Table of Grades
+  ------------------------------------------------------------------------
+
+  Grade # 1       Grade # 2      Grade # 3       Grade # 4       Grade # 5
+        100              80             56              98              90
+
+  Dropped Grade                                          Average of Grades
+             56                                                         92
+
+
+
+  Press any key to continue . . .
+

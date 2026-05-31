@@ -1,0 +1,20 @@
+
+                              Laboratory # 2
+                             By Piter Garcia
+
+
+                 Total Avarage of Three Assigned Variables
+                ============================================
+
+
+  Assigned Variables:
+  -------------------
+  num1 = 7
+  num2 = 21
+  num3 = 35
+
+  Total Average:
+  --------------
+  Avg = 21
+
+Press any key to continue . . .

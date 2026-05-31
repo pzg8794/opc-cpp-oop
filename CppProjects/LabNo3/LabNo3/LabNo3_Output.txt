@@ -1,0 +1,9 @@
+
+        Congratulations! You have corrected all the errors
+        Lab Assignment #3
+        BCS120 - Foundations of Programming I
+        Author: Piter Garcia
+        Due Date: Thursday, September 16, 2010
+
+        Press any key to continue . . .
+

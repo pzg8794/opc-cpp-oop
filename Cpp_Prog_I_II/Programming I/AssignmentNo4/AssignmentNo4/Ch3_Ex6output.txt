@@ -1,0 +1,13 @@
+                                        Programming Assignment # 4 
+                                             By  Piter Garcia
+
+ 
+
+                                         Increasing Salary Program 
+                                        ============================
+
+           Last Name          First Name      Current Salary      % Pay Increase      Updated Salary
+              Miller              Andrew            65789.87                5.00            69079.36
+               Green              Sheila            75892.56                6.00            80446.11
+               Sethi                Amit            74900.50                6.10            79469.43
+                                                                                           228994.91

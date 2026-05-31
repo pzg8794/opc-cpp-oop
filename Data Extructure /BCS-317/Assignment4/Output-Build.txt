@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: Assignment4, Configuration: Debug Win32 ------
+1>  AuthorSignature.cpp
+1>  MyQueque.cpp
+1>  Generating Code...
+1>  Assignment4.vcxproj -> C:\Users\GarcpGV\documents\visual studio 2010\Projects\Assignment4\Debug\Assignment4.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

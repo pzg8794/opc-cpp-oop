@@ -1,0 +1,53 @@
+/*  Experiment_No_5.cpp : main project file.
+				(Voltage drop in a Series Circuit)
+	EET 110, 8:30am-10:45
+	Prof. Issapour
+	Garcia, Piter
+	Discription: This will capute the voltage drop across each 
+	resistor in a series circuit consisting of three resistors. */
+
+#include "stdafx.h"
+#include <iostream>
+
+using namespace std;
+void main()
+{
+							//Title:
+					cout<<"\n\t\t\t\t Assingment#5";
+			cout<<"\n\t\t\t Voltage Drop in a Series Circuit";
+							//Author:
+				cout<<"\n\n Made by Piter Garcia\n";
+
+
+double IT, RT, R1, R2, R3, VT, V1, V2, V3; 
+
+					//Resistors in the Series Circuit
+	cout<<"\n please enter the value for Resistor (R1) in ohms\n\t";//R1= 300
+	cin>> R1;
+	cout<<"\n\t please enter the value for Resistor (R2) in ohms\n\t";//R2= 200
+	cin>> R2;
+	cout<<"\n\t please enter the value for Resistor (R3) in ohms\n\t";//R3= 500
+	cin>> R3;
+
+					//Total Voltage in the Series Circuit
+	cout<<"\n please enter the value for Total Voltage (VT) in Volts\n";
+	cin>> VT;
+	//Total Resistor Formula	
+	RT= R1+R2+R3;
+	//Current Resistor Formula
+	IT= VT/RT;
+	cout<<"\n Voltage across eache Resisotr in a Series Circuit\n"; 
+	cout << "\n\n\t\t Resistor \t \t Voltage\n";
+						
+						//Voltages across the Series Circuit
+	V1= IT*R1;
+	cout << " \n" << R1 << " Ohms" << " \t \t " << V1<< " Volts"; //Voltage Across R1
+	cout << " \n \n";
+	V2= IT*R2;
+	cout << " \n" << R2 << " Ohms" << " \t \t " << V2<< " Volts"; //Voltage Across R2
+	cout << " \n \n";
+	V3= IT*R3;
+	cout << " \n" << R3 << " Ohms" << " \t \t " << V3<< " Volts"; //Voltage Across R3
+	cout << " \n \n";
+
+}

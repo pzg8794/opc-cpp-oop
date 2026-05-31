@@ -1,0 +1,124 @@
+
+
+  Lab Assignment # 05                                         By  Piter Garcia
+  -------------------                                         ----------------
+
+
+                Program Assignment using Input and Output Files 
+               =================================================
+
+
+
+
+
+                        Student Grades and Average Table 
+                     --------------------------------------
+            __________________________________________________________ 
+
+                 Exams            Grades            Number of Students 
+            __________________________________________________________ 
+
+            Exam No. 1                 B+                Student No. 1
+            Exam No. 2                 B 
+            Exam No. 3                 C+
+            Exam No. 4                 A 
+            Exam No. 5                 C+
+            __________________________________________________________ 
+            Student Name:                                      Average 
+                  Johnson                                            B
+            __________________________________________________________ 
+
+            Exam No. 1                 B                 Student No. 2
+            Exam No. 2                 A 
+            Exam No. 3                 A+
+            Exam No. 4                 A 
+            Exam No. 5                 F+
+            __________________________________________________________ 
+            Student Name:                                      Average 
+                  Aniston                                            B
+            __________________________________________________________ 
+
+            Exam No. 1                 C+                Student No. 3
+            Exam No. 2                 B 
+            Exam No. 3                 F 
+            Exam No. 4                 A 
+            Exam No. 5                 C 
+            __________________________________________________________ 
+            Student Name:                                      Average 
+                   Cooper                                           D+
+            __________________________________________________________ 
+
+            Exam No. 1                 A                 Student No. 4
+            Exam No. 2                 B 
+            Exam No. 3                 F 
+            Exam No. 4                 D+
+            Exam No. 5                 B+
+            __________________________________________________________ 
+            Student Name:                                      Average 
+                    Gupta                                            C
+            __________________________________________________________ 
+
+            Exam No. 1                 F                 Student No. 5
+            Exam No. 2                 F+
+            Exam No. 3                 A+
+            Exam No. 4                 F+
+            Exam No. 5                 F+
+            __________________________________________________________ 
+            Student Name:                                      Average 
+                    Blair                                            F
+            __________________________________________________________ 
+
+            Exam No. 1                 D                 Student No. 6
+            Exam No. 2                 B+
+            Exam No. 3                 F+
+            Exam No. 4                 F+
+            Exam No. 5                 D+
+            __________________________________________________________ 
+            Student Name:                                      Average 
+                    Clark                                           D+
+            __________________________________________________________ 
+
+            Exam No. 1                 C+                Student No. 7
+            Exam No. 2                 F 
+            Exam No. 3                 F 
+            Exam No. 4                 C 
+            Exam No. 5                 B 
+            __________________________________________________________ 
+            Student Name:                                      Average 
+                  Kennedy                                            D
+            __________________________________________________________ 
+
+            Exam No. 1                 A                 Student No. 8
+            Exam No. 2                 A 
+            Exam No. 3                 B+
+            Exam No. 4                 C+
+            Exam No. 5                 A+
+            __________________________________________________________ 
+            Student Name:                                      Average 
+                  Bronson                                            A
+            __________________________________________________________ 
+
+            Exam No. 1                 C+                Student No. 9
+            Exam No. 2                 B+
+            Exam No. 3                 F+
+            Exam No. 4                 A 
+            Exam No. 5                 B 
+            __________________________________________________________ 
+            Student Name:                                      Average 
+                    Sunny                                            C
+            __________________________________________________________ 
+
+            Exam No. 1                 B+                Student No.10
+            Exam No. 2                 C 
+            Exam No. 3                 F+
+            Exam No. 4                 C 
+            Exam No. 5                 D 
+            __________________________________________________________ 
+            Student Name:                                      Average 
+                    Smith                                           D+
+            __________________________________________________________ 
+
+            Total Students                  Total Average of the Class
+                        10                                           C
+
+

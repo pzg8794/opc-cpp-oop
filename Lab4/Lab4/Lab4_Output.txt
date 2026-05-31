@@ -1,0 +1,24 @@
+
+                         Laboratory in Class # 3
+                             By Piter Garcia
+
+
+                         Sales Figures Program
+                        ========================
+
+
+ Please Enter the value of the Sales Figures for Day1, Day2 and Day3 in order
+ 321.57
+ 769.60
+ 307.00
+
+
+  Sales Figures
+ ---------------
+
+ Day1 :  321.57
+ Day2 :  769.60
+ Day3 :  307.00
+ Total: 1398.17
+
+Press any key to continue . . .

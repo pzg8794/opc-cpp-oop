@@ -1,0 +1,27 @@
+
+                         Homework Assignment # 3
+                             By Piter Garcia
+
+
+                         Monthly Paycheck Program
+                        ==========================
+
+
+ Please Enter the Employee's First and Last Name in Order:
+ Piter Garcia
+
+ Please Enter the Gross Amount for Garcia Piter's Monthly Pay check in Dollars:
+ 3575
+
+
+ Garcia Piter
+ Gross Amount: ...................................................... $ 3575.00
+ Federal Income Tax: ................................................ $  536.25
+ State Tax: ......................................................... $  205.56
+ Socia Security Tax: ................................................ $  205.56
+ Medicare/Medicaid Tax: ............................................. $   98.31
+ Pension Plan: ...................................................... $  178.75
+ Health Insurance: .................................................. $   75.00
+ Net Pay: ........................................................... $ 2356.00
+
+ Press any key to continue . . .

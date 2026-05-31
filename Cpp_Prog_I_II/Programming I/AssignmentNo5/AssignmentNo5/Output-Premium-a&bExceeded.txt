@@ -1,0 +1,40 @@
+
+
+                        Programming Assignment # 5
+                             By  Piter Garcia
+
+
+
+                   Cellphone Bill Calculation Program
+                 =====================================
+
+ Please enter your First and Last Name:
+ Peter Garcia
+ Please enter your Account Number:
+ 5337661
+ Please enter the Service Plan Code, either R(regular)or P(premium):
+ P
+ Please enter the Amount of Minutes used in the Day:
+ 100
+ Now Please enter Minutes used at night:
+ 200
+
+
+
+                        Cell Phone Bill Information
+                       =============================
+
+                        Costumer Name: Garcia Peter
+
+     Minutes Type   Plan Minutes   Minutes Used   Minutes Over Extra Charges
+   ---------------------------------------------------------------------------
+      Day Minutes          75.00         100.00          25.00		 $  2.50
+
+    Night Minutes         100.00         200.00         100.00       $  5.00
+
+   Total Service:         175.00         300.00         125.00       $  7.50
+
+   Account Number   Service Type   Service Cost  Total Minutes    Due Amount
+          5337661              P        $ 25.00         300.00       $ 32.50
+
+Press any key to continue . . .

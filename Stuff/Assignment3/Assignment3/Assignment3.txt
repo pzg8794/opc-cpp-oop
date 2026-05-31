@@ -1,0 +1,144 @@
+
+
+  LAB ASSIGNMENT # 03                                         BY  PITER GARCIA
+  -------------------                                         ----------------
+
+
+                 PROGRAM ASSIGNMENT CREATING AN UNSORTED LINKED LIST 
+             ==========================================================
+
+
+
+  BASEBALPLAYER CLASS PROPERTIES                            (BASEBALL PLAYER) 
+  ----------------------------------------------------------------------------
+                          	 CONTRUSTOR PROPERTIES
+  BASEBALL PLAYER DATA 
+  Name........: Darwing
+  At Bat(s)...: 16
+  Hit(S)......: 8
+  Home Run(s).: 20
+  Average.....: 0.5
+                        	 TESTING SET/GET METHODS
+   BASEBALL PLAYER DATA 
+  Name........: Peterzon
+  At Bat(s)...: 20
+  Hit(S)......: 7
+  Home Run(s).: 4
+  Average.....: 0.35
+ 
+
+
+  MYLIST CLASS PROPERTIES                                   (BASEBALL LEAGUE) 
+  ----------------------------------------------------------------------------
+                        	 BASEBALL LEAGUE DATA 	
+ 
+  4) BASEBALL PLAYER DATA 
+  Name........: Juan
+  At Bat(s)...: 256
+  Hit(S)......: 8
+  Home Run(s).: 90
+  Average.....: 0.031
+ 
+  3) BASEBALL PLAYER DATA 
+  Name........: Zac
+  At Bat(s)...: 128
+  Hit(S)......: 8
+  Home Run(s).: 80
+  Average.....: 0.063
+ 
+  2) BASEBALL PLAYER DATA 
+  Name........: Peter
+  At Bat(s)...: 64
+  Hit(S)......: 8
+  Home Run(s).: 40
+  Average.....: 0.125
+ 
+  1) BASEBALL PLAYER DATA 
+  Name........: Peterzon
+  At Bat(s)...: 20
+  Hit(S)......: 7
+  Home Run(s).: 4
+  Average.....: 0.350
+  The Length of Your Unsorted Linked List is 4
+
+ 
+
+  NEW MYLIST CLASS PROPERTIES                               (BASEBALL LEAGUE)
+  AFTER DELETING THE BASEBALL PLAYER 
+  ----------------------------------------------------------------------------
+  SORRY, THE BASEBALL PLAYER(S) Zac IS NOT ON MyList RECORD
+  PLEASE, TRY AGAIN!
+
+
+  MYLIST CLASS PROPERTIES                                   (BASEBALL LEAGUE) 
+  ----------------------------------------------------------------------------
+                        	 BASEBALL LEAGUE DATA 	
+ 
+  3) BASEBALL PLAYER DATA 
+  Name........: Juan
+  At Bat(s)...: 256
+  Hit(S)......: 8
+  Home Run(s).: 90
+  Average.....: 0.031
+ 
+  2) BASEBALL PLAYER DATA 
+  Name........: Peter
+  At Bat(s)...: 64
+  Hit(S)......: 8
+  Home Run(s).: 40
+  Average.....: 0.125
+ 
+  1) BASEBALL PLAYER DATA 
+  Name........: Peterzon
+  At Bat(s)...: 20
+  Hit(S)......: 7
+  Home Run(s).: 4
+  Average.....: 0.350
+  The Length of Your Unsorted Linked List is 3
+
+ 
+				 TESTING DELETING A NAME THAT IS NOT ON MyList
+
+  SORRY, THE BASEBALL PLAYER(S) Junior IS NOT ON MyList RECORD
+  PLEASE, TRY AGAIN!
+
+
+  MYLIST CLASS PROPERTIES                                   (BASEBALL LEAGUE) 
+  ----------------------------------------------------------------------------
+                        	 BASEBALL LEAGUE DATA 	
+ 
+  3) BASEBALL PLAYER DATA 
+  Name........: Juan
+  At Bat(s)...: 256
+  Hit(S)......: 8
+  Home Run(s).: 90
+  Average.....: 0.031
+ 
+  2) BASEBALL PLAYER DATA 
+  Name........: Peter
+  At Bat(s)...: 64
+  Hit(S)......: 8
+  Home Run(s).: 40
+  Average.....: 0.125
+ 
+  1) BASEBALL PLAYER DATA 
+  Name........: Peterzon
+  At Bat(s)...: 20
+  Hit(S)......: 7
+  Home Run(s).: 4
+  Average.....: 0.350
+  The Length of Your Unsorted Linked List is 3
+
+  ----------------------------------------------------------------------------
+ 
+  YOUR ENTIRE UNSORTED LINKED LIST HAS BEEN CLEARED! 
+  ----------------------------------------------------------------------------
+ 
+
+
+  MYLIST CLASS PROPERTIES                                   (BASEBALL LEAGUE) 
+  ----------------------------------------------------------------------------
+                        	 BASEBALL LEAGUE DATA 	
+  The Length of Your Unsorted Linked List is 0
+
+ 

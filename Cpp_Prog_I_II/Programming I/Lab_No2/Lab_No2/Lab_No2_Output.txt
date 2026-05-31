@@ -1,0 +1,24 @@
+
+                              Laboratory #2
+                             By Piter Garcia
+
+
+                 Total Avarage of Three Assigned Variables
+                ============================================
+
+ Please Enter the Value for num1
+ 12
+ Please Enter the Value for num2
+ 16
+ Please Enter the Value for num3
+ 21
+
+  Assigned Variables:
+  -------------------
+  num1 = 12
+  num2 = 16
+  num3 = 21
+
+  Total Average of 12, 16, and 21 is 16.3333
+
+Press any key to continue . . .

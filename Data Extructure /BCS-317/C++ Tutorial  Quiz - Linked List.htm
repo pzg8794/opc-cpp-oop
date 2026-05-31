@@ -1,0 +1,864 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0055)http://www.bogotobogo.com/cplusplus/quiz_linkedlist.php -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><link rel="stylesheet" type="text/css" href="./C++ Tutorial  Quiz - Linked List_files/widget70.css" media="all">
+  <title>C++ Tutorial: Quiz - Linked List</title>
+  <meta content="C++ Tutorial: Quiz - Linked List" name="description">
+  <meta content="C++ Tutorial, Quiz - Linked List" name="keywords">
+  
+  <link type="text/css" rel="stylesheet" href="./C++ Tutorial  Quiz - Linked List_files/bogostyleWidePre.css">
+<script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/document_iterator.js"></script><script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/find_proxy.js"></script><script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/get_html_text.js"></script><script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/global_constants.js"></script><script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/name_injection_builder.js"></script><script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/number_injection_builder.js"></script><script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/string_finder.js"></script><script src="chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/change_sink.js"></script><meta name="document_iterator.js"><meta name="find_proxy.js"><meta name="get_html_text.js"><meta name="global_constants.js"><meta name="name_injection_builder.js"><meta name="number_injection_builder.js"><meta name="string_finder.js"><meta name="change_sink.js"></head>
+<body><div style="visibility: hidden; height: 1px; width: 1px; position: absolute; z-index: 100000; " id="_atssh"><iframe id="_atssh836" title="AddThis utility frame" style="height: 1px; width: 1px; position: absolute; z-index: 100000; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; left: 0px; top: 0px; " src="./C++ Tutorial  Quiz - Linked List_files/sh64.htm"></iframe></div>
+<div id="page" align="center">
+<div id="content" style="width: 800px;">
+<div id="logo">
+<div class="whitetitle" style="margin-top: 70px;">bogotobogo </div>
+</div>
+<div id="topheader">
+<div class="headerbodytext" align="left"><br>
+<strong>Bogotobogo</strong><br>
+contact@bogotobogo.com </div>
+<div class="smallgraytext" id="toplinks"><a href="http://www.bogotobogo.com/index.html">Home</a>
+| <a href="http://www.bogotobogo.com/sitemap.html">Sitemap</a>
+| <a href="http://www.bogotobogo.com/blog" target="_blank">Contact Us</a>
+</div>
+</div>
+<div id="menu">
+<div class="smallwhitetext" style="padding: 9px;" align="right"><a href="http://www.bogotobogo.com/index.html">Home</a>
+| <a href="http://www.bogotobogo.com/about_us.html">About Us</a>
+| <a href="http://www.bogotobogo.com/products.html">Products</a>
+| <a href="http://www.bogotobogo.com/our_services.html">Our Services</a>
+| <a href="http://www.bogotobogo.com/blog" target="_blank">Contact Us</a>
+</div>
+</div>
+<div id="submenu">
+<div class="smallgraytext" style="padding: 9px;" align="right">
+<a href="http://www.bogotobogo.com/gif.html">Gif</a> 
+|<a href="http://www.bogotobogo.com/java_applet.html">JavaApplet/Web Start</a>
+| <a href="http://www.bogotobogo.com/flash.html">Flash</a>
+| <a href="http://www.bogotobogo.com/shockwave.html">ShockWave</a>
+| <a href="http://www.bogotobogo.com/svg.html">SVG</a>
+| <a href="http://www.bogotobogo.com/iPhone.html">iPhone/iPad</a>
+| <a href="http://www.bogotobogo.com/android.html">Android</a>
+| <a href="http://www.bogotobogo.com/OnHTML5.html">HTML5</a>
+| <a href="http://www.bogotobogo.com/Algorithms/algorithms.html">Algorithms</a>
+| <a href="http://www.bogotobogo.com/News/NewsMain.html">News</a>
+| <a href="http://www.bogotobogo.com/cplusplus/cpptut.html">C++</a>
+| <a href="http://www.bogotobogo.com/Java/tutorial/on_java.html">Java</a>
+| <a href="http://www.bogotobogo.com/php/phptut.html">PHP</a>
+| <a href="http://www.bogotobogo.com/DesignPatterns/introduction.html">Design Patterns</a>
+| <a href="http://www.bogotobogo.com/python/pytut.html">Python</a> 
+| <a href="http://www.bogotobogo.com/CSharp/.netframework.html">C#</a>
+| <a href="http://www.bogotobogo.com/forums.html">Forums</a> 
+| <a href="http://www.bogotobogo.com/VisualBasicSQL/introduction.html">Visual Basic</a>
+</div>
+</div>
+
+
+<div id="contenttext">
+<br>
+<br>
+<!-- Use of this code assumes agreement with the Google Custom Search Terms of Service. -->
+<!-- The terms of service are available at http://www.google.com/cse/docs/tos.html -->
+<form name="cse" id="searchbox_demo" action="http://www.google.com/cse">
+  <input type="hidden" name="cref" value="http://www.google.com/cse/tools/makecse?url=www.bogotobogo.com%2Fcplusplus%2Fquiz_linkedlist.php">
+  <input type="hidden" name="ie" value="ISO-8859-1">
+  <input type="hidden" name="hl" value="">
+  <input name="q" type="text" size="40" style="border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-color: rgb(126, 157, 185); border-right-color: rgb(126, 157, 185); border-bottom-color: rgb(126, 157, 185); border-left-color: rgb(126, 157, 185); padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px; background-image: url(http://www.google.com/cse/intl/en/images/google_custom_search_watermark.gif); background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(255, 255, 255); background-position: 0% 50%; background-repeat: no-repeat no-repeat; ">
+  <input type="submit" name="sa" value="Search">
+<input name="siteurl" type="hidden" value="www.bogotobogo.com/cplusplus/quiz_linkedlist.php"></form>
+<script type="text/javascript" src="./C++ Tutorial  Quiz - Linked List_files/onthefly"></script>
+
+
+<div id="bookmarkshare">
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&username=khhong7"><img src="./C++ Tutorial  Quiz - Linked List_files/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="./C++ Tutorial  Quiz - Linked List_files/addthis_widget.js"></script>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+
+<div style="padding: 10px;"><span class="titletext">C++ Tutorial <br>
+Quiz - Linked List</span></div>
+
+<img src="./C++ Tutorial  Quiz - Linked List_files/cpp_logo.jpg" alt="cplusplus logo">
+
+<br>
+<br>
+<div class="bodytext" style="padding: 12px;" align="justify"> 
+<div class="subtitle_2nd" id="SubList">List of C++ Tutorials</div>
+<ul>
+   <li><a href="http://www.bogotobogo.com/cplusplus/cpptut.html">C++ Home</a> </li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/string.html">String</a> </li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/constructor.html">Constructor</a> </li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/operatoroverloading.html">Operator Overloading</a> </li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/virtualfunctions.html">Virtual Functions</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/dynamic_cast.html">Dynamic Cast Operator</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/typecast.html">Type Cast Operators</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/autoptr.php">Class auto_ptr</a></li>   
+   <li><a href="http://www.bogotobogo.com/cplusplus/references.html">References for Built-in Types</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/valuevsreference.html">Pass by Value vs. Pass by Reference</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/memoryallocation.html">Memory Allocation</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/friendclass.html">Friend Functions and Friend Classes</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/functors.html">Functors (Function Objects)</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/statics.html">Static Variables and Static Class Members</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/exceptions.html">Exceptions</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/stackunwinding.html">Stack Unwinding</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/pointers.html">Pointers</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/pointers2.html">Pointers II</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/pointers3.html">Pointers III</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/assembly.html">Taste of Assembly</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/smallprograms.html">Small Programs</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html">Linked List Examples</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/binarytree.html">Binary Tree Example Code</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/templates.html">Templates</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/stl.html">Standard Template Library (STL) I</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/stl2.html">Standard Template Library (STL) II - Maps</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/stl3_iterators.html">Standard Template Library (STL) III - Iterators</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/slicing.html">Object Slicing and Virtual Table</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/this_pointer.html">The this Pointer</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/stackunwinding.html">Stack Unwinding</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/upcasting_downcasting.html">Upcasting and Downcasting</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/object_returning.html">Object Returning</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/private_inheritance.html">Private Inheritance</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/preprocessor_macro.html">Preprocessor - Macro</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/cplusplus_keywords.html">C++_Keywords</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/fstream_input_output.php">fstream: input &amp; output</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/multithreaded.html">Multi-Threaded Programming - Terminology</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/multithreaded2A.html">Multi-Threaded Programming II -  Native Thread for Win32 (A) </a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/multithreaded2B.html">Multi-Threaded Programming II -  Native Thread for Win32 (B) </a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/multithreaded2C.html">Multi-Threaded Programming II -  Native Thread for Win32 (C) </a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/multithreaded2.html">Multi-Threaded Programming II - C++ Thread for Win32</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/multithreaded3.html">Multi-Threaded Programming III - C++ Class Thread for Pthreads</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/multithreadedDebugging.html">Multithread Debugging</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/sockets_server_client.php">Socket - Server &amp; Client</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/embeddedSystemsProgramming.html">Embedded Systems Programming</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/boost.html">Boost</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/make.php">make</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/libraries.php">Libraries</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/cpptesting.php">C++ API Testing</a></li>
+   <li><a href="http://www.bogotobogo.com/DesignPatterns/introduction.php">Design Patterns in C++</a></li>
+   <li><a href="http://www.bogotobogo.com/Algorithms/algorithms.html">Algorithms in C++</a></li>
+   <li>Programming Questions and Solutions
+    <ul>
+       <li><a href="http://www.bogotobogo.com/cplusplus/quiz_strings_arrays.html">Strings and Arrays</a></li>
+       <li><a href="http://www.bogotobogo.com/cplusplus/quiz_linkedlist.html">Linked List</a></li>
+       <li><a href="http://www.bogotobogo.com/cplusplus/quiz_recursion.html">Recursion</a></li>
+       <li><a href="http://www.bogotobogo.com/cplusplus/quiz_bit_manipulation.html">Bit Manipulation</a> </li>
+       <li><a href="http://www.bogotobogo.com/cplusplus/google_interview_questions.html">140 Google Interview Questions</a> </li>
+    </ul>
+   </li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/blackjackQT.html">Blackjack with Qt</a></li>
+</ul></div>
+<br>
+<br>
+
+<img src="./C++ Tutorial  Quiz - Linked List_files/DoBongSan2.png" alt="DoBongSan2">
+<br>
+<br>
+<div class="bodytext" style="padding: 12px;" align="justify"> 
+<div class="subtitle_2nd" id="SubList">Problems and Solutions</div>
+<ul>
+   <li> <a href="http://www.bogotobogo.com/cplusplus/quiz_linkedlist.php#duplicatenode">Removing Duplicates</a> </li>
+   <li> <a href="http://www.bogotobogo.com/cplusplus/quiz_linkedlist.php#circularnode">Beginning of a Circular List</a> </li>
+   <li> <a href="http://www.bogotobogo.com/cplusplus/quiz_linkedlist.php#thirdlist">A List Representing the Sum of the Two Lists</a> </li>
+   <li> <a href="http://www.bogotobogo.com/cplusplus/quiz_linkedlist.php#sortedlist">Making a Sorted List from an Unsorted List</a> </li>
+</ul>
+<br>
+<p>Additional codes related to linked list:</p>
+<ul>
+	<li><strong> <a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample1" target="_blank">Example 1</a></strong><br>
+	When the head of the list is not a global pointer. </li>
+</ul>
+<ul>
+	<li><strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample2" target="_blank">Example 2</a></strong> and <strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample3" target="_blank">Example 3</a></strong> <br>
+	When the head of the list is a global pointer. <br>
+There are some implementation differences between these two examples.</li>
+	<li><strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample4" target="_blank">Example 4</a></strong><br>
+	Used class &amp; structure in that class.</li>
+	<li><strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample5" target="_blank">Example 5A</a></strong><br>
+	Detecting circular (loop) linked list.</li>
+	<li><strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample5B" target="_blank">Example 5B</a></strong><br>
+	Detecting circular (loop) linked list (Generic Class with Template).</li>
+	<li><strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample6" target="_blank">Example 6</a></strong><br>
+	Stack with linked list data structure.</li>
+	<li><strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample7" target="_blank">Example 7</a></strong><br>
+	Class Stack with linked list data structure.</li>
+	<li><strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample8" target="_blank">Example 8</a></strong><br>
+	Finding intersection and union of two linked lists.</li>
+</ul>
+</div>
+<br>
+<br>
+
+<div class="bodytext" style="padding: 12px;" align="justify"> 
+<div class="subtitle" id="linkedlist">Problems and Solutions - Linked List</div>
+<br>
+<div class="subtitle_2nd" id="duplicatesnode">Removing Duplicates</div>
+<p>A code to remove duplicates from an unsorted list when a temporary buffer is not allowed.</p>
+<pre>/* Removing duplicate from an unsorted list */
+#include &lt;iostream&gt;
+
+using namespace std;
+
+typedef struct Node 
+{
+	int data;
+	Node* next;
+} Node;
+
+bool createList(Node **head)
+{
+	*head = NULL;
+	return true;
+}
+
+void addNode(Node **head, int n)
+{
+	Node *node = new Node();
+	node-&gt;data = n;
+	node-&gt;next = NULL;
+	if(*head == NULL) {
+		*head = node;
+		return;
+	}
+	Node *cur = *head;
+	while(cur) {
+		if(cur-&gt;next == NULL) {
+			cur-&gt;next = node;
+			return;
+		}
+		cur = cur -&gt; next;
+	}
+	return;
+}
+
+void deleteNode(Node **head, Node *node)
+{
+	Node *cur = *head;
+	Node *prev = *head;
+	if(node == *head) {
+		if((*head)-&gt;next != NULL) {
+			*head = (*head)-&gt;next;
+		}
+		return;
+	}
+	while(cur) {
+		if(cur == node) {
+			prev-&gt;next = cur-&gt;next;
+			return;
+		}
+		prev = cur;
+		cur = cur-&gt;next;
+	}
+}
+
+/* No buffer allowed - neeed two pointers */
+void removeDuplicateNode(Node **head)
+{
+	if((*head)-&gt;next == NULL) return;
+	Node *cur = *head;
+	Node *iter;
+	while(cur) {
+		iter = cur-&gt;next;
+		while(iter) {
+			if(cur-&gt;data == iter-&gt;data) {
+				deleteNode(head, iter);
+			}
+			iter = iter-&gt;next;
+		}
+		cur = cur-&gt;next;
+	}
+	return;
+}
+
+void print(Node *head)
+{
+	Node *cur = head;
+	while(cur) {
+		cout &lt;&lt; cur-&gt;data &lt;&lt; " ";
+		cur = cur-&gt;next;
+	}
+	cout &lt;&lt; endl;
+}
+
+int main()
+{
+	Node *head;
+	createList(&amp;head);
+	addNode(&amp;head,10);
+	addNode(&amp;head,30);
+	addNode(&amp;head,40);
+	addNode(&amp;head,50);
+	addNode(&amp;head,20);
+	addNode(&amp;head,30);
+	addNode(&amp;head,70);
+	addNode(&amp;head,20);
+	addNode(&amp;head,30);
+	addNode(&amp;head,90);
+
+	print(head);
+	removeDuplicateNode(&amp;head);
+	print(head);
+	return 0;
+}
+</pre>
+<p>Output from the run:</p>
+<pre>10 30 40 50 20 30 70 20 30 90
+10 30 40 50 20 70 90
+</pre>
+<br>
+<br>
+
+
+<div class="subtitle_2nd" id="circularnode">Beginning of a Circular List</div>
+<p>Returning a node of the beginning of the loop in circular linked list. <br>
+From a corrupt (circular) linked list, the code sample below shows how to find the beginning of the loop. <br>
+Two pointers are used: the first pointer iterates one node per step and the other pointer iterated two nodes per step. 
+It first find the node where the two pointers meet. Then, each pointer iterates one node per step. It will meet at the beginning of the loop.</p>
+<pre>/* Locate the beginning of circular list */
+#include &lt;iostream&gt;
+
+using namespace std;
+
+typedef struct Node 
+{
+	char data;
+	Node* next;
+} Node;
+
+bool createList(Node **head)
+{
+	*head = NULL;
+	return true;
+}
+
+void addNode(Node **head, char c)
+{
+	Node *node = new Node();
+	node-&gt;data = c;
+	node-&gt;next = NULL;
+	if(*head == NULL) {
+		*head = node;
+		return;
+	}
+	Node *cur = *head;
+	while(cur) {
+		if(cur-&gt;next == NULL) {
+			cur-&gt;next = node;
+			return;
+		}
+		cur = cur -&gt; next;
+	}
+	return;
+}
+
+/* Make it circulat at node 'D' */
+void makeCircular(Node **head, char c)
+{
+	if(*head == NULL) return;
+	Node *cur = *head;
+	Node *tmp;
+	while(cur) {
+		if(cur-&gt;data == c) {
+			tmp = cur;
+		}
+		if(cur-&gt;next == NULL) break;
+		cur = cur-&gt;next;
+	}
+	cur-&gt;next = tmp;
+	return;	
+}
+
+/* cur : iterates one node at a time */
+/* cur2 : iterates two nodes at a time */
+char findCircularAt(Node *head)
+{
+	Node *cur = head;
+	Node *cur2 = head;
+	if(head == NULL || head-&gt;next == NULL) return '\0';
+	while(cur) {
+		cur = cur-&gt;next;
+		if(cur2 -&gt;next == NULL ) return '\0';
+		cur2 = cur2-&gt;next;
+		if(cur2 -&gt;next == NULL ) return '\0';
+		cur2 = cur2-&gt;next;
+		if(cur == cur2 ) {
+			cur-&gt;data;
+			break;
+		}
+	}
+	cur2 = cur;
+	cur = head;
+	while(cur) {
+		cur = cur-&gt;next;
+		cur2 = cur2-&gt;next;
+		if(cur == cur2) {
+			return cur-&gt;data;
+		}
+	}
+}
+
+void print(Node *head)
+{
+	Node *cur = head;
+	while(cur) {
+		cout &lt;&lt; cur-&gt;data &lt;&lt; " ";
+		cur = cur-&gt;next;
+	}
+	cout &lt;&lt; endl;
+}
+
+/* A -&gt; B -&gt; C -&gt; D -&gt; E -&gt; .... -&gt; M -&gt; N -&gt; D -&gt; E -&gt; .... */
+int main()
+{
+	Node *head;
+	createList(&amp;head);
+	addNode(&amp;head, 'A');
+	addNode(&amp;head, 'B');
+	addNode(&amp;head, 'C');
+	addNode(&amp;head, 'D');
+	addNode(&amp;head, 'E');
+	addNode(&amp;head, 'F');
+	addNode(&amp;head, 'G');
+	addNode(&amp;head, 'H');
+	addNode(&amp;head, 'I');
+	addNode(&amp;head, 'J');
+	addNode(&amp;head, 'K');
+	addNode(&amp;head, 'L');
+	addNode(&amp;head, 'M');
+	addNode(&amp;head, 'N');
+
+	print(head);
+
+	/* Make it circular at node 'D' */
+	makeCircular(&amp;head,'D');
+
+	cout &lt;&lt; "List is circular at " &lt;&lt;
+		findCircularAt(head) &lt;&lt; endl;
+
+	return 0;
+}
+</pre>
+<p>Output is</p>
+<pre>A B C D E F G H I J K L M N
+List is circular at D
+</pre>
+<br>
+<br>
+
+
+<div class="subtitle_2nd" id="thirdlist">A List Representing the Sum of the Two Lists</div>
+<p>Two linked lists are representing two different numbers. Each node contains a single digit. For example, 234 and 5678, respectively.
+This code adds the two numbers and returns the sum as a linked list.</p>
+<pre>/* A new list representing the sum of the two lists
+ * The three lists stored the one digit per node of the list */
+#include &lt;iostream&gt;
+
+using namespace std;
+
+typedef struct Node 
+{
+	int data;
+	Node* next;
+} Node;
+
+bool createList(Node **head)
+{
+	*head = NULL;
+	return true;
+}
+
+void addNode(Node **head, int n)
+{
+	Node *node = new Node();
+	node-&gt;data = n;
+	node-&gt;next = NULL;
+	if(*head == NULL) {
+		*head = node;
+		return;
+	}
+	Node *cur = *head;
+	while(cur) {
+		if(cur-&gt;next == NULL) {
+			cur-&gt;next = node;
+			return;
+		}
+		cur = cur -&gt; next;
+	}
+	return;
+}
+
+void insertFront(Node **head, int n)
+{
+	Node *cur = new Node();
+	if(*head == NULL) {
+		cur-&gt;data = n;
+		*head = cur;
+		(*head)-&gt;next = NULL;
+		return;
+	}
+	cur-&gt;next = *head;
+	cur-&gt;data = n;
+	*head = cur;
+	return;
+
+}
+
+/* Get the number from each digit stored in a node of a list */
+int getNumber(Node *head)
+{
+	int sum = 0;
+	if(head == NULL) return sum;
+	Node *cur = head;
+	while(cur) {
+		sum *= 10;
+		sum += cur-&gt;data;
+		cur = cur-&gt;next;
+	}
+	return sum;
+}
+
+/* just convert unsigned int to string - itoa()*/
+void i2a(int n, char s[])
+{
+	int i = 0;
+	while(1) {
+		s[i++] = (n % 10) + '0';
+		if((n /= 10) == 0) break;
+	}
+	s[i]='\0';
+}
+
+/* Get the sum of numbers from the two list and
+ * put each digit of the sum to a new list
+ * 5912 = 234 + 5678
+ * '5' into the head, then '9' next in the list, and so on. */
+void putNumber(Node **head, Node *headA, Node *headB)
+{
+	int sum = getNumber(headA)+getNumber(headB);
+	char s[10];
+
+	/* s has reversed digits */
+	i2a(sum,s); 
+
+	/* get each character one by one 
+	and insert into the head of the list 
+	because the list has reversed digit*/
+	for(int i = 0; i &lt; strlen(s); i++) {
+		insertFront(head, s[i]-'0');
+	}
+	return;
+}
+
+void print(Node *head)
+{
+	Node *cur = head;
+	while(cur) {
+		cout &lt;&lt; cur-&gt;data &lt;&lt; " ";
+		cur = cur-&gt;next;
+	}
+	cout &lt;&lt; endl;
+}
+
+int main()
+{
+	Node *headA, *headB;
+	Node *headSum;
+	createList(&amp;headA);
+	createList(&amp;headB);
+	createList(&amp;headSum);
+
+	// 234
+	addNode(&amp;headA,2);
+	addNode(&amp;headA,3);
+	addNode(&amp;headA,4);
+	cout &lt;&lt; "Sum A = " &lt;&lt; getNumber(headA) &lt;&lt; endl;
+
+	// 5678
+	addNode(&amp;headB,5);
+	addNode(&amp;headB,6);
+	addNode(&amp;headB,7);
+	addNode(&amp;headB,8);
+	cout &lt;&lt; "Sum B = " &lt;&lt; getNumber(headB) &lt;&lt; endl;
+
+	// 234 + 5678
+	putNumber(&amp;headSum,headA,headB);
+
+	print(headA);
+	print(headB);
+	print(headSum);
+
+	return 0;
+}
+</pre>
+<p>Output from the run is:</p>
+<pre>Sum A = 234
+Sum B = 5678
+2 3 4
+5 6 7 8
+5 9 1 2
+</pre>
+<br>
+<br>
+
+
+<div class="subtitle_2nd" id="sortedlist">Making a Sorted List from an Unsorted List</div>
+<p>This example code makes sorted list out of unsorted list. Because we are looping through both sorted and unsorted lists to compare the data, it's <i>O(n <sup>2</sup>)</i>. So, it's not going to be efficient for a huge list. 
+<br>
+</p><pre>#include &lt;iostream&gt;
+
+using namespace std;
+
+struct node 
+{
+	int data;
+	node *next;
+};
+
+// append at the end of the list
+void append(struct node **head, int n)
+{
+	struct node *cur;
+	struct node *new_node = (struct node *)malloc(sizeof(struct node));
+	new_node-&gt;data = n;
+	new_node-&gt;next = NULL;
+	if(*head == NULL) {
+		*head = new_node;
+		return;
+	}
+
+	cur = *head;
+	while(cur) {
+		if(cur-&gt;next == NULL) {
+			cur-&gt;next = new_node;
+			return;
+		}
+		cur = cur-&gt;next;
+	}
+}
+
+void insert(struct node **head, int newData)
+{
+	struct node *current = *head;
+	struct node *prev = *head;
+	struct node *newNode = NULL;
+
+	newNode = (struct node *)malloc(sizeof(struct node));
+	newNode-&gt;data = newData;
+	newNode-&gt;next = NULL;
+
+	if(*head == NULL) {
+		*head = newNode;
+		return;
+	}
+
+	current = *head;
+	// insert if new data is smaller than existing data
+	while(current) {
+		if(newData &lt;= current-&gt;data ) {
+			if(current == *head) {
+				newNode-&gt;next = *head;
+				*head = newNode;
+				return;
+			}
+			newNode-&gt;next = current;
+			prev-&gt;next = newNode;
+			return;
+		}
+		prev = current;
+		current = current-&gt;next;
+	}
+	// append if new data is the biggest
+	append(head,newData);
+	return;
+}
+ 
+struct node *getSorted(struct node *unsorted)
+{
+	struct node *in = unsorted;
+	struct node *res = NULL;
+	struct node *current = NULL;
+
+	if(unsorted == NULL) return res;
+
+	current = unsorted;
+
+	// loop through unsorted list one by one
+	while(current) {
+		insert(&amp;res, current-&gt;data);
+		current = current-&gt;next;
+	}
+	return res;
+}
+
+void display(struct node *head)
+{
+	if(head == NULL) return;
+	struct node *cur = head;
+	while(cur) {
+		cout &lt;&lt; cur-&gt;data &lt;&lt; ' ';
+		cur = cur-&gt;next;
+	}
+	cout &lt;&lt; endl;
+}
+
+int main()
+{
+	struct node *unsortedList = NULL;
+
+	// populate list by random number: unsorted
+	for(int i = 0; i &lt; 10; i++)
+		append(&amp;unsortedList, rand() % 1000);
+
+	cout &lt;&lt; "Unsorted: ";
+	display(unsortedList);
+
+	cout &lt;&lt; "Sorted: ";
+	// display after converting unsorted list to sorted list
+	display(getSorted(unsortedList));
+
+	return 0;
+}
+</pre>
+<p>Here is the output:</p>
+<pre>Unsorted: 41 467 334 500 169 724 478 358 962 464
+Sorted: 41 169 334 358 464 467 478 500 724 962
+</pre>
+<br>
+<br>
+
+<div class="subtitle_2nd" id="SubList">Problems and Solutions</div>
+<ul>
+   <li> <a href="http://www.bogotobogo.com/cplusplus/quiz_linkedlist.php#duplicatenode">Removing Duplicates</a> </li>
+   <li> <a href="http://www.bogotobogo.com/cplusplus/quiz_linkedlist.php#circularnode">Beginning of a Circular List</a> </li>
+   <li> <a href="http://www.bogotobogo.com/cplusplus/quiz_linkedlist.php#thirdlist">A List Representing the Sum of the Two Lists</a> </li>
+   <li> <a href="http://www.bogotobogo.com/cplusplus/quiz_linkedlist.php#sortedlist">Making a Sorted List from an Unsorted List</a> </li>
+</ul>
+<br>
+<br>
+
+<p>Additional codes related to linked list:</p>
+<ul>
+   <li> <a href="http://www.bogotobogo.com/cplusplus/linkedlist.html">Linked List</a> </li>
+</ul>
+<ul>
+	<li><strong> <a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample1" target="_blank">Example 1</a></strong><br>
+	When the head of the list is not a global pointer. </li>
+	<li><strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample2" target="_blank">Example 2</a></strong> and <strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample3" target="_blank">Example 3</a></strong> <br>
+	When the head of the list is a global pointer. <br>
+There are some implementation differences between these two examples.</li>
+	<li><strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample4" target="_blank">Example 4</a></strong><br>
+	Used class &amp; structure in that class.</li>
+	<li><strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample5" target="_blank">Example 5A</a></strong><br>
+	Detecting circular (loop) linked list.</li>
+	<li><strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample5B" target="_blank">Example 5B</a></strong><br>
+	Detecting circular (loop) linked list (Generic Class with Template).</li>
+	<li><strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample6" target="_blank">Example 6</a></strong><br>
+	Stack with linked list data structure.</li>
+	<li><strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample7" target="_blank">Example 7</a></strong><br>
+	Class Stack with linked list data structure.</li>
+	<li><strong><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html#linkedlistexample8" target="_blank">Example 8</a></strong><br>
+	Finding intersection and union of two linked lists.</li>
+</ul>
+<br>
+<br>
+
+<img src="./C++ Tutorial  Quiz - Linked List_files/KangChunSan.png" alt="KangChunSan">
+<br>
+<br>
+<br>
+<div class="subtitle_2nd" id="FullList">C++ Tutorials</div>
+<ul>
+   <li><a href="http://www.bogotobogo.com/cplusplus/cpptut.html">C++ Home</a> </li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/string.html">String</a> </li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/constructor.html">Constructor</a> </li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/operatoroverloading.html">Operator Overloading</a> </li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/virtualfunctions.html">Virtual Functions</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/dynamic_cast.html">Dynamic Cast Operator</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/typecast.html">Type Cast Operators</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/autoptr.php">Class auto_ptr</a></li>   
+   <li><a href="http://www.bogotobogo.com/cplusplus/references.html">References for Built-in Types</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/valuevsreference.html">Pass by Value vs. Pass by Reference</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/memoryallocation.html">Memory Allocation</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/friendclass.html">Friend Functions and Friend Classes</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/functors.html">Functors (Function Objects)</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/statics.html">Static Variables and Static Class Members</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/exceptions.html">Exceptions</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/stackunwinding.html">Stack Unwinding</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/pointers.html">Pointers</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/pointers2.html">Pointers II</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/pointers3.html">Pointers III</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/assembly.html">Taste of Assembly</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/smallprograms.html">Small Programs</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/linkedlist.html">Linked List Examples</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/binarytree.html">Binary Tree Example Code</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/templates.html">Templates</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/stl.html">Standard Template Library (STL) I</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/stl2.html">Standard Template Library (STL) II - Maps</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/stl3_iterators.html">Standard Template Library (STL) III - Iterators</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/slicing.html">Object Slicing and Virtual Table</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/this_pointer.html">The this Pointer</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/stackunwinding.html">Stack Unwinding</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/upcasting_downcasting.html">Upcasting and Downcasting</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/object_returning.html">Object Returning</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/private_inheritance.html">Private Inheritance</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/preprocessor_macro.html">Preprocessor - Macro</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/cplusplus_keywords.html">C++_Keywords</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/fstream_input_output.php">fstream: input &amp; output</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/multithreaded.html">Multi-Threaded Programming - Terminology</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/multithreaded2A.html">Multi-Threaded Programming II -  Native Thread for Win32 (A) </a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/multithreaded2B.html">Multi-Threaded Programming II -  Native Thread for Win32 (B) </a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/multithreaded2C.html">Multi-Threaded Programming II -  Native Thread for Win32 (C) </a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/multithreaded2.html">Multi-Threaded Programming II - C++ Thread for Win32</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/multithreaded3.html">Multi-Threaded Programming III - C++ Class Thread for Pthreads</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/multithreadedDebugging.html">Multithread Debugging</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/sockets_server_client.php">Socket - Server &amp; Client</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/embeddedSystemsProgramming.html">Embedded Systems Programming</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/boost.html">Boost</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/make.php">make</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/libraries.php">Libraries</a></li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/cpptesting.php">C++ API Testing</a></li>
+   <li><a href="http://www.bogotobogo.com/DesignPatterns/introduction.php">Design Patterns in C++</a></li>
+   <li><a href="http://www.bogotobogo.com/Algorithms/algorithms.html">Algorithms in C++</a></li>
+   <li>Programming Questions and Solutions
+    <ul>
+       <li><a href="http://www.bogotobogo.com/cplusplus/quiz_strings_arrays.html">Strings and Arrays</a></li>
+       <li><a href="http://www.bogotobogo.com/cplusplus/quiz_linkedlist.html">Linked List</a></li>
+       <li><a href="http://www.bogotobogo.com/cplusplus/quiz_recursion.html">Recursion</a></li>
+       <li><a href="http://www.bogotobogo.com/cplusplus/quiz_bit_manipulation.html">Bit Manipulation</a> </li>
+       <li><a href="http://www.bogotobogo.com/cplusplus/google_interview_questions.html">140 Google Interview Questions</a> </li>
+    </ul>
+   </li>
+   <li><a href="http://www.bogotobogo.com/cplusplus/blackjackQT.html">Blackjack with Qt</a></li>
+</ul>
+<br>
+<br>
+<div id="rightpanel">
+<div align="center">
+</div></div>
+<br>
+
+<br>
+</div>
+
+<br>
+<br>
+<br>
+
+
+
+<div class="smallgraytext" id="footer"><a href="http://www.bogotobogo.com/index.html">Home</a>
+| <a href="http://www.bogotobogo.com/about_us.html">About Us</a>
+| <a href="http://www.bogotobogo.com/products.html">products</a>
+| <a href="http://www.bogotobogo.com/our_services.html">Our Services</a>
+| <a href="http://www.bogotobogo.com/cplusplus/quiz_linkedlist.php#">Contact Us</a>
+| Bogotobogo © 2011 | <a target="_blank" href="http://www.bogotobogo.com/">Bogotobogo </a></div>
+</div>
+</div>
+
+
+
+</div></body><span id="skype_highlighting_settings" display="none" autoextractnumbers="1"></span><object id="skype_plugin_object" location.href="http://www.bogotobogo.com/cplusplus/quiz_linkedlist.php" location.hostname="www.bogotobogo.com" style="position: absolute; visibility: hidden; left: -100px; top: -100px; " width="0" height="0" type="application/x-vnd.skype.toolbars.npplugin.4.2.0"></object></html>

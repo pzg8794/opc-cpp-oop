@@ -1,0 +1,33 @@
+/*  Experiment_No5_2.cpp : main project file.
+					 (Resistors in Parallel)
+	EET 110, 8:30am-10:45
+	Prof. Issapour	
+	Garcia, Piter
+	Discription: This program will find the resistor value 
+	of two resistors parallel combination. */
+
+#include "stdafx.h"
+#include <iostream>
+using namespace std;
+void main()
+{							//Title:
+					cout<<"\n\t\t\t\t Assingment#5";
+			cout<<"\n\t\t\t Resistors  in  Parallel\n\n";
+							
+double  R1, R2, Rx; 
+					//Resistors in the Series Circuit
+	cout<<"\n\n please enter the value for Resistor (R1) in Killo Ohms\n";//R1=6k 
+	cin>> R1;
+	cout<<"\n\ please enter the value for Resistor (R2) in Killo 0hms\n";//R2=4k 
+	cin>> R2;
+			//Rx= Result of R1 and R2 parallel combination.
+	cout<<"\n\n\t\t Resistor Value of R1 and R2 parallel combination\n"; 
+	cout << "\n\n\t Resistor 1\t\t Resistor 2\t\t Reistor x \n";
+
+	Rx= (R1*R2)/(R1+R2);
+
+	cout << " \n\t" << R1 << " Killo Ohms" << " \t \t " << R2 << " Killo Ohms" 
+	<< " \t \t " << Rx << " Killo Ohms";
+	cout << " \n \n";
+					 /*Author*/cout<<"\n\n\t\t\t\t\t\t Made by Piter Garcia\n";
+}

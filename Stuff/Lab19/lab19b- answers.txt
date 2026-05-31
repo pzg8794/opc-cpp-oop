@@ -1,0 +1,33 @@
+;Lab 19b - answers submitted to Professor Balaji by
+;PETER GARCIA
+.
+.     Type a question mark (?) to get a Debug HELP screen.
+(!DOSCALC) pulls up a Decimal/Hexadecimal/Binary calculator.Esc to leave.
+Microsoft (R) Symbolic Debug Utility  Version 4.00
+Copyright (C) Microsoft Corp 1984, 1985.  REVISED 05/07/89   .
+
+Type '?' for  80286]
+-u
+1A26:0000 33C9           XOR    CX,CX
+1A26:0002 B80080         MOV    AX,8000
+1A26:0005 41             INC    CX
+1A26:0006 8BD8           MOV    BX,AX
+1A26:0008 81E39104       AND    BX,0491
+1A26:000C 0ADF           OR     BL,BH
+1A26:000E 7A01           JPE    0011
+1A26:0010 F9             STC
+-u
+1A26:0011 D1D8           RCR    AX,1
+1A26:0013 3D0080         CMP    AX,8000
+1A26:0016 75ED           JNZ    0005
+1A26:0018 F4             HLT
+1A26:0019 C706263C0000   MOV    Word Ptr [3C26],0000
+1A26:001F C706D2330000   MOV    Word Ptr [33D2],0000
+1A26:0025 803ED44000     CMP    Byte Ptr [40D4],00
+1A26:002A 7412           JZ     003E
+-bp 18
+-g
+AX=8000  BX=0001  CX=FFFF  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A16  ES=1A16  SS=1A26  CS=1A26  IP=0018   NV UP EI PL ZR NA PE NC
+1A26:0018 F4             HLT                                  ;BR0
+-T                                  ;BR0

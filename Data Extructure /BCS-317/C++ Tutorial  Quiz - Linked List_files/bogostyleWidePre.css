@@ -1,0 +1,265 @@
+  body { margin: 0px;
+    }
+
+  pre
+  {
+    font-weight:bold;
+    color:navy;
+    font-family:monospace;
+    font-size:15px;
+  }
+
+  #logo { float: left;
+    height: 140px;
+    width: 140px;
+    background-image: url(tiger.gif);
+    background-position: left center;
+    margin-top: 20px;
+    margin-left: 10px;
+    }
+
+  #topheader { float: right;
+    width: 556px;
+    height: 97px;
+    background-color: rgb(240, 240, 240);
+    position: relative;
+    margin-top: 20px;
+    }
+
+  #toplinks { position: absolute;
+    right: 10px;
+    top: 10px;
+    }
+
+  #menu { float: right;
+    width: 556px;
+    height: 32px;
+    background-image: url(bg_menu.gif);
+    background-repeat: repeat-x;
+    }
+
+  #submenu { float: right;
+    width: 556px;
+    height: 74px;
+    background-image: url(bg_submenu.gif);
+    background-position: center top;
+    background-repeat: repeat-x;
+    }
+
+  #contenttext { float: left;
+    width: 820px;
+    }
+
+
+  #rightpanel { float: right;
+    width: 300px;
+    margin-left: 50px;
+    font-weight: normal;
+    color: midnightblue;
+    font-size: 14px;
+    font-family: times, serif;
+    font-style: italic;
+
+    }
+
+  ul.NoBullet {
+	list-style-type: none;
+  }
+
+  #leftpanel { float: right;
+    width: 200px;
+    margin-top: 50px;
+    }
+
+  #footer { padding: 10px;
+    float: left;
+    width: 800px;
+    background-color: rgb(240, 240, 240);
+    }
+
+  #bookmarkshare {float: right;
+	margin-top: 50px;
+    }
+
+
+
+  .graypanel { border: 1px solid rgb(102, 102, 102);
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(247, 247, 247);
+    }
+
+  .headerbodytext { font-family: Tahoma,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 0.7em;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    color: rgb(102, 102, 102);
+    margin-left: 30px;
+    } 
+ 
+   .bodytext { font-family: Tahoma,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 0.9em;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    color: rgb(0, 100, 100);
+    }
+
+
+  .titletext { font-family: Tahoma,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-size: 36px;
+    font-weight: bold;
+    color: rgb(0, 70, 150);
+    }
+
+   .subtitle {
+    font-family: Tahoma,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-size: 24px;
+    font-weight: bold;
+   /* color: rgb(204, 0, 0);*/
+    color: rgb(0, 110, 150);
+    }
+
+  .subtitle_2nd {
+    font-family: Tahoma,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-size: 18px;
+    font-weight: bold;
+   /* color: rgb(204, 0, 0);*/
+    color: rgb(0, 51, 0);
+    }
+
+  .subtitle_3rd {
+    font-family: Tahoma,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-size: 14px;
+    font-weight: bold;
+   /* color: rgb(204, 0, 0);*/
+    color: rgb(0, 110, 150);    }
+
+  .whitetitle { font-family: Tahoma,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    color: rgb(255, 255, 255);
+    font-weight: normal;
+    font-size: 20px;
+    }
+
+  .smalltitle { font-family: Tahoma,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(204, 0, 0);
+    }
+
+  .smallwhitetext { font-family: Tahoma,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-size: 11px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    }
+
+  .smallwhitetext a { font-family: Tahoma,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-size: 11px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    }
+
+  .smallwhitetext a:hover { text-decoration: underline;
+    }
+
+  .smallgraytext { font-family: Tahoma,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-size: 11px;
+    font-weight: bold;
+    color: rgb(153, 153, 153);
+    }
+
+  .smallgraytext a { font-family: Tahoma,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-size: 11px;
+    font-weight: bold;
+    color: rgb(153, 153, 153);
+    text-decoration: none;
+    }
+
+  .smallgraytext a:hover { text-decoration: underline;
+    }
+
+  .smallredtext { font-family: Tahoma,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-size: 11px;
+    font-weight: bold;
+    color: rgb(204, 0, 0);
+    }
+
+  .smallredtext a { font-family: Tahoma,sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    line-height: normal;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-size: 11px;
+    font-weight: bold;
+    color: rgb(204, 0, 0);
+    text-decoration: none;
+    }
+
+  .smallredtext a:hover { text-decoration: underline;
+
+  }
+

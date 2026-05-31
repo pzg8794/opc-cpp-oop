@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LabAssignmentNo7", "LabAssignmentNo7\LabAssignmentNo7.vcproj", "{7A778B2C-F303-4AD7-8C87-947A66ED5668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A778B2C-F303-4AD7-8C87-947A66ED5668}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7A778B2C-F303-4AD7-8C87-947A66ED5668}.Debug|Win32.Build.0 = Debug|Win32
+		{7A778B2C-F303-4AD7-8C87-947A66ED5668}.Release|Win32.ActiveCfg = Release|Win32
+		{7A778B2C-F303-4AD7-8C87-947A66ED5668}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

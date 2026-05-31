@@ -1,0 +1,29 @@
+
+
+
+                       If Statement Program
+                   ============================
+
+ Please enter the Amount of Checks written during the month:
+ 10
+ Please enter the Amount of Checks written during the month:
+ 20
+ Please enter the Amount of Checks written during the month:
+ 40
+ Please enter the Amount of Checks written during the month:
+ 80
+
+
+                      Banck's Fee per Month
+                      -----------------------
+
+ Number of Checks               Checks'Fee              Banck's Fee
+ ____________________________________________________________________
+
+        10                           1                       11
+        20                         1.6                     11.6
+        40                         2.4                     12.4
+        80                         3.2                     13.2
+
+Press any key to continue . . .
+

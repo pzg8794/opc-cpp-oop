@@ -1,0 +1,103 @@
+
+
+
+ Extra Credit #1                                              By  Piter Garcia
+ ________________                                             _________________
+
+
+                   Creating a Craps Game with C++ Functions
+               ================================================
+
+
+
+
+
+                        << Welcome to the Craps Game >>
+                      -----------------------------------
+
+ Please enter below the Money you wish to bet
+ 1000
+
+
+
+ Round 1
+ Please enter the number to which you are betting
+ 21
+ Press any number to throw the dies
+ 2
+
+ Dies Rolling...
+ The Number is 2
+
+ You have Lost Round 1 !
+ Therefore you have lost $1000 dollars
+
+
+
+ The Round 1 is Over!
+ You have $0 dollars left to Play
+ Do you want to keep playing ?
+ If so enter any number, otherwise enter 0
+ 1
+
+
+ Welcome to the Craps Game Once Again
+ Please enter below the Money you wish you bet
+ 1000
+
+ Round 2
+ Please enter the number to which you are betting
+ 12
+ Press any number to throw the dies
+ 3
+
+ Dies Rolling...
+ The Number is 3
+
+ You have Lost Round 2 !
+ Therefore you have lost $1000 dollars
+
+
+
+ The Round 2 is Over!
+ You have $0 dollars left to Play
+ Do you want to keep playing ?
+ If so enter any number, otherwise enter 0
+ 1
+
+
+ Welcome to the Craps Game Once Again
+ Please enter below the Money you wish you bet
+ 1000
+
+ Round 3
+ Please enter the number to which you are betting
+ 14
+ Press any number to throw the dies
+ 12
+
+ Dies Rolling...
+ The Number is 12
+
+ You have Lost Round 3 !
+ Therefore you have lost $1000 dollars
+
+
+
+ The Round 3 is Over!
+ You have $0 dollars left to Play
+ Do you want to keep playing ?
+ If so enter any number, otherwise enter 0
+ 0
+
+
+ Sorry !
+
+ You have played a total of 3 rounds
+ and You have lost everything
+ Good Luck for the next time
+
+ Thanks  for Playing
+
+Press any key to continue . . .
+

@@ -1,0 +1,6 @@
+
+
+  Assignment # 6                                         By  Piter Garcia
+ ----------------                                       ------------------
+ Cannot open theinput file.
+ Program Terminated!!!

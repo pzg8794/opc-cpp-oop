@@ -1,0 +1,43 @@
+;Lab 1 - answers FIBONACCI submitted to Balaji by
+;Piter Garcia
+;GENERATE FIBONACI SERIES
+;0,1,1,2,3,5,8,13,21,43.......
+;16 BIT ANSWERS IN AX AND BX (in HEX)
+.     Type a question mark (?) to get a Debug HELP screen.
+(!DOSCALC) pulls up a Decimal/Hexadecimal/Binary calculator.Esc to leave
+Microsoft (R) Symbolic Debug Utility  Version 4.00
+Copyright (C) Microsoft Corp 1984, 1985.  REVISED 05/07/89   .
+
+-g
+AX=1A6D  BX=1055  CX=1A6D  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL NZ NA PO NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=2AC2  BX=1A6D  CX=2AC2  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL NZ AC PO NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=452F  BX=2AC2  CX=452F  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL NZ NA PO NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-
+-g
+AX=6FF1  BX=452F  CX=6FF1  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL NZ AC PO NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=B520  BX=6FF1  CX=B520  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   OV UP EI NG NZ AC PO NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=2511  BX=B520  CX=2511  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI PL NZ NA PE CY
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=DA31  BX=2511  CX=DA31  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI NG NZ NA PO NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0
+-g
+AX=FF42  BX=DA31  CX=FF42  DX=0000  SP=0000  BP=0000  SI=0000  DI=0000
+DS=1A10  ES=1A10  SS=1A20  CS=1A20  IP=0009   NV UP EI NG NZ NA PE NC
+1A20:0009 03CB           ADD    CX,BX                         ;BR0

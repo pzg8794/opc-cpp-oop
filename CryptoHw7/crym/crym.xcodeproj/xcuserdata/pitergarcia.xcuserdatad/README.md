@@ -1,0 +1,12 @@
+# pitergarcia.xcuserdatad
+
+Path: `CryptoHw7/crym/crym.xcodeproj/xcuserdata/pitergarcia.xcuserdatad`
+
+## Items
+
+- `xcdebugger/` (folder)
+- `xcschemes/` (folder)
+
+## Notes
+
+This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.

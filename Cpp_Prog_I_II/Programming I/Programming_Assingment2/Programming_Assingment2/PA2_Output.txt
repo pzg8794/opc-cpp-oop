@@ -1,0 +1,16 @@
+
+                         Homework Assignment # 2
+                             By Piter Garcia
+
+
+         Elapsed Time Converted from Seconds to Hrs,Mins,and Seconds
+        =============================================================
+
+
+
+ Please enter the elapsed time in seconds
+ 9630
+
+ 9630 seconds = 2:40:30
+
+Press any key to continue . . .
