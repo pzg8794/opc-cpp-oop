@@ -2,10 +2,12 @@
 
 Path: `Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `Debug/` (folder)
-- `Assignment2.txt` (file)
 - `AssignmentNo1.vcproj` (file)
 - `AssignmentNo1.vcxproj` (file)
 - `MyArray.cpp` (file)
@@ -15,4 +17,4 @@ Path: `Data Extructure /BCS-317/AssignmentNo1/AssignmentNo1`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

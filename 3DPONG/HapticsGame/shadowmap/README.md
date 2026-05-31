@@ -2,10 +2,14 @@
 
 Path: `3DPONG/HapticsGame/shadowmap`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
 - `Shadow Mapping/` (folder)
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

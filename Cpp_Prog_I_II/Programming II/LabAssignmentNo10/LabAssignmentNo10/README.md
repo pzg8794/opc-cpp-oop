@@ -2,14 +2,16 @@
 
 Path: `Cpp_Prog_I_II/Programming II/LabAssignmentNo10/LabAssignmentNo10`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `Debug/` (folder)
 - `LabAssignmentNo10.cpp` (file)
 - `LabAssignmentNo10.vcproj` (file)
 - `labno10.cpp` (file)
-- `outputlab10.txt` (file)
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

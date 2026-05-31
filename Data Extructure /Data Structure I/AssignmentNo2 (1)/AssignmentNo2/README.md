@@ -2,9 +2,12 @@
 
 Path: `Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `Debug/` (folder)
 - `AssignmentNo2.vcproj` (file)
 - `MyArray.cpp` (file)
 - `MyArray.h` (file)
@@ -12,4 +15,4 @@ Path: `Data Extructure /Data Structure I/AssignmentNo2 (1)/AssignmentNo2`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

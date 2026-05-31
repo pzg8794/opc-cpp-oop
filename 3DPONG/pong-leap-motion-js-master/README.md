@@ -1,34 +1,17 @@
-pong-leap-motion-js
-===================
+# pong-leap-motion-js-master
 
-A pong game using the Leap Motion as a controller. The game is written in Javascript and uses the CreateJS framework.
+Path: `3DPONG/pong-leap-motion-js-master`
 
-If you have a Leap Motion, go ahead and try it at http://javierquevedo.com/Pong/Pong%20Motion/Pong.html
+## Purpose
 
-![PongMotion](Pong%20Motion/assets/screenshot.png)
+Indexed project directory from the old Portafolio cleanup.
 
+## Items
 
-Requirements
----------------
-This game requires a Leap Motion (http://www.leapmotion.com). Make sure that you have enabled "Allow Web Apps" and "Allow Background Apps
- in the Leap Motion settings utility.
- 
-Starting the game
----------------
-Clone the project and run : python -m SimpleHTTPServer on the root of the clone project
-Open http://localhost:8000/Pong%20Motion/Pong.html and enjoy!
+- `Pong Motion/` (folder)
+- `src/` (folder)
+- `LICENSE` (file)
 
-How to play
----------------
-Move you hands up and down to raise or lower your pong bracket.
+## Notes
 
-
-About
-===================
-Copyright (c) 2013 Javier Quevedo
-Twitter: @senc01a
-Github: http://github.com/senc01a
-
-
-
-
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

@@ -2,9 +2,12 @@
 
 Path: `CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Management`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `Debug/` (folder)
 - `Mark's Bill Management.vcproj` (file)
 - `MarksBill.cpp` (file)
 - `MarksBillIMP.cpp` (file)
@@ -12,4 +15,4 @@ Path: `CppProjects/PersonalProjects/Mark's Bill Management/Mark's Bill Managemen
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

@@ -2,9 +2,12 @@
 
 Path: `3DPONG/HapticsGame/HapticsGame`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `Debug/` (folder)
 - `basic_opengl.sln` (file)
 - `basic_opengl.vcproj` (file)
 - `basic_opengl.vcxproj` (file)
@@ -18,4 +21,4 @@ Path: `3DPONG/HapticsGame/HapticsGame`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

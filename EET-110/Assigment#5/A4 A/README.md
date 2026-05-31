@@ -2,9 +2,12 @@
 
 Path: `EET-110/Assigment#5/A4 A`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `Debug/` (folder)
 - `A4 A.cpp` (file)
 - `A4 A.vcproj` (file)
 - `AssemblyInfo.cpp` (file)
@@ -19,4 +22,4 @@ Path: `EET-110/Assigment#5/A4 A`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

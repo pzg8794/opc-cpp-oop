@@ -2,11 +2,14 @@
 
 Path: `Stuff/Lab20`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `LAB20.txt` (file)
-- `lab25-answers.txt` (file)
+- No items currently classified here.
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

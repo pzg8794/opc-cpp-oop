@@ -2,12 +2,15 @@
 
 Path: `Programming I/LabNo.4/LabNo.4`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `Debug/` (folder)
 - `LabNo.4.vcproj` (file)
 - `Practice.cpp` (file)
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

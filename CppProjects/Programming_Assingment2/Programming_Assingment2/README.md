@@ -2,9 +2,12 @@
 
 Path: `CppProjects/Programming_Assingment2/Programming_Assingment2`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `Debug/` (folder)
 - `PA2_Output.txt` (file)
 - `Programming_Assignment2.cpp` (file)
 - `Programming_Assignment_2.cpp` (file)
@@ -12,4 +15,4 @@ Path: `CppProjects/Programming_Assingment2/Programming_Assingment2`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

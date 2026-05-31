@@ -2,6 +2,10 @@
 
 Path: `EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
 - `Assignment2 (3A)2/` (folder)
@@ -9,4 +13,4 @@ Path: `EET-110/Visual Studio 2008/Projects/Assignment2 (3A)2`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

@@ -2,9 +2,12 @@
 
 Path: `Data Extructure /BCS-317/test/test`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `Assignment2.txt` (file)
 - `header.h` (file)
 - `source.cpp` (file)
 - `sources.cpp` (file)
@@ -12,4 +15,4 @@ Path: `Data Extructure /BCS-317/test/test`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

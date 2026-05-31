@@ -2,9 +2,12 @@
 
 Path: `CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `Debug/` (folder)
 - `BillsComparision.h` (file)
 - `BillsComparisonIMP.cpp` (file)
 - `ComaparingBills.cpp` (file)
@@ -12,4 +15,4 @@ Path: `CppProjects/PersonalProjects/MarksBillComparing/MarksBillComparing`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

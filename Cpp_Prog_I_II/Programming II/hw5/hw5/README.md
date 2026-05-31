@@ -2,11 +2,13 @@
 
 Path: `Cpp_Prog_I_II/Programming II/hw5/hw5`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `Debug/` (folder)
 - `Assigment5_input.txt` (file)
-- `AssignmentNo5_output.txt` (file)
 - `hw5 (2).cpp` (file)
 - `hw5 (2).vcproj` (file)
 - `hw5.cpp` (file)
@@ -15,4 +17,4 @@ Path: `Cpp_Prog_I_II/Programming II/hw5/hw5`
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

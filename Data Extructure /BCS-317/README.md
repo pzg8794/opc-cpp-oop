@@ -2,6 +2,10 @@
 
 Path: `Data Extructure /BCS-317`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
 - `Assignment3/` (folder)
@@ -23,44 +27,13 @@ Path: `Data Extructure /BCS-317`
 - `testing/` (folder)
 - `TrueFalse/` (folder)
 - `WallPost/` (folder)
-- `Arthur_Hoskey_BCS_370_Fall_2011_Syllabus.doc` (file)
-- `Assignment2.txt` (file)
-- `Assignment_1_-_BCS_370_Data_Structures.doc` (file)
-- `Assignment_2_-_BCS_370_Data_Structures.doc` (file)
-- `Assignment_3_-_BCS_370_Data_Structures.doc` (file)
-- `Assignment_4_-_BCS_370_Data_Structures.doc` (file)
-- `Assignment_5_-_BCS_370_Data_Structures.doc` (file)
-- `BCS_370_L10_-_Ch_4.ppt` (file)
-- `BCS_370_L11_Lab_-_Sorted_List.ppt` (file)
-- `BCS_370_L12_-_Exam_2_Review.ppt` (file)
-- `BCS_370_L13_-_Ch_5_p1.ppt` (file)
-- `BCS_370_L15_-_Ch_5_p2.ppt` (file)
-- `BCS_370_L17_-_Ch_7.ppt` (file)
-- `BCS_370_L18_Lab_-_Recursion.ppt` (file)
-- `BCS_370_L19_-_Ch_8_p1.ppt` (file)
-- `BCS_370_L1_-_C___Review (1).ppt` (file)
-- `BCS_370_L1_-_C___Review.ppt` (file)
-- `BCS_370_L20_-_Ch_8_p2.ppt` (file)
-- `BCS_370_L21_-_Ch_8_p3.ppt` (file)
-- `BCS_370_L22_Lab_-_Binary_Search_Tree.ppt` (file)
-- `BCS_370_L2_-_Classes_p1.ppt` (file)
-- `BCS_370_L2_-_Classes_p2.ppt` (file)
-- `BCS_370_L2_-_Employee_Class_Lab_Exercise (1).docx` (file)
-- `BCS_370_L2_-_Employee_Class_Lab_Exercise.docx` (file)
-- `BCS_370_L3_-_Pointers_p1.ppt` (file)
-- `BCS_370_L4_Lab_-_Wall_Post.ppt` (file)
-- `BCS_370_L5_-_Pointers_p2.ppt` (file)
-- `BCS_370_L7_-_Ch_2.ppt` (file)
-- `BCS_370_L8_-_Ch_3.ppt` (file)
-- `BCS_370_L9_Lab_-_Pointers_TrueFalseQuest.ppt` (file)
 - `C++ Tutorial  Quiz - Linked List.htm` (file)
 - `Commenting_Guidlines.doc` (file)
 - `Dynamic memory with C++  Linked lists -ElectroSofts.com.htm` (file)
 - `Lab 1.cpp` (file)
-- `LinkedUnsortedLists.ppt` (file)
 - `Output-Build.txt` (file)
 - `TestLinkedList.cpp` (file)
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

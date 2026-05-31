@@ -2,23 +2,23 @@
 
 Path: `Data Extructure /BCS-317/Assignment4/Assignment4`
 
+## Purpose
+
+Indexed project directory from the old Portafolio cleanup.
+
 ## Items
 
-- `Assignment4.txt` (file)
 - `Assignment4.vcxproj` (file)
 - `AuthorSignature.cpp` (file)
 - `BaseballPlayers.cpp` (file)
 - `BaseballPlayers.h` (file)
-- `BaseballPlayers4.txt` (file)
 - `header4.h` (file)
 - `MainFile.cpp` (file)
 - `MyQueue.cpp` (file)
 - `MyQueue.h` (file)
-- `MyQueue4.txt` (file)
 - `MyStack.cpp` (file)
 - `MyStack.h` (file)
-- `MyStack4.txt` (file)
 
 ## Notes
 
-This directory was indexed from the old Portafolio Drive source. Large binaries and archives may remain Drive-only.
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.

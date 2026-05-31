@@ -1,0 +1,15 @@
+# AssignmentNo2 (3)
+
+Path: `reports/Data Extructure /Data Structure I/AssignmentNo2 (3)`
+
+## Purpose
+
+Report, lab, assignment, and final-project documents staged for future Overleaf conversion or citation.
+
+## Items
+
+- `Assignment2.txt` (file)
+
+## Notes
+
+README generated during the old Portafolio cleanup. Use the root README and `OVERLEAF_PREP.md` for source and conversion context.
